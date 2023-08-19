@@ -93,8 +93,8 @@ you! Here's a little something to say thanks."
 "6e54cbe","You got a Fishing Rod!"
 "75b6a13f","You guys have come at a good time! I need your help with
 something."
-"76b6a292","I'm looking for some fertilizer to help make a tasty fruit,
-but I'm having a little trouble... That's where you come in."
+"76b6a292","I'm looking for fertilizer to help me make some tasty meat,
+but I'm having a little trouble. That's where you come in."
 "77b6a405","No problem!
 I'm a little busy right now..."
 "70b69900","Awesome, thanks! You're the best."
@@ -105,7 +105,7 @@ when you find them!"
 Wait, say that again...?"
 "7cb6ac24","Hee hee, I'll be waiting!"
 "7db6ad97","Bring me a Cheerful Apple, a Digistalk, and a Salty Fruit
-when you find them!"
+whenever you can! Got all that?"
 "7ab8e7b5","What, you won't help? Hmph, fine then! I'll look by myself!"
 "d73b44","Welcome back! Did you find the items I need as fertilizer?"
 "3d7401d","I need a little more time...
@@ -124,11 +124,11 @@ I got everything! Here you are."
 please!"
 "8d53fa3d","Bring me a Cheerful Apple, a Digistalk, and a Salty Fruit,
 please!"
-"8a53f564","Oh sweet, you brought all three!"
+"8a53f564","Oh sweet! You brought all three of 'em!"
 "8a53f565","You handed over the Cheerful Apple, Digistalk and Salty
 Fruit!"
 "8b53f6d7","Thanks a bunch! Just what I needed for my fertilizer.
-Alright, time to make a delicious fruit!"
+Alright, time to grow some delicious meat!"
 "8053e5a6","Palmon joined the city!"
 "5367c5f0","...Huh? I haven't seen you around these parts...
 Hey, wait a minute! Are you one of them...humans?!"
@@ -149,7 +149,7 @@ Honestly, I don't care."
 ever change your mind. See you then!"
 "5c67d3db","Allll riiight, I could tell you were a sharp one! Now then,
 check out this bad boy."
-"5b67d268","Ta-daaah! A Recovery Disc! Just what every Tamer needs!
+"5b67d268","Ta-daaah! A Recovery Disk! Just what every Tamer needs!
 I can let it go now for a paltry sum of 100 <icon>BIT</icon>!"
 "6e65b19a","So whaddaya think? "
 "6f65b30d","Thanks, but no thanks.
@@ -199,7 +199,7 @@ someone without the scratch to pay for it!"
 "e7605fc7","Listen, everyone makes mistakes! No worries, get a little
 more cheddar in that wallet and come on back!"
 "e86061ba","Tentomon joined the city!"
-"e960632d","You got Recovery Disc x 1!"
+"e960632d","You got Recovery Disk x 1!"
 "215c9f6b","...Huh? I haven't seen you around these parts...
 Wait a minute! Are you one of them...humans?!"
 "225ca0de","Boy howdy! It must've been fate that brought us together!
@@ -315,8 +315,8 @@ I'm still too weak..."
 I have no idea what you're talking about..."
 "b3d27897","YOU ARE A GOOD HUMAN!"
 "b2d27724","ROYAL DIGIJELLY IS ON THE FOREST PATH IN NIGH PLAINS."
-"a5d02436","YOU DO NOT UNDERSTAND? YOU ARE NOT THE SHARPEST KNIFE IN THE
-DRAWER, ARE YOU?"
+"a5d02436","YOU DO NOT UNDERSTAND? YOU ARE NOT THE 
+SHARPEST KNIFE IN THE DRAWER, ARE YOU?"
 "252362a7","I AM STARVING. PLEASE BRING ME ROYAL DIGIJELLY!"
 "2623641a","ROYAL DIGIJELLY IS ON THE FOREST PATH IN NIGH PLAINS."
 "7b5986ba","You got Royal Digijelly!"
@@ -496,7 +496,7 @@ are you gonna use it for?"
 "e71792c","Hey you! Come help me out over here!"
 "11717de5","?"
 "10717c72","The truth is, my brother Leomon is fighting a tough battle
-in Ohguino Wastelands beyond this sand wall..."
+in the Ohguino Wilderness beyond this sand wall..."
 "b717453","I want to destroy this wall and go help at once, but the
 turbines on my arms got sand in them and broke down..."
 "a7172e0","I can't use my special moves like this! That's why I need
@@ -525,10 +525,10 @@ Special move...the King of Fists!!!"
 "177ce67b","Whew... Now I can finally go help Leomon. ...Ugh, what
 the--?!"
 "167ce488","Oh no! It looks like my repairs weren't finished..."
-"157ce315","Using my special move has scorched my turbines are all
-scorched... I don't think I can go on like this..."
+"157ce315","My turbines are all scorched from using my special move...
+I don't think I can go on like this..."
 "147ce1a2","...Oh, I know! Could you go instead?"
-"177aa784","Please, go to Ohguino Wastelands and help Leomon for me!"
+"177aa784","Please, go to the Ohguino Wilderness and help Leomon for me!"
 "187aa977","I'll go for you!
 That's a bit much..."
 "197aaaea","You have my thanks! I apologize for all these requests, but
@@ -606,7 +606,7 @@ Looking forward to seeing you again in the city!"
 Colosseum lately..."
 "38a8660b","I am MirageGaogamon... Once I was known far and wide as a
 champion of the city Colosseum..."
-"37a86498","I heard whispers on the wind of you, and now I wish to
+"37a86498","I heard whispers in the wind of you, and now I wish to
 engage you in combat..."
 "3ea86f9d","If you can beat me in 30 seconds, I promise to become your
 ally. What do you say?"
@@ -729,7 +729,8 @@ Fight me, and prove you have what it takes!"
 "d4df673a","...and for me to offer my assistance! When next we meet,
 this power is at your command."
 "cfdf5f1b","Leopardmon joined the city!"
-"40abdb5f","Who the heck're you?! You got something to say to Gumdramon?"
+"40abdb5f","Wait, am I getting ahead of myself? You got something you
+wanna say to me first?"
 "41abdd32","Zudomon says sorry!
 Nah, I got nothing to say to you..."
 "42abdea5","Eh, my master said that?! ...Even though it was my bad...
@@ -787,16 +788,16 @@ the Digi-bone!"
 "a691c5b2","...Okay, I've decided! I'm gonna go to the city and set up
 a place just for you!"
 "a791c725","The Digital World will be groovin' to our tunes, man!"
-"a091bc20","OmniShoutmon joined the city!"
+"a091bc20","OmegaShoutmon joined the city!"
 "b6b3dcf3","What do you want? This one does not know you."
 "b7b3de66","Someone told you to come here? Hmph, no one comes to mind."
 "b8b3dfd9","Give back the Myobrella you stole!
-I think I got the wrong person."
+...Or maybe not."
 "b9b3e14c","""Myobrella""? This one has not heard of such a thing."
 "bab3e33f","Nor has this one met a Myotismon..."
 "bbb3e492","...Oh! Uhhhh... Wait, forget this one said anything."
-"bcb3e605","It was a slip of the tongue, I know not of this Digimon!
-If you would doubt me, fight and find out for yourself!"
+"bcb3e605","It was a slip of the tongue, this one knows not of such a Digimon!
+If you would doubt this one, fight and find out for yourself!"
 "bdb3e7f8","If you have no business for this one, be on your way."
 "d98a95d8","Aaaaugh! This one was defeated so readily...!"
 "dc8a9a91","Hmph... Very well, this one admits it. You have indeed found
@@ -809,7 +810,7 @@ question held to its original owner."
 would fetch a paltry sum at the market."
 "e08aa0dd","Well, one 'mon's trash is another 'mon's treasure..."
 "df8a9f6a","Oh, it is to protect against the harmful rays of the sun?
-But Myotismon looked fine to me...perhaps it's for fashion?"
+But Myotismon looked fine to this one... perhaps it's for fashion?"
 "d18a8960","At any rate, this one will return what was stolen."
 "548785c2","You retrieved the Myobrella!"
 "558787b5","Apologies, this one seeks no profit, but a treasure hunter's
@@ -825,7 +826,7 @@ I think I got the wrong person."
 "51ba4f19","But before that, one should not start such talk with a full
 inventory, Tamer."
 "4eba4a40","This one knows nothing of items stolen by nefarious Digimon.
-I leave that matter to you."
+That matter is left to you."
 "4fba4c33","If you have no business for this one, be on your way."
 "4ac628fd","...Hmm? Hey, what's your deal?!"
 "47c62424","(You talked about Angemon.)"
@@ -837,7 +838,7 @@ wounds!"
 "43c61df8","If you won't skedaddle, I'll show you what I'm made of!"
 "44c61f6b","Ow-ow-ow... You won't fool me!"
 "531a961e","*tsk* You again?! You're a stubborn one, ain't ya?"
-"521a94ab","If you're gonna be Angemon's lapdog, then come at me, dude!"
+"521a94ab","If you're gonna be Angemon's lapdog, then come at me!"
 "e51145cb","Ouchie-wah-wah... Aw man... Angemon's gonna dissect me
 for sure..."
 "e61147be","...Huh? I wont be dissected? But isn't that what medicine's
@@ -879,7 +880,7 @@ simply allow some nobody to pass through."
 "96114fd7","You're going down!
 I'm not ready yet..."
 "9711514a","Ho ho! You think you can beat me?! I'll burn that confidence
-to the ground!"
+right to the ground!"
 "9811533d","I see...going at it half-cocked will barely light a fire
 under us... I look forward to fighting you. I'll wait here!"
 "c41c7030","You're back! Does that mean you're in tip-top shape?!"
@@ -914,9 +915,9 @@ us! Now then, show me your stuff!"
 ""2  3  5  7  X  13"""
 "ae3e27","If X is 9, then this is the real me. If not...a clone."
 "fdae396e","What is your answer?"
-"feae3ac1","The answer isn't 9! You're a clone!
-The answer is 9! It IS the real you!"
-"fbae3608","...In that case, ask one of the other ones their question."
+"feae3ac1","The answer isn't nine! You're a clone!
+The answer is nine! It IS the real you!"
+"fbae3608","...In that case, ask one of the other ones for their question."
 "fcae37fb","...Incorrect."
 "f9ae3322","According to this rule, the answer for X is 11!"
 "faae3495","As promised, you will fight all three of us!"
@@ -925,22 +926,22 @@ The answer is 9! It IS the real you!"
 and you're out. What do you get if you add up all the Xs?"
 "3c7b9586","If X is 9, then this is the real me. If not...a clone."
 "3f7b9a5f","What is your answer?"
-"3e7b98ec","The answer isn't 9! You're a clone!
-The answer is 9! It IS the real you!"
-"417b9da5","...In that case, ask one of the other ones their question."
-"407b9c32","Splendid! You are correct, Tamer!!!"
-"437ba08b","All of these sayings have 3 in them...so when you add them
-up, they equal 9!"
+"3e7b98ec","The answer isn't nine! You're a clone!
+The answer is nine! It IS the real you!"
+"417b9da5","...In that case, ask one of the other ones for their question."
+"407b9c32","Splendid! You are correct!"
+"437ba08b","All of these sayings have three in them...so when you add
+them up, they equal nine!"
 "427b9f18","As promised, my clones are no more...and I alone remain,
 to engage you in battle!"
 "410ddb7f","Now then, here is a question."
-"420ddcd2","June is 6th month, July is the 7th month, August is the 8th
+"420ddcd2","June is the 6th month, July is the 7th month, August is the 8th
 month...and November is the Xth month."
 "430dde45","If X is 9, then this is the real me. If not...a clone."
 "3c0dd340","What is your answer?"
-"3d0dd533","The answer isn't 9! You're a clone!
-The answer is 9! It IS the real you!"
-"3e0dd6a6","...In that case, ask one of the other ones their question."
+"3d0dd533","The answer isn't nine! You're a clone!
+The answer is nine! It IS the real you!"
+"3e0dd6a6","...In that case, ask one of the other ones for their question."
 "3f0dd819","...Incorrect."
 "480de664","November is the eleventh month of the year, so the answer
 for X is 11!"
@@ -956,13 +957,13 @@ show my face to our lord..."
 attend to."
 "db02665d","I'm listening!
 I refuse!"
-"da0264ea","Thank you, kind one! I am Susanoomon, and we are in a race
-against time. I need you to stop a rampaging Digimon..."
+"da0264ea","Thank you, kind one! It is a race against time. I need you
+to stop that rampaging Digimon..."
 "d5025ccb","That Digimon is Examon...one of the Royal Knights!"
 "d4025b58","I don't know why, but this Digimon is running wild. If I was
 at full power, I could put up a fight..."
-"d7026011","...but I have also just awoken as the world fell into peril.
-As of now I'm at about half strength."
+"d7026011","...but I have just awoken, and it seems that foe is somehow
+preventing me from replenishing my energy."
 "d6025ebe","Examon should also be one of this world's protectors...
 Well, whatever the reason...I need you to stop this rampage!"
 "d102569f","Ugh...but you're the only one I can ask...!"
@@ -975,7 +976,7 @@ I wonder what was the cause of all that?"
 "548ee1f","What...a fishbone...? Ha ha ha! Who would've thought?!"
 "448ecac","If it ever happens again, I'll be that knight's opponent.
 I'll think of it as a bit of exercise!"
-"348eb39","Susanoomon joined the city!"
+"348eb39","Susanomon joined the city!"
 "92b4520f","Hey, long time no see, {0}!"
 "93b453e2","Oh, sorry if I freaked you out. Think of it as a bad joke."
 "94b45555","I heard you used to be Tamer to a WarGreymon like me..."
@@ -1243,8 +1244,8 @@ Room."
 know about that? ...Wait, exactly how much do you know?!"
 "7a7df0f5","Like our plan to fire the Rose Palace laser using solar
 power stolen from ShineGreymon..."
-"737de5f0","...laying waste to the Meaty Troop Digimon and Ohguino
-Wastelands?!"
+"737de5f0","...Like about laying waste to the Meaty Troop Digimon and
+Ohguino Wilderness? You know about all that?!"
 "747de763","Uh, you just told me everything...you all right?
 I'm...gonna pretend I didn't hear that."
 "757de8d6","Why, you... Now that you know our secret, here's no way
@@ -1252,11 +1253,11 @@ I can let you leave!"
 "767dea49","...Well then get out of here, right now!"
 "2ea064b4","It's the shady human... I guess you DO want to stop our plan
 to fire a laser powered by ShineGreymon..."
-"31a0690d","...where we shoot a laser using ShineGreymon's solar power,
-laying waste to the Meaty Troops and Ohguino Wastelands?!"
+"31a0690d","...Like how we'll shoot a laser using ShineGreymon's solar
+power, laying waste to the Meaty Troops and Ohguino?!"
 "58697721","Wait a minute... Don't tell me you know about the real
 mastermind behind this...?"
-"55697268","The one enticing Rosemon to raze the Ohguino Wastelands so
+"55697268","The one enticing Rosemon to raze the Ohguino Wilderness so
 we can develop the land afterwards...?"
 "566973db","Bony Resort's Myotis...mon...!"
 "5b697bfa","...!"
@@ -1266,9 +1267,9 @@ we can develop the land afterwards...?"
 Room!"
 "e181e52b","I cannot let anyone go past here without Lady Rosemon's
 permission! Get out of here, right now!"
-"ca274138","Hey you! What do you want here?!"
+"ca274138","Hey you! What're you doing here?!"
 "cd2745f1","I am Leomon, the leader of the Meaty Troops of the Ohguino
-Wastelands."
+Wilderness."
 "cc27441e","I came on behalf of GrapLeomon!
 I have nothing to tell you."
 "cf2748d7","What? You came on behalf of GrapLeomon! Did something happen
@@ -1290,7 +1291,7 @@ an important time. Please calm yourself and come back again."
 "c424f8cf","Ohh! Yeah, that's our motto! Okay, I can trust you, please
 help us out in GrapLeomon's place!"
 "c124f476","The truth is, us Meaty Troops and Rosemon's Veggie Troops
-are clashing here in the Ohguino Wastelands..."
+are clashing here in the Ohguino Wilderness..."
 "c224f5e9","In a meat field in the corner of these vast wastelands,
 Rosemon erected a structure known as the the Rose Palace..."
 "bf24f110","Ever since that day, the Digimon of that area have
@@ -1305,10 +1306,10 @@ I know it's out of the blue, but...I have a request for you!"
 If you can, try and get some info out of the Veggie Troops!"
 "be22b0c6","This place is full of hot-blooded Digimon... It'll be tough,
 but we're counting on you!"
-"9dd82353","We need you to understand more about the Ohguino Wastelands.
+"9dd82353","We need you to understand more about the Ohguino Wilderness.
 Try and get some info out of the Veggie Troops!"
 "9ed824c6","It'll be tough, but we're counting on you!"
-"9183af86","You've learned what's happening in the Ohguino Wastelands!"
+"9183af86","You've learned what's happening in the Ohguino Wilderness!"
 "9083ae13","({0} explained everything that's happened.)"
 "8f83aca0","Those damn Veggie Troops... I can't believe they're being
 so cruel to the other Digimon..."
@@ -1346,23 +1347,23 @@ well-prepared!"
 "db1bfcf7","({0} explained everything that's happened.)"
 "da1bfb04","I see... ShineGreymon must have been exhausted..."
 "d91bf991","That damn Rosemon! To think they plan to burn down all of
-the Ohguino Wastelands with a laser!"
+the Ohguino Wilderness with a laser!"
 "d81bf83e","We have to stop that plan, no matter what it takes!"
 "d71bf64b","But just in case, let's evacuate the Digimon around here!
 I'll stay here and direct things!"
 "d61bf4d8","Please head to their headquarters in the Rose Palace, and
 prevent them from firing that laser!"
-"d51bf365","The Ohguino Wastelands, and the lives of all the Digimon who
+"d51bf365","The Ohguino Wilderness, and the lives of all the Digimon who
 live here, are counting on you! Good luck!"
 "45156dd","I want you to head to the Rose Palace, and prevent Rosemon
 from firing that laser!"
-"1515204","The Ohguino Wastelands, and the lives of all the Digimon who
+"1515204","The Ohguino Wilderness, and the lives of all the Digimon who
 live here, are counting on you! Good luck!"
 "e6e36730","You stopped Rosemon from firing the laser? That's amazing!"
 "e9e36b89","Our long battle is finally over...and peace has once again
 returned to this land..."
 "e8e36a16","All of this is thanks to your hard work! The Meaty Troops...
-no, all of us Digimon in the Ohguino Wastelands thank you!"
+no, all of us Digimon in the Ohguino Wilderness thank you!"
 "ebe36eef","You are truly the savior of all meat...and our friend!"
 "eae36d7c","Now that I think about it, former allies and enemies are
 working together in Floatia, aren't they?"
@@ -1437,7 +1438,7 @@ That's why I'll support you from the city!"
 "9b43c691","IT IS I, HERCULESKABUTERIMON..."
 "9843c1d8","BEYOND THIS POINT IS LADY ROSEMON'S ROOM..."
 "9943c34b","NONE MAY PASS!"
-"9e43cb6a","AND I SHALL SOUNDLY TROUNCE YOU IF YOU MAKE THE ATTEMPT!"
+"9e43cb6a","AND I SHALL SOUNDLY TROUNCE YOU IF YOU ATTEMPT TO PASS!"
 "9f43ccdd","You won't trounce me! Bring it!
 (Let's back off...)"
 "9c43c804","BE WARNED THAT I AM QUITE TENACIOUS! I SHANT BE DEFEATED!!!
@@ -1445,7 +1446,7 @@ NO HARM SHALL BEFALL LADY ROSEMON!!!"
 "9d43c9f7","THIS IS ROSEMON'S PALACE! GO, AND NEVER RETURN!!!"
 "34667852","YOU RETURNED, DESPITE MY WARNINGS! BEYOND THIS POINT IS LADY
 ROSEMON'S ROOM... YOU SHALL NOT PASS!!!"
-"336676ff","AND I SHALL SOUNDLY TROUNCE YOU IF YOU MAKE THE ATTEMPT!"
+"336676ff","AND I SHALL SOUNDLY TROUNCE YOU IF YOU ATTEMPT TO PASS!"
 "39c1a6df","...UGH...WHAT...WHAT WAS I DOING...?"
 "3ac1a8b2","I SEE. I WAS UNDER ROSEMON'S SPELL... HOW EMBARRASSING. "
 "3bc1aa25","I SUPPORT NEITHER THE MEAT NOR THE VEGGIE FACTIONS...
@@ -1456,8 +1457,8 @@ I LOOK FORWARD TO THE DAY YOU END THIS CONFLICT."
 "eb1c1094","It's about time you showed up. You're that human siding with
 the Meaty Troops and mucking up my plans..."
 "ee1c156d","Well, too late! With the energy harvested from ShineGreymon,
-the laser's ready to fire on the Ohguino Wastelands!"
-"ed1c13fa","Those savage Meaty Troops and all of the Wastelands will go
+the laser's ready to fire on the Ohguino Wilderness!"
+"ed1c13fa","Those savage Meaty Troops and all of the Wilderness will go
 up in flames! But it's no fun in firing it right away..."
 "e81c0bdb","I know! I'll give you one last chance... Fight me, and try
 to stop me from firing the laser cannon!"
@@ -1465,7 +1466,7 @@ to stop me from firing the laser cannon!"
 Just...gimme a second..."
 "ea1c0f21","Ho ho ho... I'll get rid of you before I take down those
 Meaty Troop fools!"
-"e91c0d4e","Your fear has gotten the better f you, has it? Very well...
+"e91c0d4e","Your fear has gotten the better of you, has it? Very well...
 I can wait a little while longer!"
 "2716d40f","You finally came back... If you don't hurry, I might change
 my mind and fire the laser right here and now, you know?"
@@ -1522,7 +1523,7 @@ I must continue to associate with all of you."
 did you come to save me in the first place?"
 "72de55d8","({0} explained the situation.)"
 "79de60dd","I see... While I've been captured, such a fate has befallen
-these Ohguino Wastelands..."
+this Ohguino Wilderness..."
 "78de5f6a","*huff huff* My body...something's wrong...
 Am I...out of energy?!"
 "77de5df7","?!"
@@ -1532,18 +1533,19 @@ this device during my imprisonment..."
 stolen energy to fire a laser..."
 "6cde4c46","There's not a lot of time before the cannon fires... Sorry
 to ask, but please return to Leomon and ask for his advice."
-"efdb4928","My beloved Ohguino Wastelands are in danger. I wish I could
+"efdb4928","My beloved Ohguino Wilderness is in danger. I wish I could
 fight with you, but this body would only get in your way..."
 "f0db4a9b","Sorry to ask right after you rescued me...but for the sake
 of restoring peace to this land, lend us your strength!"
-"f1db4c0e","ShineGreymon joined the city!"
+"f1db4c0e","I see, you stopped them from firing the laser! Please, go
+tell Leomon at once!"
 "f930461d","...Oh, it's you! Thanks for all your help in that battle
 against the Veggie Troops."
 "f6304144","See, the thing is...my body took a lot of damage from having
 all that solar energy drained out of it by that device..."
 "f7304337","But thanks to all your hard work, peace has returned to
-these Ohguino Wastelands..."
-"f4303e7e","That is why I can end my watch over the Wastelands without
+these Ohguino Wilderness..."
+"f4303e7e","That is why I can end my watch over the Wilderness without
 worry, and heal myself with this warm light shining down..."
 "f5303fd1","Oh yes... I haven't thanked your properly yet...okay, I'll
 make you a promise here and now!"
@@ -1557,7 +1559,7 @@ against the Veggie Troops."
 "b6f94ba2","See, the thing is...my body took a lot of damage from having
 all that solar energy drained out of it by that device..."
 "b7f94d15","But thanks to all your hard work, peace has returned to
-these Ohguino Wastelands..."
+this Ohguino Wilderness..."
 "b0f94210","That is why I could end my watch over these wastelands
 without worry, and heal myself in this warm sunlight..."
 "b1f94383","Please allow me to thank you again!"
@@ -1565,12 +1567,12 @@ without worry, and heal myself in this warm sunlight..."
 "b3f946e9","ShineGreymon joined the city!"
 "5e52764d","Dee hee! Say, man, you like treasure? I bet you do!"
 "5b5271f4","?"
-"5c527367","The thing is, this here MOD Cape is the final resting place
-for a marauder that sailed the Digi-seas!"
-"59526eae","According to legend, this pirate captain Digimon lived here
-after his retirement..."
-"5a527001","...and hid the super-valuable Holy Chalice somewhere around
-here! That's where you come in, buddy..."
+"5c527367","The truth is, a great pirate of the Digi-seas finally wound up
+here after his last voyage!"
+"59526eae","According to legend, the captain retired from the seas, and
+lives here to this day..."
+"5a527001","There's a super-valuable Holy Chalice hidden somewhere
+around here! That's where you come in, buddy..."
 "57526b48","Would you look for the Holy Chalice? We can sell it and
 split the profits 50/50!"
 "58526d3b","Sure!
@@ -1748,7 +1750,7 @@ your way for me like this!"
 punk felt bad about the whole thing too, did he?"
 "7984dd17","...What? He said he's gonna go wait for me in the city?!
 Lookit this guy, going the extra mile!"
-"7884dba4","I made you worry too, didn't I, buddy...my bad. Master and
+"7884dba4","I made you worry too, didn't I, buddy? ...my bad. Master and
 apprentice will be back together in no time! Peace out!"
 "7784da31","Zudomon joined the city!"
 "97fb8699","Well now, we've got ourselves a human here! What're you
@@ -1805,7 +1807,7 @@ Who, me? Nope..."
 "8e520bd2","A Fishy Picture's something you get from fish, right?
 I ain't a fish, I'm a Digimon!"
 "8d520a7f","And not any old Digimon, either. Among sea dragon types, I'm
-an elite Ultimate Digimon!"
+an elite Perfect Digimon!"
 "8c52088c","You'd do best to remember..."
 "935213f1","(You talked about Gomamon.)"
 "9252121e","Gomamon! Huh... I got no idea what that squirt is
@@ -1849,7 +1851,7 @@ gonna eat it, aren't you?!"
 "fba23042","No more excuses, I've got all the proof I need."
 "fca23235","Let's put it to the test! If you don't come around here,
 the Digisalmon population should return to normal!"
-"fda233a8","...I won't let you do any more fishing! Alright, now get
+"fda233a8","...I won't let you do any more fishing! All right, now get
 outta here!"
 "e691d48","Urrgh, what'd you say?! But if it's not you, then who..."
 "11692201","...?"
@@ -1898,8 +1900,8 @@ I'll wait here until that time..."
 "2091c4b6","{0}... I was growing impatient..."
 "1f91c2c3","Are you in the mood to fight this time...?"
 "2e236c83","Heh heh... You're just as interesting as I'd imagined!"
-"2f236e76","I, who fights alone, and you, who fights with two Digimon...
-we do things differently, yet we seek the same strength."
+"2f236e76","I, who fight alone, and you, who fight with two Digimon...
+We do things differently, yet we seek the same strength."
 "30236fe9","When's the last time I had such a satisfying bout...?
 I thank you for accepting my request!"
 "3123715c","Beelzemon joined the city!"
@@ -1945,13 +1947,13 @@ BRING IT TO ME!"
 Ohh, I get it! ...Wait, nope, I don't get it."
 "b164598e","I REQUIRE A HAGURU GEAR FOR MY REPAIR. HAGURUMON IS IN
 POSSESSION OF SAID PART."
-"b2645b61","HAGURUMON IS IN THE CONTROL ROOM OF FAULTY EX MACHINA!
+"b2645b61","HAGURUMON IS IN THE CONTROL ROOM OF FAULT EX MACHINA!
 I HAVE AN URGENT TASK AS WELL! PLEASE HURRY BACK!"
 "2f675e9f","SORRY... MY SETTINGS PRIORITIZE BATTLE PROWESS OVER
 LINGUISTIC ABILITY..."
 "702e56ea","PLEASE BRING THE PART I NEED TO REPAIR MY BODY...THE HAGURU
 GEAR."
-"6f2e5577","HAGURUMON IN THE CONTROL ROOM OF FAULTY EX MACHINA SHOULD
+"6f2e5577","HAGURUMON IN THE CONTROL ROOM OF FAULT EX MACHINA SHOULD
 HAVE IT! PLEASE HURRY AND GET IT!"
 "ed9b4ad7","YOU BROUGHT THE HAGURU GEAR?"
 "ee9b4c4a","You handed over the Haguru Gear!"
@@ -2016,11 +2018,11 @@ been standing there?"
 (Just pretend like you didn't see anything...)"
 "a5c82394","I might just be lucky, you know? Help me out here."
 "a4c82221","Lately two ferocious Digimon have been fighting here in
-Faulty Ex Machina...rampaging anytime and any place."
+Fault Ex Machina...rampaging anytime and any place."
 "a3c8204e","Those two Digimon are MetalGreymon and MetalTyrannomon!"
 "a2c81edb","They never stop once they start going at it, but things have
 actually gotten serious..."
-"a1c81d68","I've stopping them time and time again, but I had to give up
+"a1c81d68","I've stopped them time and time again, but I had to give up
 to save myself. Still, maybe you can do something to help?"
 "a0c81bf5","...Hmph, acting like you can't hear me, huh?"
 "e3957e59","Please do something about this massive brawl between
@@ -2045,7 +2047,7 @@ and tell me your electronic brain ain't on the fritz!"
 "4127c080","Who the heck're you?! Outsiders should back off! If you plan
 on getting in the way, I'll start by filling you with holes!"
 "4227c273","Hey, you there! This ain't a spectator sport! Clear off if
-you don't want to get hurt!"
+you don't wanna get hurt!"
 "fd3428e6","Not you again?! I told you this ain't a show! Don't get in
 our way!"
 "fc342773","If you don't want to get caught up in this fight, I suggest
@@ -2201,8 +2203,8 @@ How many horns do Lopmon and Terriermon have altogether?"
 "2357c795","Four horns
 Five horns
 Nine horns"
-"2257c622","Correct again! Lookit the brainiac over here! Lopmon's
-single horn plus Terriermon's three horns add up to four!"
+"2257c622","Correct again! Lookit the brainiac over here! Terriermon's
+single horn plus Lopmon's three horns add up to four!"
 "1d57be03","BZZZT!!! Soooo wrong!"
 "1c57bc90","That's all she wrote, buddy. But come back and try again!"
 "d3ca50f3","All right, time for your final question!"
@@ -2222,7 +2224,7 @@ it, too..."
 Anything is okay, really."
 "591c3f45","Will do! Since you asked so nicely, we'll join everyone in
 the city!"
-"581c3dd2","Anything's okay? In that case, we'll come join the city!"
+"581c3dd2","Anything's okay? In that case, we'll go join the city!"
 "571c3c7f","It'll be fun hanging out with all the other Digimon there!"
 "561c3a8c","Sounds like a plan, Stan! Next time we meet, it'll be in the
 city! Byeee-byeee!"
@@ -2242,7 +2244,7 @@ the city, too."
 reason I can't contact him. Would you relay the message?"
 "97d34613","That's a shame... Sorry to hold you up. Still, if you change
 your mind, please come talk to me!"
-"4fbd8733","Garurumon should be in the Ohguino Wastelands."
+"4fbd8733","Garurumon should be in the Ohguino Wilderness."
 "50bd88a6","If you spot him, tell him to come back to the city for me,
 okay?"
 "d00f6de6","Oh, looks like you spoke to Garurumon! Wonder why I haven't
@@ -2329,9 +2331,9 @@ find him, a'ight?!"
 You can do it, buddy!"
 "5d02dff5","Wha'--HOW!!! You got a SkullGrey Ring?!"
 "5a02db3c","You handed over the SkullGrey Ring!"
-"5b02dcaf","AHH-WOO-WOO-WOOOOO! You're amazing, kid! Check it out, this
-engraving right here is just DOPE, ain't it?!"
-"5802d7d6","'S got a real, y'know, skull-y grey-y feel to it, yeah?
+"5b02dcaf","AHH-WOO-WOO-WOOOOO! You're amazing, kid! Check it
+out, this engraving right here is just DOPE, ain't it?!"
+"5802d7d6","S got a real, y'know, skull-y grey-y feel to it, yeah?
 It's perfect, just perfect..."
 "5902d949","Whoops, my bad, dawg. Lookit me, yappin' away like a lil'
 pup. I just gotta thank you, man!"
@@ -2353,7 +2355,7 @@ do. I'm so bored!"
 "41d27bbe","I want to do something to get the old motor running. That
 work for you?"
 "3cd2739f","Oh, okay... I don't understand you humans..."
-"8c72d37f","Oof, I surrender! Okay, here you, one ring. What do you plan
+"8c72d37f","Oof, I surrender! Okay, here's one ring. What do you plan
 to do with this, exactly?"
 "8d72d4d2","(You talked about WereGarurumon.)"
 "8e72d645","Oh, WereGarurumon said that, did he? I would've been more
@@ -2381,7 +2383,7 @@ Not a single thing!"
 "6d1904d3","To think you'd come here asking for an item with a full
 inventory... You humans sure are a funny bunch."
 "6c190360","Oh, okay... I don't understand you humans..."
-"e26adbc1","Oh hey, you there! Come chat a spell, I gotta talk to ya!"
+"e26adbc1","Oh hey, you there! Come chat a bit, I gotta talk to ya!"
 "df6ad708","?"
 "e06ad8fb","I'm holding this recital I've always wanted to do here in
 the city, and I was practicing to perfect my heavenly voice!"
@@ -2396,11 +2398,11 @@ You're pretty loud as-is, do you really need a mic?"
 "d96acdf6","Oh? You'll help me?! What a good little human you are!
 I wasn't wrong when I picked ya out of the crowd!"
 "da6acf69","This mic takes a Digi-Battery, ya dig? There should be more
-in Faulty Ex Machina's Control Room! Thanks, baby!"
+in Fault Ex Machina's Control Room! Thanks, baby!"
 "e76d2257","How rude can ya get, baby?! I'm aaaall shook up over here.
 I ain't never gonna ask you for nothin' again, hmph!"
 "5a9a9502","You've just GOTTA bring a Digi-Battery for my mic, okay,
-baby? It should be in Faulty Ex Machina's Control Room!"
+baby? It should be in Fault Ex Machina's Control Room!"
 "599a93af","I'm just dyin' to start singing again! The recital's almost
 here, so step on it, baby!"
 "2d812ecf","You got a Digi-Battery!"
@@ -2411,7 +2413,7 @@ for my mic!"
 "584a432f","*ahem* Testing, testing, 1-2-3! Ohhh ohhh ohhh, come gimme
 a big ol' kiss, bay-bayyyyyy!"
 "574a41bc","Aw yeah, it's perfect! Now I can practice all I like for the
-city recital!"
+recital!"
 "5a4a4675","Oh, now jus' one more thing... I haven't rented the recital
 space yet, baby."
 "594a4482","It's just 10 thou--oh, wait! I was just messin' around,
@@ -2448,7 +2450,7 @@ What a great idea. Uh...hold on..."
 So THAT'S what happened! I swallowed the medal last time..."
 "a0402255","...and flushed it down the toilet the next time I went!"
 "9f4020e2","...Jeez, I'm so sorry... This is all my fault... As a way of
-apologizing...Ill go to the city..."
+apologizing...I'll go to the city..."
 "a24025bb","PlatinumNumemon joined the city!"
 "21a2132d","I'm...Ophanimon... I am the minister of this church..."
 "1ea20e54","At this church...we are gathering...everyone's warm
@@ -2544,7 +2546,7 @@ look like Leviamon's had his fill yet, though..."
 You joining us, us joining you, what's the difference?"
 "5c53ebea","Barbamon, Creepymon and Leviamon joined the city!"
 "e186be3f","{0}, harbinger of peace for this world!
-I am known as Crusadermon, of the Royal Knights!"
+I am known as LordKnightmon, of the Royal Knights!"
 "e286bf92","In accordance with my mission, I request a bout with you!"
 "e386c105","The power that brought peace...is it really justice?
 Or is it evil that would dominate?"
@@ -2563,7 +2565,7 @@ unmistakably justice..."
 "f2240c38","I also felt your bond with the Digimon of this world..."
 "f3240dab","Please, continue to protect the peace of this world...
 When the time is right, you can count on my power!"
-"f824154a","Crusadermon joined the city!"
+"f824154a","LordKnightmon joined the city!"
 "fb701e62","Whew... The road of the collector is a demanding one..."
 "fa701c8f","?"
 "f9701b1c","My hobby is collecting Fishy Pictures! There's one I just
@@ -2762,7 +2764,7 @@ Digimon..."
 from the Concealed Gorge ahead of here."
 "341b5509","This presence grows by the day...and were it to break free,
 mayhap it could cover this entire world..."
-"311b50b0","And were a good Mega Digimon such as I to make contact with
+"311b50b0","And were a good Ultimate Digimon such as I to make contact with
 this pure evil, I fear the corruption might infect me..."
 "321b5223","That is why, pure-hearted hero...I need you to rout this
 evil in my place!"
@@ -2818,10 +2820,10 @@ Jesmon, you agree, don't you?!"
 "c500a1de","Glad you think so, too. Now then, we'll go to the city.
 I look forward to when we meet again!"
 "c800a697","Gankoomon and Jesmon joined the city!"
-"99ef3764","Hold on, now! This area here's off-limits... If you want
-through, you've gotta beat old Devimon here first!"
-"9cef3c3d","I beat you're thinking, ""it's just one opponent, what's the
-big deal?"" ...Surprised? I can read your mind, buddy..."
+"99ef3764","Hmph... I imagine you're itching to go on ahead, but if you
+want to pass, you'll have to defeat the Digimon before you."
+"9cef3c3d","I bet you're thinking, ""it's just one opponent, what's the
+big deal?"" ...Surprised? I can read your mind, buddy…"
 "9bef3a4a","Oh ho, now you're thinking, ""Is this some kinda trap? Still,
 I gotta keep going!"""
 "96ef32ab","Heh heh... You wanna push on, despite worrying about the
@@ -2909,15 +2911,17 @@ thank you somehow."
 return the favor. You'll see!"
 "23fe4c2e","Paildramon joined the city!"
 "36dd24cc","ARE YOUUU A HUUUMAN...?!"
-"39dd2985","HMM...I HAVE NOT SEEN YOUUU BEFORE..WHY ARE YOUUU HERE?"
+"39dd2985","HMM...I HAVE NOT SEEN YOUUU BEFORE...WHY ARE YOUUU HERE?"
 "38dd2812","Let me explain.
 I can't tell you."
-"33dd2073","I WAS BEATEN BY A DIFFERENT HUUUMAN FROM YOUUU, AND WOUUUND
-UP HERE."
-"32dd1e80","HMM, SO PALIDRAMON IS HERE, TOO, HUUUH...
-IN THAT CASE... NO, IT'S NOTHING..."
-"35dd2359","DANG, I CANNOT TRUUUST YOUUU RIGHT AWAY."
-"34dd21e6","I MUUUST TEST YOUUU, FIRST!"
+"33dd2073","I WAS BEATEN BY A DIFFERENT HUUUMAN FROM YOUUU, 
+AND WOUUUND UP HERE."
+"32dd1e80","MAYBE THAT HUUUMAN IS FURTHER AHEAD IN THIS AREA. YOUUU
+WOULD GO TO DEFEAT THEM, WOULDN'T YOUU."
+"35dd2359","IN THAT CASE...YOUUU AND I HAVE THE SAME GOAL. BUT DON'T
+THINK I CAN TRUST WHAT YOUUU SAY JUST LIKE THAT..."
+"34dd21e6","IF WHAT YOUUU SAY IS TRUE...THEN I MUUUST TEST YOUUU FIRST
+IN BATTLE!"
 "3fdd3317","HUUUMAN...YOUUU ARE INDEED UUUNTRUUUSTWORTHY."
 "b12e1d27","HMPH, I UUUNDERSTAND. YOUUU DO NOT LIE."
 "b22e1e9a","(You talked about Paildramon.)"
@@ -2928,7 +2932,8 @@ IN THAT CASE... NO, IT'S NOTHING..."
 "af2e19c1","IT SHOUUULD WORK THE SAME FOR PALIDROMON'S CARAPACE ARMOR."
 "a82e0edc","You got DigiPate!"
 "a92e104f","I STAYED HERE TO FIGHT THAT OTHER HUUUMAN ONCE AGAIN, BUT..."
-"b63063bd","I LEAVE IT TO YOUUU, PLEASE GO HELP PALIDRAMON!"
+"b63063bd","I FEEL SO REFRESHED AFTER FIGHTING YOUUU! MAYBE I'LL GO AND
+CHECK OUUUT FLOATIA."
 "b53061ca","Okuwamon joined the city!"
 "764413a","ARE YOUUU A HUUUMAN...?!"
 "6643f47","HMM...I HAVE NOT SEEN YOUUU BEFORE..WHY ARE YOUUU HERE?"
@@ -2943,9 +2948,9 @@ I can't tell you."
 centuries, and fear I am confused..."
 "4dd6e263","I want to go to a place called Floatia. Could you guide me
 there?"
-"52d6ea02","That is Taomon's Taoist charm, is it not? Open it up, and
+"52d6ea02","That is Taomon's Taoist charm, is it not? Use it, and
 boom..."
-"53d6ebf5","I cannot open it myself.
+"53d6ebf5","I cannot use it myself.
 Sorry, I have something to do."
 "50d6e73c","Oh my, is that so? Very well, I'll ask the 'mon himself..."
 "51d6e8af","Hello, can you hear me? ...Hey, wai--tch, how rude, Taomon!"
@@ -2955,7 +2960,7 @@ I suppose I must."
 "d4d9f55f","Huh, you think that guy has his doubts about me...?"
 "15a0edaa","That Taomon is being a real pain. I can't understand him at
 all."
-"14a0ec37","C'mon, open up that Taoist charm, just a little!"
+"14a0ec37","C'mon, use that Taoist charm, just a little!"
 "930de197","Heh heh, sorry! Taomon's doubting me for some reason..."
 "940de30a","You guys have proven it to me: times may change, but narrow-
 mindedness doesn't..."
@@ -2986,10 +2991,10 @@ THE EXPLORATION OF THIS AREA TO YOU. "
 Would you lend me your help?"
 "91ee0746","Sure, what's wrong?
 Sorry, can't right now."
-"92ee0939","First, let me name myself... I am MegaGargomon..."
+"92ee0939","First, let me name myself... I am SaintGargomon..."
 "93ee0aac","I chased a certain Digimon from the other-dimensional
 Digital World..."
-"94ee0c1f","That Digimon is RustTyranomon! I drove him off just before
+"94ee0c1f","That Digimon is RustTyranomon! I drove him off just before he
 annihilated our world... He is destruction personified..."
 "95ee0df2","After a fierce battle, we drove it to a dimensional rift...
 But he broke through it, and came to this world!"
@@ -3010,7 +3015,7 @@ How lucky that I met you first."
 aren't you?!"
 "6206f786","In that case, let me lend you my power. I'll try looking for
 a way back to my own world."
-"6306f979","MegaGargomon joined the city!"
+"6306f979","SaintGargomon joined the city!"
 "f3d69a48","Please, you there... I need your help..."
 "f6d69f01","?!"
 "f5d69dae","I am known as MagnaAngemon..."
@@ -3021,7 +3026,7 @@ Cauldron...my body was ruined by the interdimensional trip."
 "fad6a54d","My energy has been exhausted, to the point where I don't
 even have strength to escape from this Infinite Cauldron..."
 "f9d6a3da","Thus, I must ask you...in order to refill my energy, would
-you bring me a Large Double Disc?"
+you bring me a Large Double Disk?"
 "ecd68f43","You got it!
 Maybe later?"
 "ebd68dd0","...You have my thanks! As things stand, my body is going to
@@ -3029,13 +3034,13 @@ disappear... Please, you must help me!!!"
 "eed45432","I see...but...please, come back as soon as you can!
 Before my power...is spent...!"
 "dc0fa5a3","In order to get enough energy to escape the Infinite
-Cauldron, I need you to bring me a Large Double Disc!"
+Cauldron, I need you to bring me a Large Double Disk!"
 "dd0fa716","As things stand, my body is going to disappear!
 Please, you must help me!!!"
-"8bdaad6","You brought me a Large Double Disc?!"
-"7bda963","Here's a Large Double Disc for you!
+"8bdaad6","You brought me a Large Double Disk?!"
+"7bda963","Here's a Large Double Disk for you!
 I can't give you one yet..."
-"6bda7f0","You handed over one Large Double Disc!"
+"6bda7f0","You handed over one Large Double Disk!"
 "dbdb2f5","...Ohhh! I was almost out of time! Now, I shall use it at
 once..."
 "cbdb102","*whew* You just barely saved me... Now I can escape from
@@ -3049,7 +3054,7 @@ I was summoned to this world!"
 "10bdb74e","MagnaAngemon joined the city!"
 "3bb6440","I see...but I will ask you next time... At this rate, my
 power will soon expire!"
-"4ef98345","Oh child... Somehow I have appeared in this world..."
+"4ef98345","Oh, human child... Somehow I have appeared in this world..."
 "4bf97e8c","I am Phoenixmon. I erase the evil of the world with holy
 power, and protect this proper, beautiful Digital World."
 "4cf9807f","From what I can tell...the appearance of you humans upset
@@ -3102,7 +3107,7 @@ where I can suppress this power. I'll head there now!"
 "3c15e85","You'll die eventually either way, so I guess it doesn't
 really matter."
 "fcc15380","Bzz...zzz...zzzt... This noise in my electronic brain...
-Damn that MegaGargomon..."
+Damn that SaintGargomon..."
 "fdc15573","I'll defeat you, RustTyranomon!
 (Let's get out of here for now...)"
 "fec156e6","Bzzt...fine, I'll fi...bzzt...finish this in...bzz...ten
@@ -3188,7 +3193,7 @@ own full strength!"
 this dragon form...into Fighter Mode!"
 "92ad7582","I didn't expect you to have this much strength... You have
 far exceeded my imagination!"
-"91ad742f","Jeez... You are quite the fascinating Tamer... In this case,
+"91ad742f","Damn... You are quite the fascinating Tamer... In this case,
 I must request one final battle..."
 "90ad72bc","This is my final form, one said to the founder of the Royal
 Knights... Please fight with my Paladin Mode!"
@@ -3213,7 +3218,7 @@ I don't have time to play."
 "b82ab7d2","Huh? Whaddaya mean?"
 "bb287e34","This block came poppin' out when me and ToyAgumon were
 playing, so I took it."
-"bc287fa7","'S true, he hasn't come play fer a while, but..."
+"bc287fa7","S true, he hasn't come play fer a while, but..."
 "bd28811a","I had no idea that'd happened. Sorry..."
 "be28828d","Yeah, 'm sorry. Just 'cause my face don't change, don't mean
 I ain't sorry."
@@ -3250,11 +3255,11 @@ some partner Digimon and bring them back."
 A notice will display whenever a DigiMail is delivered."
 "852a87bb","Open your Digivice with <icon>△</icon> and try reading your DigiMail."
 "842a85c1","Find Ingredients and Materials!"
-"a028735f","The explanation was interrupted, so it will restart. (You
-will move to the point where the interruption occurred.)"
+"a028735f","The explanation was interrupted, so it will restart.
+(Moving to the point where the interruption occurred.)"
 "842a85c2","There are points in the field where ingredients drop and
 materials can be found."
-"842a85c3","This circle has an ingredient (Digistalk) and a material
+"842a85c3","This area has an ingredient (Digishroom) and a material
 (Metal). Now, try getting some ingredients and materials!"
 "842a85c4","Touch Ingredient or Material circles to display a
 confirmation window. You can press <icon>○</icon> to take the item."
@@ -3335,8 +3340,8 @@ m(_ _)m"
 the point."
 "a3451d5","Muwahaha! That made my blood boil! How satisfying."
 "33446e6","You cleared Dimension P! Returning to the city."
-"966bdbbe","You enjoying yourself, {0}? Let me have some
-fun, too!"
+"966bdbbe","You enjoying yourself, {0}?
+Let me have some fun, too!"
 "966bdbbf","You've gotten better again. I'd better get serious myself!"
 "fcccefaf","Now come, turn this battle into strength!"
 "fcccefae","What a great battle. Like justice transformed into power
@@ -3367,8 +3372,8 @@ comes for free, do you?"
 "26490eb2","120 seconds restored!
 10,000 <icon>BIT</icon> stolen!"
 "26490eb1","Ha ha ha, I told you it wasn't free!"
-"26490eb0","時間回復了120秒！
-身上持有的<icon>BIT</icon>全都被奪走了！"
+"26490eb0","120 seconds restored!
+All of your <icon>BIT</icon> were stolen!"
 "3a75f200","You've come at a good time. I want you to take these..."
 "3a75f201","You got several items!"
 "3a75f202","Bringing only what you need in your inventory will prevent
@@ -3424,14 +3429,14 @@ carves out the path of your destiny."
 Partner HP and MP stolen!"
 "f825fc78","Sorry if that was a bit sudden. Still, a small price to pay,
 don't you think?"
-"63aa300d","為了下次能勝過你，我正在這裡修行，
-你也必須變得更強！　收下這個吧"
-"63aa300c","馴獸師經驗值增加了2000點！"
-"63aa300f","要勝過你，我的修行還不夠，
-但是總有一天我會贏的！"
-"63aa300e","嗯、馴獸師等級已經達到最高了嗎
-那麼沒辦法了，做為替代收下這個吧"
-"63aa3009","獲得了1000<icon>LUCK</icon>！"
+"63aa300d","I'm training here so I can beat you next time.
+You'd better make yourself stronger! Take this."
+"63aa300c","Tamer experience increased by 2,000!"
+"63aa300f","I haven't trained enough to beat you yet.
+But I will defeat you one day!"
+"63aa300e","Your Tamer level is maxed out.
+Never mind. Take this instead."
+"63aa3009","You got 1,000 <icon>LUCK</icon>!"
 "92cbe46","It's a vending machine."
 "92cbe47","A vending machine. Has ""Prizes inside!"" written on it."
 "92cbe44","Oh! You won!!!"
@@ -3439,49 +3444,49 @@ don't you think?"
 "122ccc98","You can't carry any more items, so the transaction was
 cancelled."
 "85704d48","You got Digital Ion Water x 1!"
-"85704d4b","You got Recovery Disc x 1!"
-"85704d4a","You got MP Disc x 1!"
+"85704d4b","You got Recovery Disk x 1!"
+"85704d4a","You got MP Disk x 1!"
 "85704d4d","You got Portable Toilet x 1!"
-"85704d4c","You got Band-Aid x 1!"
+"85704d4c","You got Bandage x 1!"
 "d3a511ce","You got Neon Drink x 1!"
-"d3a511cd","You got Recovery Disc x 1!"
-"d3a511cc","You got MP Disc x 1!"
+"d3a511cd","You got Recovery Disk x 1!"
+"d3a511cc","You got MP Disk x 1!"
 "d3a511cb","You got Portable Toilet x 1!"
-"d3a511ca","You got Band-Aid x 1!"
+"d3a511ca","You got Bandage x 1!"
 "d3a511c9","You got Auto-Pilot x 1!"
 "3e74b1fa","You got File Soda x 1!"
-"3e74b1f9","You got Recovery Disc x 1!"
-"3e74b1f8","You got MP Disc x 1!"
+"3e74b1f9","You got Recovery Disk x 1!"
+"3e74b1f8","You got MP Disk x 1!"
 "3e74b1ff","You got Portable Toilet x 1!"
-"3e74b1fe","You got Band-Aid x 1!"
+"3e74b1fe","You got Bandage x 1!"
 "3e74b1fd","You got Auto-Pilot x 1!"
 "8bc46493","You got Hot Water x 1!"
-"8bc46490","You got Recovery Disc x 1!"
-"8bc46491","You got MP Disc x 1!"
+"8bc46490","You got Recovery Disk x 1!"
+"8bc46491","You got MP Disk x 1!"
 "8bc46496","You got Portable Toilet x 1!"
-"8bc46497","You got Band-Aid x 1!"
+"8bc46497","You got Bandage x 1!"
 "8bc46494","You got Auto-Pilot x 1!"
 "84c900ec","You got Deep Sea Essence x 1!"
-"84c900ef","You got Recovery Disc x 1!"
-"84c900ee","You got MP Disc x 1!"
+"84c900ef","You got Recovery Disk x 1!"
+"84c900ee","You got MP Disk x 1!"
 "84c900e9","You got Portable Toilet x 1!"
-"84c900e8","You got Band-Aid x 1!"
+"84c900e8","You got Bandage x 1!"
 "84c900eb","You got Auto-Pilot x 1!"
 "fe759b85","You got Triangular Milk x 1!"
-"fe759b86","You got Recovery Disc x 1!"
-"fe759b87","You got MP Disc x 1!"
+"fe759b86","You got Recovery Disk x 1!"
+"fe759b87","You got MP Disk x 1!"
 "fe759b80","You got Portable Toilet x 1!"
-"fe759b81","You got Band-Aid x 1!"
+"fe759b81","You got Bandage x 1!"
 "fe759b82","You got Auto-Pilot x 1!"
 "10a4056e","You got Infini-Water x 1!"
-"10a4056d","You got Recovery Disc x 1!"
-"10a4056c","You got MP Disc x 1!"
+"10a4056d","You got Recovery Disk x 1!"
+"10a4056c","You got MP Disk x 1!"
 "10a4056b","You got Portable Toilet x 1!"
-"10a4056a","You got Band-Aid x 1!"
+"10a4056a","You got Bandage x 1!"
 "10a40569","You got Auto-Pilot x 1!"
 "74040227","You got Absolute Zero Water x 1!"
-"74040224","You got Recovery Disc x 1!"
-"74040225","You got MP Disc x 1!"
+"74040224","You got Recovery Disk x 1!"
+"74040225","You got MP Disk x 1!"
 "74040222","You got Portable Toilet x 1!"
-"74040223","You got Band-Aid x 1!"
+"74040223","You got Bandage x 1!"
 "74040220","You got Auto-Pilot x 1!"
