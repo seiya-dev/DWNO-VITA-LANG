@@ -1,0 +1,3323 @@
+"Hash","string"
+"mailCode0","DO_NOT_TRANSLATE"
+"mailCode1","<title>Bringing Digimon to town...</title>
+<body>Let's start by looking on Nigh Plains
+for Digimon to call into town.
+That seems like a good place to start.
+
+But don't forget it's very dangerous.
+It will be safer to get your partner to
+Rookie status before heading out.</body>"
+"mailCode2","<title>Come back to town!</title>
+<body>The Digimon search is going well.
+
+Thanks to you, I have been able to get a
+lot of information from the Digimon in
+town.
+
+When you have a spare minute, why don't
+you visit me at home?</body>"
+"mailCode3","<title>South of Nigh Plains</title>
+<body>There are more humans out there...
+What a surprise!
+
+Witnesses say they're in the area of
+Power Plant #2 south of Nigh Plains.
+
+Leave the town and just head south.</body>"
+"mailCode4","<title>Thanks!</title>
+<body>Thank you again!
+That there are humans other than me and
+Himari is a big relief!</body>"
+"mailCode5","<title>It's Himari!</title>
+<body>I'm so glad we met!
+But it's really strange that someone has
+TWO Digimon partners! Really weird...</body>"
+"mailCode6","<title>Head to Logic Volcano!</title>
+<body>Taomon has a place where it can meditate
+halfway up Logic Volcano.
+
+It's to the south of Noise Storm, next
+to Server Desert west of Nigh Plains.
+Leave town and go west, south and south.
+
+It's going to be a long journey...</body>"
+"mailCode7","<title>Burying seeds</title>
+<body>Taomon is really weird... What's up with
+suddenly asking us to bury the seeds?
+
+Where can we even bury the seeds?
+
+Oh! I know! There is a place at Power
+Plant #2 in Nigh Plains where you might
+be able to bury them!</body>"
+"mailCode8","<title>Going back to Taomon's!</title>
+<body>That was a very strange flower...
+
+Let's not worry about it now and go back
+to Taomon's instead.
+We'll see you there!</body>"
+"mailCode9","<title>Back in town!</title>
+<body>My socks were blown off when I saw
+Taomon was back!
+
+Anyway, now we can work on building the
+Machinedramon Detector!
+
+I need to talk to you about...
+Come over to my house for a quick chat!</body>"
+"mailCode10","<title>Creating a Digimon town</title>
+<body>I still need some time before the
+Machinedramon Detector is ready.
+
+Until then, you should keep looking for
+Digimon to live in the town!</body>"
+"mailCode11","<title>Coming back to town?</title>
+<body>Is the resident search going well?
+I have almost finished my Machinedramon
+Detector.
+
+Why don't you come over to see me do the
+finishing touches to it?</body>"
+"mailCode12","<title>Going to the Server Desert!</title>
+<body>I'm heading to the Dead End Town in the
+western part of the Server Desert.</body>
+
+Leave town and just keep heading west!
+
+The sandstorms can be a real pain, but
+keep following the signs. You'll be OK!"
+"mailCode13","<title>Coming back to town?</title>
+<body>Things are calmer now that there is no
+sign of the Machinedramon.</body>
+
+Come back to town so that I can fill you
+in."
+"mailCode14","<title>Invite more Digimon to join us!</title>
+<body>Everyone just seems to be waiting around
+for some new signal.
+
+You should keep looking for residents
+until there is some new development.</body>"
+"mailCode15","<title>Back in town!</title>
+<body>The Machinedramon Detector is reacting
+to something!
+
+Hurry back to my house, right away!</body>"
+"mailCode16","<title>Going to the Server Desert!</title>
+<body>I'm going to Stepstep in the northeast
+of the Server Desert!
+
+Leave town and go west, west, north!
+
+You need to be ready to fight off some
+Machinedramon again!</body>"
+"mailCode17","<title>Invite more Digimon to join us!</title>
+<body>I'm worried about what that Mirei said
+but not only do I not have any ideas...
+I also can't move from here...
+
+Right now I want us to stay focused on
+bringing more Digimon to the town.</body>"
+"mailCode18","<title>URGENT! Come back to town!</title>
+<body>{0}, we're in trouble here!
+You need to come and find me right now!</body>"
+"mailCode19","<title>I'm at Faulty Ex Machina!</title>
+<body>{0}, help me!
+I didn't listen to Himari and now I'm
+far, far away...
+I went to Faulty Ex Machina...
+I'm to the north of the Palace of
+Thorns, which is in the plains after the
+desert! Please help me!</body>"
+"mailCode20","DO_NOT_TRANSLATE"
+"mailCode21","<title>Come to MOD Cape.</title>
+<body>How is it going over there?
+I want to tell you something...
+Something is up with Kouta.
+Honestly, I can't handle it...
+
+I'm waiting for you at MOD Cape.
+Come as quickly as you can!</body>"
+"mailCode22","<title>Come back to town.</title>
+<body>Yukimura had been lost to the BH
+Program, just like Rikka...
+
+But thanks to you, {0},
+there was a happy ending.
+I want to hold a debriefing meeting, so
+please come over to my home.</body>"
+"mailCode23","<title>Invite more Digimon to join us!</title>
+<body>To locate the damaged part of the cable,
+we need to collect some information.
+
+If you bring more Digimon to the town,
+we'll be able to get what we need.
+Good luck!</body>
+"
+"mailCode24","<title>Come back to town.</title>
+<body>You've been doing good work!
+We have enough now to narrow down where
+exactly the cable is damaged.
+
+Can you come to Jijimon's house to take
+a look at what we've discovered?</body>"
+"mailCode25","<title>Go to Faulty Ex Machina!</title>
+<body>The section of cable which needs repair
+is on the east shore of Faulty Ex
+Machina if you keep going from the MOD
+Ship.</body>"
+"mailCode26","<title>Come back to town.</title>
+<body>It looks like you've completed the
+repair. Good work!
+
+Be careful on the way home!</body>"
+"mailCode27","<title>Look for Datamon!</title>
+<body>We need Datamon's help to complete the
+antivirus program.
+
+I think Datamon is in Nigh Plains, but
+Yuramon in the town knows more about
+Datamon's precise location.</body>"
+"mailCode28","<title>See you in town?</title>
+<body>Datamon seems all right.
+I'll be waiting for your return.
+Be careful out there!</body>"
+"mailCode29","<title>Go to Server Tower.</title>
+<body>We have to stop the enemy at Server
+Tower before they get even stronger!
+
+Server Tower is southwest of the Server
+Graveyard.
+
+Leave town and go west, west, southwest,
+south and west. Be careful!</body>"
+"mailCode30","<title>Invite more Digimon!</title>
+<body>We need the help of even more residents
+to raise Floatia.
+
+The only one who can help us is you.
+You can take on the BH Program.
+
+We're counting on you!</body>"
+"mailCode31","<title>Come back to town.</title>
+<body>Thanks to you, {0}, we have
+got what we need to levitate Floatia!
+
+Everyone is so excited to see Floatia up in
+the sky!
+Come back safely!</body>"
+"mailCode32","<title>The town is floating!</title>
+<body>I can't believe we got attacked at the
+worst possible moment...
+
+But at least we levitated the town.
+Come back and use the phone.</body>"
+"mailCode33","<title>Waiting at Nigh Plains...</title>
+<body>If you get this... Come to the Vast
+Plateau on Nigh Plains...</body>"
+"mailCode34","<title>Come to Bony Resort.</title>
+<body>You just need to set the trap
+properly... But you need to set it up on
+the top of the mountain of Bony Resort
+to the west of Ohguino Wastelands
+in the Pink Stone House.
+
+It's a long journey so make sure you're
+well prepared.</body>"
+"mailCode35","<title>Invite more Digimon!</title>
+<body>We're not developed enough in Floatia
+for Reincarnation to be possible.
+It goes without saying that Floatia
+relies on the Digimon.
+
+So for further development, we need the
+help of even more Digimon!</body>"
+"mailCode36","<title>Come back to town!</title>
+<body>Luche has finished her analysis.
+Come to Jijimon's house to find out
+more!</body>"
+"mailCode37","<title>Invite more Digimon!</title>
+<body>Luche was a Digimon all along...
+I really can't believe it...
+But Luche never committed a crime.
+Tsuzuki was in the wrong. It is Tsuzuki
+
+who we really need to stop!
+And that's why we need more residents!</body>"
+"mailCode38","<title>Come back to town!</title>
+<body>The groundwork is finished.
+Now I need to tell you something
+important about the Reincarnation.
+
+Can you come over to Jijimon's house so
+we can go over it?</body>"
+"mailCode39","<title>This is the final battle!</title>
+<body>Now is our crucial test!
+You can get to the Singular Zone from
+Ruins Lake in Nigh Plains!
+
+This will be the very final battle.
+Make sure that your Digimon are ready!
+We're all counting on you!</body>"
+"mailCode40","<title>To Infinite Cauldron!</title>
+<body>He must be at Infinite Cauldron!
+Make sure you're reading for anything!</body>"
+"mailCode41","<title>Keep going!</title>
+<body>He's run even farther than we thought.
+Keep going! We can't lose him now!</body>"
+"mailCode42","<title>To the Dimensional District!</title>
+<body>We're picking up his signal in the
+Dimensional District.
+This time, you can defeat him!
+Make sure you're ready!</body>"
+"mailCode43","<title>Thank you!</title>
+<body>We'd never have defeated him without
+you. You never fail to impress.
+But you've always been the strong one...
+Thank you, {0}.</body>"
+"mailCode44","<title>Is the population growing?</title>
+<body>I have something about Floatia I need to
+talk to you about.
+
+When you have a moment, please come to
+my house.
+</body>"
+"mailCode45","<title>タイトル</title><body>本文0045</body>"
+"mailCode46","<title>タイトル</title><body>本文0046</body>"
+"mailCode47","<title>タイトル</title><body>本文0047</body>"
+"mailCode48","<title>タイトル</title><body>本文0048</body>"
+"mailCode49","<title>タイトル</title><body>本文0049</body>"
+"mailCode50","<title>タイトル</title><body>本文0050</body>"
+"mailCode51","<title>タイトル</title><body>本文0051</body>"
+"mailCode52","<title>タイトル</title><body>本文0052</body>"
+"mailCode53","<title>タイトル</title><body>本文0053</body>"
+"mailCode54","<title>タイトル</title><body>本文0054</body>"
+"mailCode55","<title>タイトル</title><body>本文0055</body>"
+"mailCode56","<title>タイトル</title><body>本文0056</body>"
+"mailCode57","<title>タイトル</title><body>本文0057</body>"
+"mailCode58","<title>タイトル</title><body>本文0058</body>"
+"mailCode59","<title>タイトル</title><body>本文0059</body>"
+"mailCode60","<title>タイトル</title><body>本文0060</body>"
+"mailCode61","<title>タイトル</title><body>本文0061</body>"
+"mailCode62","<title>タイトル</title><body>本文0062</body>"
+"mailCode63","<title>タイトル</title><body>本文0063</body>"
+"mailCode64","<title>タイトル</title><body>本文0064</body>"
+"mailCode65","<title>タイトル</title><body>本文0065</body>"
+"mailCode66","<title>タイトル</title><body>本文0066</body>"
+"mailCode67","<title>タイトル</title><body>本文0067</body>"
+"mailCode68","<title>タイトル</title><body>本文0068</body>"
+"mailCode69","<title>タイトル</title><body>本文0069</body>"
+"mailCode70","<title>タイトル</title><body>本文0070</body>"
+"mailCode71","<title>タイトル</title><body>本文0071</body>"
+"mailCode72","<title>タイトル</title><body>本文0072</body>"
+"mailCode73","<title>タイトル</title><body>本文0073</body>"
+"mailCode74","<title>タイトル</title><body>本文0074</body>"
+"mailCode75","<title>タイトル</title><body>本文0075</body>"
+"mailCode76","<title>タイトル</title><body>本文0076</body>"
+"mailCode77","<title>タイトル</title><body>本文0077</body>"
+"mailCode78","<title>タイトル</title><body>本文0078</body>"
+"mailCode79","<title>タイトル</title><body>本文0079</body>"
+"mailCode80","<title>タイトル</title><body>本文0080</body>"
+"mailCode81","<title>タイトル</title><body>本文0081</body>"
+"mailCode82","<title>タイトル</title><body>本文0082</body>"
+"mailCode83","<title>タイトル</title><body>本文0083</body>"
+"mailCode84","<title>タイトル</title><body>本文0084</body>"
+"mailCode85","<title>タイトル</title><body>本文0085</body>"
+"mailCode86","<title>タイトル</title><body>本文0086</body>"
+"mailCode87","<title>タイトル</title><body>本文0087</body>"
+"mailCode88","<title>タイトル</title><body>本文0088</body>"
+"mailCode89","<title>タイトル</title><body>本文0089</body>"
+"mailCode90","<title>タイトル</title><body>本文0090</body>"
+"mailCode91","<title>タイトル</title><body>本文0091</body>"
+"mailCode92","<title>タイトル</title><body>本文0092</body>"
+"mailCode93","<title>タイトル</title><body>本文0093</body>"
+"mailCode94","<title>タイトル</title><body>本文0094</body>"
+"mailCode95","<title>タイトル</title><body>本文0095</body>"
+"mailCode96","<title>タイトル</title><body>本文0096</body>"
+"mailCode97","<title>タイトル</title><body>本文0097</body>"
+"mailCode98","<title>タイトル</title><body>本文0098</body>"
+"mailCode99","<title>タイトル</title><body>本文0099</body>"
+"mailCode100","<title>タイトル</title><body>本文0100</body>"
+"mailCode101","<title>タイトル</title><body>本文0101</body>"
+"mailCode102","<title>タイトル</title><body>本文0102</body>"
+"mailCode103","<title>タイトル</title><body>本文0103</body>"
+"mailCode104","<title>タイトル</title><body>本文0104</body>"
+"mailCode105","<title>タイトル</title><body>本文0105</body>"
+"mailCode106","<title>タイトル</title><body>本文0106</body>"
+"mailCode107","<title>タイトル</title><body>本文0107</body>"
+"mailCode108","<title>タイトル</title><body>本文0108</body>"
+"mailCode109","<title>タイトル</title><body>本文0109</body>"
+"mailCode110","<title>タイトル</title><body>本文0110</body>"
+"mailCode111","<title>タイトル</title><body>本文0111</body>"
+"mailCode112","<title>タイトル</title><body>本文0112</body>"
+"mailCode113","<title>タイトル</title><body>本文0113</body>"
+"mailCode114","<title>タイトル</title><body>本文0114</body>"
+"mailCode115","<title>タイトル</title><body>本文0115</body>"
+"mailCode116","<title>タイトル</title><body>本文0116</body>"
+"mailCode117","<title>タイトル</title><body>本文0117</body>"
+"mailCode118","<title>タイトル</title><body>本文0118</body>"
+"mailCode119","<title>タイトル</title><body>本文0119</body>"
+"mailCode120","<title>タイトル</title><body>本文0120</body>"
+"mailCode121","<title>タイトル</title><body>本文0121</body>"
+"mailCode122","<title>タイトル</title><body>本文0122</body>"
+"mailCode123","<title>タイトル</title><body>本文0123</body>"
+"mailCode124","<title>タイトル</title><body>本文0124</body>"
+"mailCode125","<title>タイトル</title><body>本文0125</body>"
+"mailCode126","<title>タイトル</title><body>本文0126</body>"
+"mailCode127","<title>タイトル</title><body>本文0127</body>"
+"mailCode128","<title>タイトル</title><body>本文0128</body>"
+"mailCode129","<title>タイトル</title><body>本文0129</body>"
+"mailCode130","<title>タイトル</title><body>本文0130</body>"
+"mailCode131","<title>タイトル</title><body>本文0131</body>"
+"mailCode132","<title>タイトル</title><body>本文0132</body>"
+"mailCode133","<title>タイトル</title><body>本文0133</body>"
+"mailCode134","<title>タイトル</title><body>本文0134</body>"
+"mailCode135","<title>タイトル</title><body>本文0135</body>"
+"mailCode136","<title>タイトル</title><body>本文0136</body>"
+"mailCode137","<title>タイトル</title><body>本文0137</body>"
+"mailCode138","<title>タイトル</title><body>本文0138</body>"
+"mailCode139","<title>タイトル</title><body>本文0139</body>"
+"mailCode140","<title>タイトル</title><body>本文0140</body>"
+"mailCode141","<title>タイトル</title><body>本文0141</body>"
+"mailCode142","<title>タイトル</title><body>本文0142</body>"
+"mailCode143","<title>タイトル</title><body>本文0143</body>"
+"mailCode144","<title>タイトル</title><body>本文0144</body>"
+"mailCode145","<title>タイトル</title><body>本文0145</body>"
+"mailCode146","<title>タイトル</title><body>本文0146</body>"
+"mailCode147","<title>タイトル</title><body>本文0147</body>"
+"mailCode148","<title>タイトル</title><body>本文0148</body>"
+"mailCode149","<title>タイトル</title><body>本文0149</body>"
+"mailCode150","<title>タイトル</title><body>本文0150</body>"
+"mailCode151","<title>タイトル</title><body>本文0151</body>"
+"mailCode152","<title>タイトル</title><body>本文0152</body>"
+"mailCode153","<title>タイトル</title><body>本文0153</body>"
+"mailCode154","<title>タイトル</title><body>本文0154</body>"
+"mailCode155","<title>タイトル</title><body>本文0155</body>"
+"mailCode156","<title>タイトル</title><body>本文0156</body>"
+"mailCode157","<title>タイトル</title><body>本文0157</body>"
+"mailCode158","<title>タイトル</title><body>本文0158</body>"
+"mailCode159","<title>タイトル</title><body>本文0159</body>"
+"mailCode160","<title>タイトル</title><body>本文0160</body>"
+"mailCode161","<title>タイトル</title><body>本文0161</body>"
+"mailCode162","<title>タイトル</title><body>本文0162</body>"
+"mailCode163","<title>タイトル</title><body>本文0163</body>"
+"mailCode164","<title>タイトル</title><body>本文0164</body>"
+"mailCode165","<title>タイトル</title><body>本文0165</body>"
+"mailCode166","<title>タイトル</title><body>本文0166</body>"
+"mailCode167","<title>タイトル</title><body>本文0167</body>"
+"mailCode168","<title>タイトル</title><body>本文0168</body>"
+"mailCode169","<title>タイトル</title><body>本文0169</body>"
+"mailCode170","<title>タイトル</title><body>本文0170</body>"
+"mailCode171","<title>タイトル</title><body>本文0171</body>"
+"mailCode172","<title>タイトル</title><body>本文0172</body>"
+"mailCode173","<title>タイトル</title><body>本文0173</body>"
+"mailCode174","<title>タイトル</title><body>本文0174</body>"
+"mailCode175","<title>タイトル</title><body>本文0175</body>"
+"mailCode176","<title>タイトル</title><body>本文0176</body>"
+"mailCode177","<title>タイトル</title><body>本文0177</body>"
+"mailCode178","<title>タイトル</title><body>本文0178</body>"
+"mailCode179","<title>タイトル</title><body>本文0179</body>"
+"mailCode180","<title>タイトル</title><body>本文0180</body>"
+"mailCode181","<title>タイトル</title><body>本文0181</body>"
+"mailCode182","<title>タイトル</title><body>本文0182</body>"
+"mailCode183","<title>タイトル</title><body>本文0183</body>"
+"mailCode184","<title>タイトル</title><body>本文0184</body>"
+"mailCode185","<title>タイトル</title><body>本文0185</body>"
+"mailCode186","<title>タイトル</title><body>本文0186</body>"
+"mailCode187","<title>タイトル</title><body>本文0187</body>"
+"mailCode188","<title>タイトル</title><body>本文0188</body>"
+"mailCode189","<title>タイトル</title><body>本文0189</body>"
+"mailCode190","<title>タイトル</title><body>本文0190</body>"
+"mailCode191","<title>タイトル</title><body>本文0191</body>"
+"mailCode192","<title>タイトル</title><body>本文0192</body>"
+"mailCode193","<title>タイトル</title><body>本文0193</body>"
+"mailCode194","<title>タイトル</title><body>本文0194</body>"
+"mailCode195","<title>タイトル</title><body>本文0195</body>"
+"mailCode196","<title>タイトル</title><body>本文0196</body>"
+"mailCode197","<title>タイトル</title><body>本文0197</body>"
+"mailCode198","<title>タイトル</title><body>本文0198</body>"
+"mailCode199","<title>タイトル</title><body>本文0199</body>"
+"mailCode200","<title>タイトル</title><body>本文0200</body>"
+"mailCode201","<title>タイトル</title><body>本文0201</body>"
+"mailCode202","<title>タイトル</title><body>本文0202</body>"
+"mailCode203","<title>タイトル</title><body>本文0203</body>"
+"mailCode204","<title>タイトル</title><body>本文0204</body>"
+"mailCode205","<title>タイトル</title><body>本文0205</body>"
+"mailCode206","<title>タイトル</title><body>本文0206</body>"
+"mailCode207","<title>タイトル</title><body>本文0207</body>"
+"mailCode208","<title>タイトル</title><body>本文0208</body>"
+"mailCode209","<title>タイトル</title><body>本文0209</body>"
+"mailCode210","<title>タイトル</title><body>本文0210</body>"
+"mailCode211","<title>タイトル</title><body>本文0211</body>"
+"mailCode212","<title>タイトル</title><body>本文0212</body>"
+"mailCode213","<title>タイトル</title><body>本文0213</body>"
+"mailCode214","<title>タイトル</title><body>本文0214</body>"
+"mailCode215","<title>タイトル</title><body>本文0215</body>"
+"mailCode216","<title>タイトル</title><body>本文0216</body>"
+"mailCode217","<title>タイトル</title><body>本文0217</body>"
+"mailCode218","<title>タイトル</title><body>本文0218</body>"
+"mailCode219","<title>タイトル</title><body>本文0219</body>"
+"mailCode220","<title>タイトル</title><body>本文0220</body>"
+"mailCode221","<title>タイトル</title><body>本文0221</body>"
+"mailCode222","<title>タイトル</title><body>本文0222</body>"
+"mailCode223","<title>タイトル</title><body>本文0223</body>"
+"mailCode224","<title>タイトル</title><body>本文0224</body>"
+"mailCode225","<title>タイトル</title><body>本文0225</body>"
+"mailCode226","<title>タイトル</title><body>本文0226</body>"
+"mailCode227","<title>タイトル</title><body>本文0227</body>"
+"mailCode228","<title>タイトル</title><body>本文0228</body>"
+"mailCode229","<title>タイトル</title><body>本文0229</body>"
+"mailCode230","<title>タイトル</title><body>本文0230</body>"
+"mailCode231","<title>タイトル</title><body>本文0231</body>"
+"mailCode232","<title>タイトル</title><body>本文0232</body>"
+"mailCode233","<title>タイトル</title><body>本文0233</body>"
+"mailCode234","<title>タイトル</title><body>本文0234</body>"
+"mailCode235","<title>タイトル</title><body>本文0235</body>"
+"mailCode236","<title>タイトル</title><body>本文0236</body>"
+"mailCode237","<title>タイトル</title><body>本文0237</body>"
+"mailCode238","<title>タイトル</title><body>本文0238</body>"
+"mailCode239","<title>タイトル</title><body>本文0239</body>"
+"mailCode240","<title>タイトル</title><body>本文0240</body>"
+"mailCode241","<title>タイトル</title><body>本文0241</body>"
+"mailCode242","<title>タイトル</title><body>本文0242</body>"
+"mailCode243","<title>タイトル</title><body>本文0243</body>"
+"mailCode244","<title>タイトル</title><body>本文0244</body>"
+"mailCode245","<title>タイトル</title><body>本文0245</body>"
+"mailCode246","<title>タイトル</title><body>本文0246</body>"
+"mailCode247","<title>タイトル</title><body>本文0247</body>"
+"mailCode248","<title>タイトル</title><body>本文0248</body>"
+"mailCode249","<title>タイトル</title><body>本文0249</body>"
+"mailCode250","<title>タイトル</title><body>本文0250</body>"
+"mailCode251","<title>タイトル</title><body>本文0251</body>"
+"mailCode252","<title>タイトル</title><body>本文0252</body>"
+"mailCode253","<title>タイトル</title><body>本文0253</body>"
+"mailCode254","<title>タイトル</title><body>本文0254</body>"
+"mailCode255","<title>タイトル</title><body>本文0255</body>"
+"mailCode256","<title>タイトル</title><body>本文0256</body>"
+"mailCode257","<title>タイトル</title><body>本文0257</body>"
+"mailCode258","<title>タイトル</title><body>本文0258</body>"
+"mailCode259","<title>タイトル</title><body>本文0259</body>"
+"mailCode260","<title>タイトル</title><body>本文0260</body>"
+"mailCode261","<title>タイトル</title><body>本文0261</body>"
+"mailCode262","<title>タイトル</title><body>本文0262</body>"
+"mailCode263","<title>タイトル</title><body>本文0263</body>"
+"mailCode264","<title>タイトル</title><body>本文0264</body>"
+"mailCode265","<title>タイトル</title><body>本文0265</body>"
+"mailCode266","<title>タイトル</title><body>本文0266</body>"
+"mailCode267","<title>タイトル</title><body>本文0267</body>"
+"mailCode268","<title>タイトル</title><body>本文0268</body>"
+"mailCode269","<title>タイトル</title><body>本文0269</body>"
+"mailCode270","<title>タイトル</title><body>本文0270</body>"
+"mailCode271","<title>タイトル</title><body>本文0271</body>"
+"mailCode272","<title>タイトル</title><body>本文0272</body>"
+"mailCode273","<title>タイトル</title><body>本文0273</body>"
+"mailCode274","<title>タイトル</title><body>本文0274</body>"
+"mailCode275","<title>タイトル</title><body>本文0275</body>"
+"mailCode276","<title>タイトル</title><body>本文0276</body>"
+"mailCode277","<title>タイトル</title><body>本文0277</body>"
+"mailCode278","<title>タイトル</title><body>本文0278</body>"
+"mailCode279","<title>タイトル</title><body>本文0279</body>"
+"mailCode280","<title>タイトル</title><body>本文0280</body>"
+"mailCode281","<title>タイトル</title><body>本文0281</body>"
+"mailCode282","<title>タイトル</title><body>本文0282</body>"
+"mailCode283","<title>タイトル</title><body>本文0283</body>"
+"mailCode284","<title>タイトル</title><body>本文0284</body>"
+"mailCode285","<title>タイトル</title><body>本文0285</body>"
+"mailCode286","<title>タイトル</title><body>本文0286</body>"
+"mailCode287","<title>タイトル</title><body>本文0287</body>"
+"mailCode288","<title>タイトル</title><body>本文0288</body>"
+"mailCode289","<title>タイトル</title><body>本文0289</body>"
+"mailCode290","<title>タイトル</title><body>本文0290</body>"
+"mailCode291","<title>タイトル</title><body>本文0291</body>"
+"mailCode292","<title>タイトル</title><body>本文0292</body>"
+"mailCode293","<title>タイトル</title><body>本文0293</body>"
+"mailCode294","<title>タイトル</title><body>本文0294</body>"
+"mailCode295","<title>タイトル</title><body>本文0295</body>"
+"mailCode296","<title>タイトル</title><body>本文0296</body>"
+"mailCode297","<title>タイトル</title><body>本文0297</body>"
+"mailCode298","<title>タイトル</title><body>本文0298</body>"
+"mailCode299","<title>タイトル</title><body>本文0299</body>"
+"mailCode300","<title>タイトル</title><body>本文0300</body>"
+"mailCode301","<title>タイトル</title><body>本文0301</body>"
+"mailCode302","<title>タイトル</title><body>本文0302</body>"
+"mailCode303","<title>タイトル</title><body>本文0303</body>"
+"mailCode304","<title>タイトル</title><body>本文0304</body>"
+"mailCode305","<title>タイトル</title><body>本文0305</body>"
+"mailCode306","<title>タイトル</title><body>本文0306</body>"
+"mailCode307","<title>タイトル</title><body>本文0307</body>"
+"mailCode308","<title>タイトル</title><body>本文0308</body>"
+"mailCode309","<title>タイトル</title><body>本文0309</body>"
+"mailCode310","<title>タイトル</title><body>本文0310</body>"
+"mailCode311","<title>タイトル</title><body>本文0311</body>"
+"mailCode312","<title>タイトル</title><body>本文0312</body>"
+"mailCode313","<title>タイトル</title><body>本文0313</body>"
+"mailCode314","<title>タイトル</title><body>本文0314</body>"
+"mailCode315","<title>タイトル</title><body>本文0315</body>"
+"mailCode316","<title>タイトル</title><body>本文0316</body>"
+"mailCode317","<title>タイトル</title><body>本文0317</body>"
+"mailCode318","<title>タイトル</title><body>本文0318</body>"
+"mailCode319","<title>タイトル</title><body>本文0319</body>"
+"mailCode320","<title>タイトル</title><body>本文0320</body>"
+"mailCode321","<title>タイトル</title><body>本文0321</body>"
+"mailCode322","<title>タイトル</title><body>本文0322</body>"
+"mailCode323","<title>タイトル</title><body>本文0323</body>"
+"mailCode324","<title>タイトル</title><body>本文0324</body>"
+"mailCode325","<title>タイトル</title><body>本文0325</body>"
+"mailCode326","<title>タイトル</title><body>本文0326</body>"
+"mailCode327","<title>タイトル</title><body>本文0327</body>"
+"mailCode328","<title>タイトル</title><body>本文0328</body>"
+"mailCode329","<title>タイトル</title><body>本文0329</body>"
+"mailCode330","<title>タイトル</title><body>本文0330</body>"
+"mailCode331","<title>タイトル</title><body>本文0331</body>"
+"mailCode332","<title>タイトル</title><body>本文0332</body>"
+"mailCode333","<title>タイトル</title><body>本文0333</body>"
+"mailCode334","<title>タイトル</title><body>本文0334</body>"
+"mailCode335","<title>タイトル</title><body>本文0335</body>"
+"mailCode336","<title>タイトル</title><body>本文0336</body>"
+"mailCode337","<title>タイトル</title><body>本文0337</body>"
+"mailCode338","<title>タイトル</title><body>本文0338</body>"
+"mailCode339","<title>タイトル</title><body>本文0339</body>"
+"mailCode340","<title>タイトル</title><body>本文0340</body>"
+"mailCode341","<title>タイトル</title><body>本文0341</body>"
+"mailCode342","<title>タイトル</title><body>本文0342</body>"
+"mailCode343","<title>タイトル</title><body>本文0343</body>"
+"mailCode344","<title>タイトル</title><body>本文0344</body>"
+"mailCode345","<title>タイトル</title><body>本文0345</body>"
+"mailCode346","<title>タイトル</title><body>本文0346</body>"
+"mailCode347","<title>タイトル</title><body>本文0347</body>"
+"mailCode348","<title>タイトル</title><body>本文0348</body>"
+"mailCode349","<title>タイトル</title><body>本文0349</body>"
+"mailCode350","<title>タイトル</title><body>本文0350</body>"
+"mailCode351","<title>タイトル</title><body>本文0351</body>"
+"mailCode352","<title>タイトル</title><body>本文0352</body>"
+"mailCode353","<title>タイトル</title><body>本文0353</body>"
+"mailCode354","<title>タイトル</title><body>本文0354</body>"
+"mailCode355","<title>タイトル</title><body>本文0355</body>"
+"mailCode356","<title>タイトル</title><body>本文0356</body>"
+"mailCode357","<title>タイトル</title><body>本文0357</body>"
+"mailCode358","<title>タイトル</title><body>本文0358</body>"
+"mailCode359","<title>タイトル</title><body>本文0359</body>"
+"mailCode360","<title>タイトル</title><body>本文0360</body>"
+"mailCode361","<title>タイトル</title><body>本文0361</body>"
+"mailCode362","<title>タイトル</title><body>本文0362</body>"
+"mailCode363","<title>タイトル</title><body>本文0363</body>"
+"mailCode364","<title>タイトル</title><body>本文0364</body>"
+"mailCode365","<title>タイトル</title><body>本文0365</body>"
+"mailCode366","<title>タイトル</title><body>本文0366</body>"
+"mailCode367","<title>タイトル</title><body>本文0367</body>"
+"mailCode368","<title>タイトル</title><body>本文0368</body>"
+"mailCode369","<title>タイトル</title><body>本文0369</body>"
+"mailCode370","<title>タイトル</title><body>本文0370</body>"
+"mailCode371","<title>タイトル</title><body>本文0371</body>"
+"mailCode372","<title>タイトル</title><body>本文0372</body>"
+"mailCode373","<title>タイトル</title><body>本文0373</body>"
+"mailCode374","<title>タイトル</title><body>本文0374</body>"
+"mailCode375","<title>タイトル</title><body>本文0375</body>"
+"mailCode376","<title>タイトル</title><body>本文0376</body>"
+"mailCode377","<title>タイトル</title><body>本文0377</body>"
+"mailCode378","<title>タイトル</title><body>本文0378</body>"
+"mailCode379","<title>タイトル</title><body>本文0379</body>"
+"mailCode380","<title>タイトル</title><body>本文0380</body>"
+"mailCode381","<title>タイトル</title><body>本文0381</body>"
+"mailCode382","<title>タイトル</title><body>本文0382</body>"
+"mailCode383","<title>タイトル</title><body>本文0383</body>"
+"mailCode384","<title>タイトル</title><body>本文0384</body>"
+"mailCode385","<title>タイトル</title><body>本文0385</body>"
+"mailCode386","<title>タイトル</title><body>本文0386</body>"
+"mailCode387","<title>タイトル</title><body>本文0387</body>"
+"mailCode388","<title>タイトル</title><body>本文0388</body>"
+"mailCode389","<title>タイトル</title><body>本文0389</body>"
+"mailCode390","<title>タイトル</title><body>本文0390</body>"
+"mailCode391","<title>タイトル</title><body>本文0391</body>"
+"mailCode392","<title>タイトル</title><body>本文0392</body>"
+"mailCode393","<title>タイトル</title><body>本文0393</body>"
+"mailCode394","<title>タイトル</title><body>本文0394</body>"
+"mailCode395","<title>タイトル</title><body>本文0395</body>"
+"mailCode396","<title>タイトル</title><body>本文0396</body>"
+"mailCode397","<title>タイトル</title><body>本文0397</body>"
+"mailCode398","<title>タイトル</title><body>本文0398</body>"
+"mailCode399","<title>タイトル</title><body>本文0399</body>"
+"mailCode400","<title>タイトル</title><body>本文0400</body>"
+"mailCode401","<title>タイトル</title><body>本文0401</body>"
+"mailCode402","<title>タイトル</title><body>本文0402</body>"
+"mailCode403","<title>タイトル</title><body>本文0403</body>"
+"mailCode404","<title>タイトル</title><body>本文0404</body>"
+"mailCode405","<title>タイトル</title><body>本文0405</body>"
+"mailCode406","<title>タイトル</title><body>本文0406</body>"
+"mailCode407","<title>タイトル</title><body>本文0407</body>"
+"mailCode408","<title>タイトル</title><body>本文0408</body>"
+"mailCode409","<title>タイトル</title><body>本文0409</body>"
+"mailCode410","<title>タイトル</title><body>本文0410</body>"
+"mailCode411","<title>タイトル</title><body>本文0411</body>"
+"mailCode412","<title>タイトル</title><body>本文0412</body>"
+"mailCode413","<title>タイトル</title><body>本文0413</body>"
+"mailCode414","<title>タイトル</title><body>本文0414</body>"
+"mailCode415","<title>タイトル</title><body>本文0415</body>"
+"mailCode416","<title>タイトル</title><body>本文0416</body>"
+"mailCode417","<title>タイトル</title><body>本文0417</body>"
+"mailCode418","<title>タイトル</title><body>本文0418</body>"
+"mailCode419","<title>タイトル</title><body>本文0419</body>"
+"mailCode420","<title>タイトル</title><body>本文0420</body>"
+"mailCode421","<title>タイトル</title><body>本文0421</body>"
+"mailCode422","<title>タイトル</title><body>本文0422</body>"
+"mailCode423","<title>タイトル</title><body>本文0423</body>"
+"mailCode424","<title>タイトル</title><body>本文0424</body>"
+"mailCode425","<title>タイトル</title><body>本文0425</body>"
+"mailCode426","<title>タイトル</title><body>本文0426</body>"
+"mailCode427","<title>タイトル</title><body>本文0427</body>"
+"mailCode428","<title>タイトル</title><body>本文0428</body>"
+"mailCode429","<title>タイトル</title><body>本文0429</body>"
+"mailCode430","<title>タイトル</title><body>本文0430</body>"
+"mailCode431","<title>タイトル</title><body>本文0431</body>"
+"mailCode432","<title>タイトル</title><body>本文0432</body>"
+"mailCode433","<title>タイトル</title><body>本文0433</body>"
+"mailCode434","<title>タイトル</title><body>本文0434</body>"
+"mailCode435","<title>タイトル</title><body>本文0435</body>"
+"mailCode436","<title>タイトル</title><body>本文0436</body>"
+"mailCode437","<title>タイトル</title><body>本文0437</body>"
+"mailCode438","<title>タイトル</title><body>本文0438</body>"
+"mailCode439","<title>タイトル</title><body>本文0439</body>"
+"mailCode440","<title>タイトル</title><body>本文0440</body>"
+"mailCode441","<title>タイトル</title><body>本文0441</body>"
+"mailCode442","<title>タイトル</title><body>本文0442</body>"
+"mailCode443","<title>タイトル</title><body>本文0443</body>"
+"mailCode444","<title>タイトル</title><body>本文0444</body>"
+"mailCode445","<title>タイトル</title><body>本文0445</body>"
+"mailCode446","<title>タイトル</title><body>本文0446</body>"
+"mailCode447","<title>タイトル</title><body>本文0447</body>"
+"mailCode448","<title>タイトル</title><body>本文0448</body>"
+"mailCode449","<title>タイトル</title><body>本文0449</body>"
+"mailCode450","<title>タイトル</title><body>本文0450</body>"
+"mailCode451","<title>タイトル</title><body>本文0451</body>"
+"mailCode452","<title>タイトル</title><body>本文0452</body>"
+"mailCode453","<title>タイトル</title><body>本文0453</body>"
+"mailCode454","<title>タイトル</title><body>本文0454</body>"
+"mailCode455","<title>タイトル</title><body>本文0455</body>"
+"mailCode456","<title>タイトル</title><body>本文0456</body>"
+"mailCode457","<title>タイトル</title><body>本文0457</body>"
+"mailCode458","<title>タイトル</title><body>本文0458</body>"
+"mailCode459","<title>タイトル</title><body>本文0459</body>"
+"mailCode460","<title>タイトル</title><body>本文0460</body>"
+"mailCode461","<title>タイトル</title><body>本文0461</body>"
+"mailCode462","<title>タイトル</title><body>本文0462</body>"
+"mailCode463","<title>タイトル</title><body>本文0463</body>"
+"mailCode464","<title>タイトル</title><body>本文0464</body>"
+"mailCode465","<title>タイトル</title><body>本文0465</body>"
+"mailCode466","<title>タイトル</title><body>本文0466</body>"
+"mailCode467","<title>タイトル</title><body>本文0467</body>"
+"mailCode468","<title>タイトル</title><body>本文0468</body>"
+"mailCode469","<title>タイトル</title><body>本文0469</body>"
+"mailCode470","<title>タイトル</title><body>本文0470</body>"
+"mailCode471","<title>タイトル</title><body>本文0471</body>"
+"mailCode472","<title>タイトル</title><body>本文0472</body>"
+"mailCode473","<title>タイトル</title><body>本文0473</body>"
+"mailCode474","<title>タイトル</title><body>本文0474</body>"
+"mailCode475","<title>タイトル</title><body>本文0475</body>"
+"mailCode476","<title>タイトル</title><body>本文0476</body>"
+"mailCode477","<title>タイトル</title><body>本文0477</body>"
+"mailCode478","<title>タイトル</title><body>本文0478</body>"
+"mailCode479","<title>タイトル</title><body>本文0479</body>"
+"mailCode480","<title>タイトル</title><body>本文0480</body>"
+"mailCode481","<title>タイトル</title><body>本文0481</body>"
+"mailCode482","<title>タイトル</title><body>本文0482</body>"
+"mailCode483","<title>タイトル</title><body>本文0483</body>"
+"mailCode484","<title>タイトル</title><body>本文0484</body>"
+"mailCode485","<title>タイトル</title><body>本文0485</body>"
+"mailCode486","<title>タイトル</title><body>本文0486</body>"
+"mailCode487","<title>タイトル</title><body>本文0487</body>"
+"mailCode488","<title>タイトル</title><body>本文0488</body>"
+"mailCode489","<title>タイトル</title><body>本文0489</body>"
+"mailCode490","<title>タイトル</title><body>本文0490</body>"
+"mailCode491","<title>タイトル</title><body>本文0491</body>"
+"mailCode492","<title>タイトル</title><body>本文0492</body>"
+"mailCode493","<title>タイトル</title><body>本文0493</body>"
+"mailCode494","<title>タイトル</title><body>本文0494</body>"
+"mailCode495","<title>タイトル</title><body>本文0495</body>"
+"mailCode496","<title>タイトル</title><body>本文0496</body>"
+"mailCode497","<title>タイトル</title><body>本文0497</body>"
+"mailCode498","<title>タイトル</title><body>本文0498</body>"
+"mailCode499","<title>タイトル</title><body>本文0499</body>"
+"mailCode500","<title>Going back to town...</title>
+<body>I'm going back to town to see what I can
+do there.
+{0}, keep trying your best,
+too!</body>"
+"mailCode501","DO_NOT_TRANSLATE"
+"mailCode502","DO_NOT_TRANSLATE"
+"mailCode503","<title>I want to fly in the sky!</title>
+<body>There must be a Digimon who can
+teach me! I need you to find that
+Digimon!
+
+I'll be waiting in town!</body>"
+"mailCode504","DO_NOT_TRANSLATE"
+"mailCode505","DO_NOT_TRANSLATE"
+"mailCode506","<title>A stick...</title>
+<body>I need a stick that I can use as a
+fishing rod...
+Looking forward to it!</body>"
+"mailCode507","DO_NOT_TRANSLATE"
+"mailCode508","DO_NOT_TRANSLATE"
+"mailCode509","<title>Delicious meat...</title>
+<body>Don't forget:
+Cheerful Apple, Digistalk, and Salty
+Fruit!</body>"
+"mailCode510","DO_NOT_TRANSLATE"
+"mailCode511","DO_NOT_TRANSLATE"
+"mailCode512","DO_NOT_TRANSLATE"
+"mailCode513","DO_NOT_TRANSLATE"
+"mailCode514","DO_NOT_TRANSLATE"
+"mailCode515","<title>Please!</title>
+<body>Digicarp!
+I don't need anything else.
+Looking forward to good news...</body>"
+"mailCode516","DO_NOT_TRANSLATE"
+"mailCode517","DO_NOT_TRANSLATE"
+"mailCode518","<title>I'm hungry...</title>
+<body>I'm really starving!
+Please... Find me...
+five Green Digistalks...</body>"
+"mailCode519","DO_NOT_TRANSLATE"
+"mailCode520","DO_NOT_TRANSLATE"
+"mailCode521","DO_NOT_TRANSLATE"
+"mailCode522","DO_NOT_TRANSLATE"
+"mailCode523","DO_NOT_TRANSLATE"
+"mailCode524","<title>Please help me...</title>
+<body>You can find Royal Digijelly on the
+forest paths in Nigh Plains.
+You're the only one who can help me...
+Please!</body>"
+"mailCode525","DO_NOT_TRANSLATE"
+"mailCode526","DO_NOT_TRANSLATE"
+"mailCode527","DO_NOT_TRANSLATE"
+"mailCode528","DO_NOT_TRANSLATE"
+"mailCode529","DO_NOT_TRANSLATE"
+"mailCode530","DO_NOT_TRANSLATE"
+"mailCode531","DO_NOT_TRANSLATE"
+"mailCode532","DO_NOT_TRANSLATE"
+"mailCode533","DO_NOT_TRANSLATE"
+"mailCode534","DO_NOT_TRANSLATE"
+"mailCode535","DO_NOT_TRANSLATE"
+"mailCode536","<title>Togemon is a blockhead!</title>
+<body>I'm not coming back to town until
+Togemon apologizes!</body>"
+"mailCode537","DO_NOT_TRANSLATE"
+"mailCode538","DO_NOT_TRANSLATE"
+"mailCode539","<title>Help me!</title>
+<body>Veemon can be so reckless!
+Veemon needs to be nicer!
+
+I think Veemon must be in the Noise
+Storm at Server Desert.... Please help!</body>"
+"mailCode540","DO_NOT_TRANSLATE"
+"mailCode541","DO_NOT_TRANSLATE"
+"mailCode542","<title>Magma Lozenge!</title>
+<body>Bring back the Magma Lozenge dropped
+somewhere on the Logic Volcano!
+Thanks!</body>"
+"mailCode543","DO_NOT_TRANSLATE"
+"mailCode544","DO_NOT_TRANSLATE"
+"mailCode545","DO_NOT_TRANSLATE"
+"mailCode546","DO_NOT_TRANSLATE"
+"mailCode547","DO_NOT_TRANSLATE"
+"mailCode548","DO_NOT_TRANSLATE"
+"mailCode549","DO_NOT_TRANSLATE"
+"mailCode550","DO_NOT_TRANSLATE"
+"mailCode551","<title>I need Cyber Grease!</title>
+<body>You can find Cyber Grease in the Server
+Desert.
+I think Gargomon has it.
+I'm counting on you!</body>"
+"mailCode552","DO_NOT_TRANSLATE"
+"mailCode553","DO_NOT_TRANSLATE"
+"mailCode554","DO_NOT_TRANSLATE"
+"mailCode555","DO_NOT_TRANSLATE"
+"mailCode556","DO_NOT_TRANSLATE"
+"mailCode557","DO_NOT_TRANSLATE"
+"mailCode558","DO_NOT_TRANSLATE"
+"mailCode559","DO_NOT_TRANSLATE"
+"mailCode560","DO_NOT_TRANSLATE"
+"mailCode561","DO_NOT_TRANSLATE"
+"mailCode562","DO_NOT_TRANSLATE"
+"mailCode563","DO_NOT_TRANSLATE"
+"mailCode564","DO_NOT_TRANSLATE"
+"mailCode565","DO_NOT_TRANSLATE"
+"mailCode566","DO_NOT_TRANSLATE"
+"mailCode567","DO_NOT_TRANSLATE"
+"mailCode568","DO_NOT_TRANSLATE"
+"mailCode569","DO_NOT_TRANSLATE"
+"mailCode570","DO_NOT_TRANSLATE"
+"mailCode571","DO_NOT_TRANSLATE"
+"mailCode572","DO_NOT_TRANSLATE"
+"mailCode573","DO_NOT_TRANSLATE"
+"mailCode574","DO_NOT_TRANSLATE"
+"mailCode575","DO_NOT_TRANSLATE"
+"mailCode576","DO_NOT_TRANSLATE"
+"mailCode577","DO_NOT_TRANSLATE"
+"mailCode578","DO_NOT_TRANSLATE"
+"mailCode579","DO_NOT_TRANSLATE"
+"mailCode580","DO_NOT_TRANSLATE"
+"mailCode581","DO_NOT_TRANSLATE"
+"mailCode582","DO_NOT_TRANSLATE"
+"mailCode583","DO_NOT_TRANSLATE"
+"mailCode584","DO_NOT_TRANSLATE"
+"mailCode585","DO_NOT_TRANSLATE"
+"mailCode586","DO_NOT_TRANSLATE"
+"mailCode587","DO_NOT_TRANSLATE"
+"mailCode588","DO_NOT_TRANSLATE"
+"mailCode589","DO_NOT_TRANSLATE"
+"mailCode590","DO_NOT_TRANSLATE"
+"mailCode591","DO_NOT_TRANSLATE"
+"mailCode592","DO_NOT_TRANSLATE"
+"mailCode593","DO_NOT_TRANSLATE"
+"mailCode594","DO_NOT_TRANSLATE"
+"mailCode595","DO_NOT_TRANSLATE"
+"mailCode596","DO_NOT_TRANSLATE"
+"mailCode597","DO_NOT_TRANSLATE"
+"mailCode598","DO_NOT_TRANSLATE"
+"mailCode599","DO_NOT_TRANSLATE"
+"mailCode600","DO_NOT_TRANSLATE"
+"mailCode601","DO_NOT_TRANSLATE"
+"mailCode602","<title>Stop him!</title>
+<body>The world is facing Armageddon!
+
+The Dragon Emperor Examon is in the
+Flame Lands of Logic Volcano.
+Now is our chance to stop the violence!
+
+I would go myself, but I must leave this
+up to you! Good luck!</body>"
+"mailCode603","DO_NOT_TRANSLATE"
+"mailCode604","DO_NOT_TRANSLATE"
+"mailCode605","DO_NOT_TRANSLATE"
+"mailCode606","DO_NOT_TRANSLATE"
+"mailCode607","DO_NOT_TRANSLATE"
+"mailCode608","DO_NOT_TRANSLATE"
+"mailCode609","DO_NOT_TRANSLATE"
+"mailCode610","DO_NOT_TRANSLATE"
+"mailCode611","DO_NOT_TRANSLATE"
+"mailCode612","DO_NOT_TRANSLATE"
+"mailCode613","DO_NOT_TRANSLATE"
+"mailCode614","DO_NOT_TRANSLATE"
+"mailCode615","DO_NOT_TRANSLATE"
+"mailCode616","DO_NOT_TRANSLATE"
+"mailCode617","DO_NOT_TRANSLATE"
+"mailCode618","DO_NOT_TRANSLATE"
+"mailCode619","DO_NOT_TRANSLATE"
+"mailCode620","DO_NOT_TRANSLATE"
+"mailCode621","DO_NOT_TRANSLATE"
+"mailCode622","DO_NOT_TRANSLATE"
+"mailCode623","DO_NOT_TRANSLATE"
+"mailCode624","DO_NOT_TRANSLATE"
+"mailCode625","DO_NOT_TRANSLATE"
+"mailCode626","DO_NOT_TRANSLATE"
+"mailCode627","DO_NOT_TRANSLATE"
+"mailCode628","DO_NOT_TRANSLATE"
+"mailCode629","<title>Meat sandbags</title>
+<body>Instead of Sandbags, bring me 20 Hunks
+of Meat!</body>"
+"mailCode630","DO_NOT_TRANSLATE"
+"mailCode631","DO_NOT_TRANSLATE"
+"mailCode632","<title>I want meat...</title>
+<body>If you bring me 20 pieces of Rotten
+Meat, I'll let you through the tunnel!</body>"
+"mailCode633","DO_NOT_TRANSLATE"
+"mailCode634","DO_NOT_TRANSLATE"
+"mailCode635","<title>Proof of Meat</title>
+<body>If you bring 20 pieces of the Best Meat,
+I will believe you and let you through
+the tunnel.</body>"
+"mailCode636","DO_NOT_TRANSLATE"
+"mailCode637","DO_NOT_TRANSLATE"
+"mailCode638","DO_NOT_TRANSLATE"
+"mailCode639","DO_NOT_TRANSLATE"
+"mailCode640","DO_NOT_TRANSLATE"
+"mailCode641","DO_NOT_TRANSLATE"
+"mailCode642","DO_NOT_TRANSLATE"
+"mailCode643","DO_NOT_TRANSLATE"
+"mailCode644","<title>The Ohguino Wastelands...</title>
+<body>We need to first understand what the
+Ohguino Wastelands are really like!
+If possible, get some information from
+the Veggie Troops!</body>"
+"mailCode645","DO_NOT_TRANSLATE"
+"mailCode646","DO_NOT_TRANSLATE"
+"mailCode647","DO_NOT_TRANSLATE"
+"mailCode648","DO_NOT_TRANSLATE"
+"mailCode649","DO_NOT_TRANSLATE"
+"mailCode650","DO_NOT_TRANSLATE"
+"mailCode651","DO_NOT_TRANSLATE"
+"mailCode652","DO_NOT_TRANSLATE"
+"mailCode653","<title>Retake the fields!</title>
+<body>Expel the Vegiemon who are occupying the
+fields of the Palace of Thorns.
+Retake what is ours!</body>"
+"mailCode654","DO_NOT_TRANSLATE"
+"mailCode655","DO_NOT_TRANSLATE"
+"mailCode656","DO_NOT_TRANSLATE"
+"mailCode657","DO_NOT_TRANSLATE"
+"mailCode658","DO_NOT_TRANSLATE"
+"mailCode659","DO_NOT_TRANSLATE"
+"mailCode660","DO_NOT_TRANSLATE"
+"mailCode661","DO_NOT_TRANSLATE"
+"mailCode662","<title>Help me!</title>
+<body>My worries are so grave...
+I can't get any sleep...
+I need the item to solve my troubles.
+
+Don't forget... Please...</body>"
+"mailCode663","DO_NOT_TRANSLATE"
+"mailCode664","DO_NOT_TRANSLATE"
+"mailCode665","DO_NOT_TRANSLATE"
+"mailCode666","DO_NOT_TRANSLATE"
+"mailCode667","<title>I'll keep my promise!</title>
+<body>My body is finally fully healed!
+I'm sorry I made you wait.
+But now I can finally fulfil my promise.
+I will move to the town and help you...
+I can't wait to see you again!
+</body>"
+"mailCode668","<title>The Holy Chalice</title>
+<body>Bring me Vikemon's treasure...
+Bring me the Holy Chalice! I'll split it
+with you! So don't run off!</body>"
+"mailCode669","DO_NOT_TRANSLATE"
+"mailCode670","DO_NOT_TRANSLATE"
+"mailCode671","DO_NOT_TRANSLATE"
+"mailCode672","DO_NOT_TRANSLATE"
+"mailCode673","DO_NOT_TRANSLATE"
+"mailCode674","<title>Pond fish</title>
+<body>I need Digifry, Digicrucians, and
+Digikoi for my fishing pond.
+Please catch some for me!</body>"
+"mailCode675","DO_NOT_TRANSLATE"
+"mailCode676","DO_NOT_TRANSLATE"
+"mailCode677","<title>I need an autograph!</title>
+<body>Will you bring me the amazing Magnamon's
+autograph?
+Ask Veedramon in Absolute Zero where you
+can find Magnamon!</body>"
+"mailCode678","DO_NOT_TRANSLATE"
+"mailCode679","DO_NOT_TRANSLATE"
+"mailCode680","<title>Deliver a letter!</title>
+<body>I need you to take a letter to
+MegaKabuterimon... MegaKabuterimon is
+somewhere...in this world... Thanks!</body>"
+"mailCode681","DO_NOT_TRANSLATE"
+"mailCode682","DO_NOT_TRANSLATE"
+"mailCode683","DO_NOT_TRANSLATE"
+"mailCode684","DO_NOT_TRANSLATE"
+"mailCode685","DO_NOT_TRANSLATE"
+"mailCode686","<title>My pupil...</title>
+<body>Can you tell Gumdramon I'm sorry and
+bring him back! I think you'll find him
+at Logic Volcano!</body>"
+"mailCode687","DO_NOT_TRANSLATE"
+"mailCode688","DO_NOT_TRANSLATE"
+"mailCode689","DO_NOT_TRANSLATE"
+"mailCode690","DO_NOT_TRANSLATE"
+"mailCode691","DO_NOT_TRANSLATE"
+"mailCode692","DO_NOT_TRANSLATE"
+"mailCode693","DO_NOT_TRANSLATE"
+"mailCode694","DO_NOT_TRANSLATE"
+"mailCode695","DO_NOT_TRANSLATE"
+"mailCode696","DO_NOT_TRANSLATE"
+"mailCode697","DO_NOT_TRANSLATE"
+"mailCode698","DO_NOT_TRANSLATE"
+"mailCode699","DO_NOT_TRANSLATE"
+"mailCode700","DO_NOT_TRANSLATE"
+"mailCode701","DO_NOT_TRANSLATE"
+"mailCode702","DO_NOT_TRANSLATE"
+"mailCode703","DO_NOT_TRANSLATE"
+"mailCode704","DO_NOT_TRANSLATE"
+"mailCode705","DO_NOT_TRANSLATE"
+"mailCode706","DO_NOT_TRANSLATE"
+"mailCode707","DO_NOT_TRANSLATE"
+"mailCode708","DO_NOT_TRANSLATE"
+"mailCode709","DO_NOT_TRANSLATE"
+"mailCode710","<title>Bring me a Haguru Gear</title>
+<body>Please bring me the Haguru Gear I need.
+The Hagurumon with the gear is in the
+control room of Faulty Ex Machina.</body>"
+"mailCode711","DO_NOT_TRANSLATE"
+"mailCode712","DO_NOT_TRANSLATE"
+"mailCode713","DO_NOT_TRANSLATE"
+"mailCode714","DO_NOT_TRANSLATE"
+"mailCode715","DO_NOT_TRANSLATE"
+"mailCode716","DO_NOT_TRANSLATE"
+"mailCode717","DO_NOT_TRANSLATE"
+"mailCode718","DO_NOT_TRANSLATE"
+"mailCode719","<title>Digimon arbitration!</title>
+<body>We need to stop this fight between
+MetalGreymon and MetalTyrannomon.
+I've totally given up!</body>"
+"mailCode720","DO_NOT_TRANSLATE"
+"mailCode721","DO_NOT_TRANSLATE"
+"mailCode722","DO_NOT_TRANSLATE"
+"mailCode723","DO_NOT_TRANSLATE"
+"mailCode724","DO_NOT_TRANSLATE"
+"mailCode725","DO_NOT_TRANSLATE"
+"mailCode726","DO_NOT_TRANSLATE"
+"mailCode727","DO_NOT_TRANSLATE"
+"mailCode728","<title>Lost phone...</title>
+<body>Please bring my homemade phone back from
+Rocky Island in Faulty Ex Machina, where
+I dropped it!</body>"
+"mailCode729","DO_NOT_TRANSLATE"
+"mailCode730","DO_NOT_TRANSLATE"
+"mailCode731","DO_NOT_TRANSLATE"
+"mailCode732","DO_NOT_TRANSLATE"
+"mailCode733","DO_NOT_TRANSLATE"
+"mailCode734","DO_NOT_TRANSLATE"
+"mailCode735","DO_NOT_TRANSLATE"
+"mailCode736","DO_NOT_TRANSLATE"
+"mailCode737","DO_NOT_TRANSLATE"
+"mailCode738","DO_NOT_TRANSLATE"
+"mailCode739","DO_NOT_TRANSLATE"
+"mailCode740","DO_NOT_TRANSLATE"
+"mailCode741","DO_NOT_TRANSLATE"
+"mailCode742","DO_NOT_TRANSLATE"
+"mailCode743","<title>My blocks...</title>
+<body>Can you get back my body block, which
+Monzaemon took?
+
+Monzaemon is probably somewhere in Bony
+Resort...
+</body>"
+"mailCode744","DO_NOT_TRANSLATE"
+"mailCode745","DO_NOT_TRANSLATE"
+"mailCode746","DO_NOT_TRANSLATE"
+"mailCode747","DO_NOT_TRANSLATE"
+"mailCode748","DO_NOT_TRANSLATE"
+"mailCode749","DO_NOT_TRANSLATE"
+"mailCode750","DO_NOT_TRANSLATE"
+"mailCode751","DO_NOT_TRANSLATE"
+"mailCode752","<title>Help please!</title>
+<body>Garurumon should be somewhere in the
+Ohguino Wastelands.
+Somewhere around Rosemon's hobby castle.
+
+Please just find him...
+Thank you in advance.</body>"
+"mailCode753","DO_NOT_TRANSLATE"
+"mailCode754","DO_NOT_TRANSLATE"
+"mailCode755","DO_NOT_TRANSLATE"
+"mailCode756","DO_NOT_TRANSLATE"
+"mailCode757","DO_NOT_TRANSLATE"
+"mailCode758","<title>Recapture the Vangassa!</title>
+<body>Please bring back the Vangassa that
+Turuiemon of Logic Volcano stole away!
+This'll be easier than slicing butter!
+Butter straight from the microwave!</body>"
+"mailCode759","DO_NOT_TRANSLATE"
+"mailCode760","DO_NOT_TRANSLATE"
+"mailCode761","<title>SkullGrey Ring</title>
+<body>Can you somehow get a SkullGrey Ring from
+SkullGreymon and bring it to me?
+Find SkullGreymon in Bony Resort. You
+can do it with your negotiation skills!</body>"
+"mailCode762","DO_NOT_TRANSLATE"
+"mailCode763","DO_NOT_TRANSLATE"
+"mailCode764","DO_NOT_TRANSLATE"
+"mailCode765","DO_NOT_TRANSLATE"
+"mailCode766","DO_NOT_TRANSLATE"
+"mailCode767","<title>The battery's dead!</title>
+<body>The battery in my mic is dead!
+Go and get me a Digi-Battery from the
+control room of Faulty Ex Machina!</body>"
+"mailCode768","DO_NOT_TRANSLATE"
+"mailCode769","DO_NOT_TRANSLATE"
+"mailCode770","DO_NOT_TRANSLATE"
+"mailCode771","DO_NOT_TRANSLATE"
+"mailCode772","DO_NOT_TRANSLATE"
+"mailCode773","<title>Platinum Poop Medal</title>
+<body>There is only one Platinum Poop Medal in
+this world!
+Find it for me!</body>"
+"mailCode774","DO_NOT_TRANSLATE"
+"mailCode775","DO_NOT_TRANSLATE"
+"mailCode776","DO_NOT_TRANSLATE"
+"mailCode777","DO_NOT_TRANSLATE"
+"mailCode778","DO_NOT_TRANSLATE"
+"mailCode779","DO_NOT_TRANSLATE"
+"mailCode780","DO_NOT_TRANSLATE"
+"mailCode781","DO_NOT_TRANSLATE"
+"mailCode782","DO_NOT_TRANSLATE"
+"mailCode783","DO_NOT_TRANSLATE"
+"mailCode784","DO_NOT_TRANSLATE"
+"mailCode785","<title>Fishy Picture!</title>
+<body>Can you get me a Fishy Picture from a
+MegaSeadramon in MOD Cape?
+Pretty please!
+I can hardly contain my excitement!</body>"
+"mailCode786","DO_NOT_TRANSLATE"
+"mailCode787","DO_NOT_TRANSLATE"
+"mailCode788","DO_NOT_TRANSLATE"
+"mailCode789","DO_NOT_TRANSLATE"
+"mailCode790","DO_NOT_TRANSLATE"
+"mailCode791","<title>A worrying injury...</title>
+<body>If it doesn't get any worse, it should
+be okay, but I'm really worried!
+
+I think Hackmon is at the Garbage Pile
+at Logic Volcano...
+He seems to misunderstand me, so I can't
+go myself.
+
+Please go look in on him for me. Thanks!</body>"
+"mailCode792","DO_NOT_TRANSLATE"
+"mailCode793","DO_NOT_TRANSLATE"
+"mailCode794","DO_NOT_TRANSLATE"
+"mailCode795","DO_NOT_TRANSLATE"
+"mailCode796","DO_NOT_TRANSLATE"
+"mailCode797","DO_NOT_TRANSLATE"
+"mailCode798","DO_NOT_TRANSLATE"
+"mailCode799","DO_NOT_TRANSLATE"
+"mailCode800","<title>Yummy! Yummy! Yummy!</title>
+<body>I have a request!
+It's a delicious request...
+
+Do you know the Seraphimon in the Server
+Desert? You know, in Dead End Town.
+You need to get them for me!
+My mouth is watering just remembering
+the taste!</body>"
+"mailCode801","DO_NOT_TRANSLATE"
+"mailCode802","DO_NOT_TRANSLATE"
+"mailCode803","DO_NOT_TRANSLATE"
+"mailCode804","DO_NOT_TRANSLATE"
+"mailCode805","DO_NOT_TRANSLATE"
+"mailCode806","DO_NOT_TRANSLATE"
+"mailCode807","DO_NOT_TRANSLATE"
+"mailCode808","DO_NOT_TRANSLATE"
+"mailCode809","DO_NOT_TRANSLATE"
+"mailCode810","DO_NOT_TRANSLATE"
+"mailCode811","DO_NOT_TRANSLATE"
+"mailCode812","<title>A wicked aura...</title>
+<body>There is an aura of wickedness emanating
+from the Concealed Gorge in Absolute
+Zero! You need to get rid of it!
+I'll be praying for you!</body>"
+"mailCode813","DO_NOT_TRANSLATE"
+"mailCode814","DO_NOT_TRANSLATE"
+"mailCode815","DO_NOT_TRANSLATE"
+"mailCode816","DO_NOT_TRANSLATE"
+"mailCode817","DO_NOT_TRANSLATE"
+"mailCode818","DO_NOT_TRANSLATE"
+"mailCode819","DO_NOT_TRANSLATE"
+"mailCode820","DO_NOT_TRANSLATE"
+"mailCode821","DO_NOT_TRANSLATE"
+"mailCode822","DO_NOT_TRANSLATE"
+"mailCode823","DO_NOT_TRANSLATE"
+"mailCode824","DO_NOT_TRANSLATE"
+"mailCode825","DO_NOT_TRANSLATE"
+"mailCode826","DO_NOT_TRANSLATE"
+"mailCode827","DO_NOT_TRANSLATE"
+"mailCode828","DO_NOT_TRANSLATE"
+"mailCode829","DO_NOT_TRANSLATE"
+"mailCode830","DO_NOT_TRANSLATE"
+"mailCode831","DO_NOT_TRANSLATE"
+"mailCode832","DO_NOT_TRANSLATE"
+"mailCode833","<title>We need to make repairs!</title>
+<body>Bring what we need to repair the shell
+armor from Digimon in Infinite Cauldron!
+</body>"
+"mailCode834","DO_NOT_TRANSLATE"
+"mailCode835","DO_NOT_TRANSLATE"
+"mailCode836","DO_NOT_TRANSLATE"
+"mailCode837","DO_NOT_TRANSLATE"
+"mailCode838","DO_NOT_TRANSLATE"
+"mailCode839","DO_NOT_TRANSLATE"
+"mailCode840","DO_NOT_TRANSLATE"
+"mailCode841","DO_NOT_TRANSLATE"
+"mailCode842","DO_NOT_TRANSLATE"
+"mailCode843","DO_NOT_TRANSLATE"
+"mailCode844","DO_NOT_TRANSLATE"
+"mailCode845","<title>The end of the world!</title>
+<body>He is still close!
+We are getting a RustTyranomon signal
+from Layer 04 in Infinite Cauldron!
+
+We can't just do nothing about this
+destructive power... This might be our
+only chance to defeat him.
+He can't be immortal. Please...</body>"
+"mailCode846","DO_NOT_TRANSLATE"
+"mailCode847","DO_NOT_TRANSLATE"
+"mailCode848","<title>Please...</title>
+<body>Please bring me a Large Double Disk...
+
+Before I disappear... Please!</body>"
+"mailCode849","DO_NOT_TRANSLATE"
+"mailCode850","DO_NOT_TRANSLATE"
+"mailCode851","DO_NOT_TRANSLATE"
+"mailCode852","DO_NOT_TRANSLATE"
+"mailCode853","DO_NOT_TRANSLATE"
+"mailCode854","DO_NOT_TRANSLATE"
+"mailCode855","DO_NOT_TRANSLATE"
+"mailCode856","DO_NOT_TRANSLATE"
+"mailCode857","DO_NOT_TRANSLATE"
+"mailCode858","DO_NOT_TRANSLATE"
+"mailCode859","DO_NOT_TRANSLATE"
+"mailCode860","DO_NOT_TRANSLATE"
+"mailCode861","DO_NOT_TRANSLATE"
+"mailCode862","DO_NOT_TRANSLATE"
+"mailCode863","DO_NOT_TRANSLATE"
+"mailCode864","DO_NOT_TRANSLATE"
+"mailCode865","DO_NOT_TRANSLATE"
+"mailCode866","DO_NOT_TRANSLATE"
+"mailCode867","DO_NOT_TRANSLATE"
+"mailCode868","DO_NOT_TRANSLATE"
+"mailCode869","DO_NOT_TRANSLATE"
+"mailCode870","DO_NOT_TRANSLATE"
+"mailCode871","DO_NOT_TRANSLATE"
+"mailCode872","DO_NOT_TRANSLATE"
+"mailCode873","DO_NOT_TRANSLATE"
+"mailCode874","DO_NOT_TRANSLATE"
+"mailCode875","DO_NOT_TRANSLATE"
+"mailCode876","DO_NOT_TRANSLATE"
+"mailCode877","DO_NOT_TRANSLATE"
+"mailCode878","DO_NOT_TRANSLATE"
+"mailCode879","DO_NOT_TRANSLATE"
+"mailCode880","DO_NOT_TRANSLATE"
+"mailCode881","DO_NOT_TRANSLATE"
+"mailCode882","DO_NOT_TRANSLATE"
+"mailCode883","DO_NOT_TRANSLATE"
+"mailCode884","<title>タイトル</title><body>本文0884</body>"
+"mailCode885","<title>タイトル</title><body>本文0885</body>"
+"mailCode886","<title>タイトル</title><body>本文0886</body>"
+"mailCode887","<title>タイトル</title><body>本文0887</body>"
+"mailCode888","<title>タイトル</title><body>本文0888</body>"
+"mailCode889","<title>タイトル</title><body>本文0889</body>"
+"mailCode890","<title>タイトル</title><body>本文0890</body>"
+"mailCode891","<title>タイトル</title><body>本文0891</body>"
+"mailCode892","<title>タイトル</title><body>本文0892</body>"
+"mailCode893","<title>タイトル</title><body>本文0893</body>"
+"mailCode894","<title>タイトル</title><body>本文0894</body>"
+"mailCode895","<title>タイトル</title><body>本文0895</body>"
+"mailCode896","<title>タイトル</title><body>本文0896</body>"
+"mailCode897","<title>タイトル</title><body>本文0897</body>"
+"mailCode898","<title>タイトル</title><body>本文0898</body>"
+"mailCode899","<title>タイトル</title><body>本文0899</body>"
+"mailCode900","<title>タイトル</title><body>本文0900</body>"
+"mailCode901","<title>タイトル</title><body>本文0901</body>"
+"mailCode902","<title>タイトル</title><body>本文0902</body>"
+"mailCode903","<title>タイトル</title><body>本文0903</body>"
+"mailCode904","<title>タイトル</title><body>本文0904</body>"
+"mailCode905","<title>タイトル</title><body>本文0905</body>"
+"mailCode906","<title>タイトル</title><body>本文0906</body>"
+"mailCode907","<title>タイトル</title><body>本文0907</body>"
+"mailCode908","<title>タイトル</title><body>本文0908</body>"
+"mailCode909","<title>タイトル</title><body>本文0909</body>"
+"mailCode910","<title>タイトル</title><body>本文0910</body>"
+"mailCode911","<title>タイトル</title><body>本文0911</body>"
+"mailCode912","<title>タイトル</title><body>本文0912</body>"
+"mailCode913","<title>タイトル</title><body>本文0913</body>"
+"mailCode914","<title>タイトル</title><body>本文0914</body>"
+"mailCode915","<title>タイトル</title><body>本文0915</body>"
+"mailCode916","<title>タイトル</title><body>本文0916</body>"
+"mailCode917","<title>タイトル</title><body>本文0917</body>"
+"mailCode918","<title>タイトル</title><body>本文0918</body>"
+"mailCode919","<title>タイトル</title><body>本文0919</body>"
+"mailCode920","<title>タイトル</title><body>本文0920</body>"
+"mailCode921","<title>タイトル</title><body>本文0921</body>"
+"mailCode922","<title>タイトル</title><body>本文0922</body>"
+"mailCode923","<title>タイトル</title><body>本文0923</body>"
+"mailCode924","<title>タイトル</title><body>本文0924</body>"
+"mailCode925","<title>タイトル</title><body>本文0925</body>"
+"mailCode926","<title>タイトル</title><body>本文0926</body>"
+"mailCode927","<title>タイトル</title><body>本文0927</body>"
+"mailCode928","<title>タイトル</title><body>本文0928</body>"
+"mailCode929","<title>タイトル</title><body>本文0929</body>"
+"mailCode930","<title>タイトル</title><body>本文0930</body>"
+"mailCode931","<title>タイトル</title><body>本文0931</body>"
+"mailCode932","<title>タイトル</title><body>本文0932</body>"
+"mailCode933","<title>タイトル</title><body>本文0933</body>"
+"mailCode934","<title>タイトル</title><body>本文0934</body>"
+"mailCode935","<title>タイトル</title><body>本文0935</body>"
+"mailCode936","<title>タイトル</title><body>本文0936</body>"
+"mailCode937","<title>タイトル</title><body>本文0937</body>"
+"mailCode938","<title>タイトル</title><body>本文0938</body>"
+"mailCode939","<title>タイトル</title><body>本文0939</body>"
+"mailCode940","<title>タイトル</title><body>本文0940</body>"
+"mailCode941","<title>タイトル</title><body>本文0941</body>"
+"mailCode942","<title>タイトル</title><body>本文0942</body>"
+"mailCode943","<title>タイトル</title><body>本文0943</body>"
+"mailCode944","<title>タイトル</title><body>本文0944</body>"
+"mailCode945","<title>タイトル</title><body>本文0945</body>"
+"mailCode946","<title>タイトル</title><body>本文0946</body>"
+"mailCode947","<title>タイトル</title><body>本文0947</body>"
+"mailCode948","<title>タイトル</title><body>本文0948</body>"
+"mailCode949","<title>タイトル</title><body>本文0949</body>"
+"mailCode950","<title>タイトル</title><body>本文0950</body>"
+"mailCode951","<title>タイトル</title><body>本文0951</body>"
+"mailCode952","<title>タイトル</title><body>本文0952</body>"
+"mailCode953","<title>タイトル</title><body>本文0953</body>"
+"mailCode954","<title>タイトル</title><body>本文0954</body>"
+"mailCode955","<title>タイトル</title><body>本文0955</body>"
+"mailCode956","<title>タイトル</title><body>本文0956</body>"
+"mailCode957","<title>タイトル</title><body>本文0957</body>"
+"mailCode958","<title>タイトル</title><body>本文0958</body>"
+"mailCode959","<title>タイトル</title><body>本文0959</body>"
+"mailCode960","<title>タイトル</title><body>本文0960</body>"
+"mailCode961","<title>タイトル</title><body>本文0961</body>"
+"mailCode962","<title>タイトル</title><body>本文0962</body>"
+"mailCode963","<title>タイトル</title><body>本文0963</body>"
+"mailCode964","<title>タイトル</title><body>本文0964</body>"
+"mailCode965","<title>タイトル</title><body>本文0965</body>"
+"mailCode966","<title>タイトル</title><body>本文0966</body>"
+"mailCode967","<title>タイトル</title><body>本文0967</body>"
+"mailCode968","<title>タイトル</title><body>本文0968</body>"
+"mailCode969","<title>タイトル</title><body>本文0969</body>"
+"mailCode970","<title>タイトル</title><body>本文0970</body>"
+"mailCode971","<title>タイトル</title><body>本文0971</body>"
+"mailCode972","<title>タイトル</title><body>本文0972</body>"
+"mailCode973","<title>タイトル</title><body>本文0973</body>"
+"mailCode974","<title>タイトル</title><body>本文0974</body>"
+"mailCode975","<title>タイトル</title><body>本文0975</body>"
+"mailCode976","<title>タイトル</title><body>本文0976</body>"
+"mailCode977","<title>タイトル</title><body>本文0977</body>"
+"mailCode978","<title>タイトル</title><body>本文0978</body>"
+"mailCode979","<title>タイトル</title><body>本文0979</body>"
+"mailCode980","<title>タイトル</title><body>本文0980</body>"
+"mailCode981","<title>タイトル</title><body>本文0981</body>"
+"mailCode982","<title>タイトル</title><body>本文0982</body>"
+"mailCode983","<title>タイトル</title><body>本文0983</body>"
+"mailCode984","<title>タイトル</title><body>本文0984</body>"
+"mailCode985","<title>タイトル</title><body>本文0985</body>"
+"mailCode986","<title>タイトル</title><body>本文0986</body>"
+"mailCode987","<title>タイトル</title><body>本文0987</body>"
+"mailCode988","<title>タイトル</title><body>本文0988</body>"
+"mailCode989","<title>タイトル</title><body>本文0989</body>"
+"mailCode990","<title>タイトル</title><body>本文0990</body>"
+"mailCode991","<title>タイトル</title><body>本文0991</body>"
+"mailCode992","<title>タイトル</title><body>本文0992</body>"
+"mailCode993","<title>タイトル</title><body>本文0993</body>"
+"mailCode994","<title>タイトル</title><body>本文0994</body>"
+"mailCode995","<title>タイトル</title><body>本文0995</body>"
+"mailCode996","<title>タイトル</title><body>本文0996</body>"
+"mailCode997","<title>タイトル</title><body>本文0997</body>"
+"mailCode998","<title>タイトル</title><body>本文0998</body>"
+"mailCode999","<title>タイトル</title><body>本文0999</body>"
+"mailCode1000","<title>タイトル</title><body>本文1000</body>"
+"mailCode1001","<title>タイトル</title><body>本文1001</body>"
+"mailCode1002","<title>タイトル</title><body>本文1002</body>"
+"mailCode1003","<title>タイトル</title><body>本文1003</body>"
+"mailCode1004","<title>タイトル</title><body>本文1004</body>"
+"mailCode1005","<title>タイトル</title><body>本文1005</body>"
+"mailCode1006","<title>タイトル</title><body>本文1006</body>"
+"mailCode1007","<title>タイトル</title><body>本文1007</body>"
+"mailCode1008","<title>タイトル</title><body>本文1008</body>"
+"mailCode1009","<title>タイトル</title><body>本文1009</body>"
+"mailCode1010","<title>タイトル</title><body>本文1010</body>"
+"mailCode1011","<title>タイトル</title><body>本文1011</body>"
+"mailCode1012","<title>タイトル</title><body>本文1012</body>"
+"mailCode1013","<title>タイトル</title><body>本文1013</body>"
+"mailCode1014","<title>タイトル</title><body>本文1014</body>"
+"mailCode1015","<title>タイトル</title><body>本文1015</body>"
+"mailCode1016","<title>タイトル</title><body>本文1016</body>"
+"mailCode1017","<title>タイトル</title><body>本文1017</body>"
+"mailCode1018","<title>タイトル</title><body>本文1018</body>"
+"mailCode1019","<title>タイトル</title><body>本文1019</body>"
+"mailCode1020","<title>タイトル</title><body>本文1020</body>"
+"mailCode1021","<title>タイトル</title><body>本文1021</body>"
+"mailCode1022","<title>タイトル</title><body>本文1022</body>"
+"mailCode1023","<title>タイトル</title><body>本文1023</body>"
+"mailCode1024","<title>タイトル</title><body>本文1024</body>"
+"mailCode1025","<title>タイトル</title><body>本文1025</body>"
+"mailCode1026","<title>タイトル</title><body>本文1026</body>"
+"mailCode1027","<title>タイトル</title><body>本文1027</body>"
+"mailCode1028","<title>タイトル</title><body>本文1028</body>"
+"mailCode1029","<title>タイトル</title><body>本文1029</body>"
+"mailCode1030","<title>タイトル</title><body>本文1030</body>"
+"mailCode1031","<title>タイトル</title><body>本文1031</body>"
+"mailCode1032","<title>タイトル</title><body>本文1032</body>"
+"mailCode1033","<title>タイトル</title><body>本文1033</body>"
+"mailCode1034","<title>タイトル</title><body>本文1034</body>"
+"mailCode1035","<title>タイトル</title><body>本文1035</body>"
+"mailCode1036","<title>タイトル</title><body>本文1036</body>"
+"mailCode1037","<title>タイトル</title><body>本文1037</body>"
+"mailCode1038","<title>タイトル</title><body>本文1038</body>"
+"mailCode1039","<title>タイトル</title><body>本文1039</body>"
+"mailCode1040","<title>タイトル</title><body>本文1040</body>"
+"mailCode1041","<title>タイトル</title><body>本文1041</body>"
+"mailCode1042","<title>タイトル</title><body>本文1042</body>"
+"mailCode1043","<title>タイトル</title><body>本文1043</body>"
+"mailCode1044","<title>タイトル</title><body>本文1044</body>"
+"mailCode1045","<title>タイトル</title><body>本文1045</body>"
+"mailCode1046","<title>タイトル</title><body>本文1046</body>"
+"mailCode1047","<title>タイトル</title><body>本文1047</body>"
+"mailCode1048","<title>タイトル</title><body>本文1048</body>"
+"mailCode1049","<title>タイトル</title><body>本文1049</body>"
+"mailCode1050","<title>タイトル</title><body>本文1050</body>"
+"mailCode1051","<title>タイトル</title><body>本文1051</body>"
+"mailCode1052","<title>タイトル</title><body>本文1052</body>"
+"mailCode1053","<title>タイトル</title><body>本文1053</body>"
+"mailCode1054","<title>タイトル</title><body>本文1054</body>"
+"mailCode1055","<title>タイトル</title><body>本文1055</body>"
+"mailCode1056","<title>タイトル</title><body>本文1056</body>"
+"mailCode1057","<title>タイトル</title><body>本文1057</body>"
+"mailCode1058","<title>タイトル</title><body>本文1058</body>"
+"mailCode1059","<title>タイトル</title><body>本文1059</body>"
+"mailCode1060","<title>タイトル</title><body>本文1060</body>"
+"mailCode1061","<title>タイトル</title><body>本文1061</body>"
+"mailCode1062","<title>タイトル</title><body>本文1062</body>"
+"mailCode1063","<title>タイトル</title><body>本文1063</body>"
+"mailCode1064","<title>タイトル</title><body>本文1064</body>"
+"mailCode1065","<title>タイトル</title><body>本文1065</body>"
+"mailCode1066","<title>タイトル</title><body>本文1066</body>"
+"mailCode1067","<title>タイトル</title><body>本文1067</body>"
+"mailCode1068","<title>タイトル</title><body>本文1068</body>"
+"mailCode1069","<title>タイトル</title><body>本文1069</body>"
+"mailCode1070","<title>タイトル</title><body>本文1070</body>"
+"mailCode1071","<title>タイトル</title><body>本文1071</body>"
+"mailCode1072","<title>タイトル</title><body>本文1072</body>"
+"mailCode1073","<title>タイトル</title><body>本文1073</body>"
+"mailCode1074","<title>タイトル</title><body>本文1074</body>"
+"mailCode1075","<title>タイトル</title><body>本文1075</body>"
+"mailCode1076","<title>タイトル</title><body>本文1076</body>"
+"mailCode1077","<title>タイトル</title><body>本文1077</body>"
+"mailCode1078","<title>タイトル</title><body>本文1078</body>"
+"mailCode1079","<title>タイトル</title><body>本文1079</body>"
+"mailCode1080","<title>タイトル</title><body>本文1080</body>"
+"mailCode1081","<title>タイトル</title><body>本文1081</body>"
+"mailCode1082","<title>タイトル</title><body>本文1082</body>"
+"mailCode1083","<title>タイトル</title><body>本文1083</body>"
+"mailCode1084","<title>タイトル</title><body>本文1084</body>"
+"mailCode1085","<title>タイトル</title><body>本文1085</body>"
+"mailCode1086","<title>タイトル</title><body>本文1086</body>"
+"mailCode1087","<title>タイトル</title><body>本文1087</body>"
+"mailCode1088","<title>タイトル</title><body>本文1088</body>"
+"mailCode1089","<title>タイトル</title><body>本文1089</body>"
+"mailCode1090","<title>タイトル</title><body>本文1090</body>"
+"mailCode1091","<title>タイトル</title><body>本文1091</body>"
+"mailCode1092","<title>タイトル</title><body>本文1092</body>"
+"mailCode1093","<title>タイトル</title><body>本文1093</body>"
+"mailCode1094","<title>タイトル</title><body>本文1094</body>"
+"mailCode1095","<title>タイトル</title><body>本文1095</body>"
+"mailCode1096","<title>タイトル</title><body>本文1096</body>"
+"mailCode1097","<title>タイトル</title><body>本文1097</body>"
+"mailCode1098","<title>タイトル</title><body>本文1098</body>"
+"mailCode1099","<title>タイトル</title><body>本文1099</body>"
+"mailCode1100","<title>タイトル</title><body>本文1100</body>"
+"mailCode1101","<title>タイトル</title><body>本文1101</body>"
+"mailCode1102","<title>タイトル</title><body>本文1102</body>"
+"mailCode1103","<title>タイトル</title><body>本文1103</body>"
+"mailCode1104","<title>タイトル</title><body>本文1104</body>"
+"mailCode1105","<title>タイトル</title><body>本文1105</body>"
+"mailCode1106","<title>タイトル</title><body>本文1106</body>"
+"mailCode1107","<title>タイトル</title><body>本文1107</body>"
+"mailCode1108","<title>タイトル</title><body>本文1108</body>"
+"mailCode1109","<title>タイトル</title><body>本文1109</body>"
+"mailCode1110","<title>タイトル</title><body>本文1110</body>"
+"mailCode1111","<title>タイトル</title><body>本文1111</body>"
+"mailCode1112","<title>タイトル</title><body>本文1112</body>"
+"mailCode1113","<title>タイトル</title><body>本文1113</body>"
+"mailCode1114","<title>タイトル</title><body>本文1114</body>"
+"mailCode1115","<title>タイトル</title><body>本文1115</body>"
+"mailCode1116","<title>タイトル</title><body>本文1116</body>"
+"mailCode1117","<title>タイトル</title><body>本文1117</body>"
+"mailCode1118","<title>タイトル</title><body>本文1118</body>"
+"mailCode1119","<title>タイトル</title><body>本文1119</body>"
+"mailCode1120","<title>タイトル</title><body>本文1120</body>"
+"mailCode1121","<title>タイトル</title><body>本文1121</body>"
+"mailCode1122","<title>タイトル</title><body>本文1122</body>"
+"mailCode1123","<title>タイトル</title><body>本文1123</body>"
+"mailCode1124","<title>タイトル</title><body>本文1124</body>"
+"mailCode1125","<title>タイトル</title><body>本文1125</body>"
+"mailCode1126","<title>タイトル</title><body>本文1126</body>"
+"mailCode1127","<title>タイトル</title><body>本文1127</body>"
+"mailCode1128","<title>タイトル</title><body>本文1128</body>"
+"mailCode1129","<title>タイトル</title><body>本文1129</body>"
+"mailCode1130","<title>タイトル</title><body>本文1130</body>"
+"mailCode1131","<title>タイトル</title><body>本文1131</body>"
+"mailCode1132","<title>タイトル</title><body>本文1132</body>"
+"mailCode1133","<title>タイトル</title><body>本文1133</body>"
+"mailCode1134","<title>タイトル</title><body>本文1134</body>"
+"mailCode1135","<title>タイトル</title><body>本文1135</body>"
+"mailCode1136","<title>タイトル</title><body>本文1136</body>"
+"mailCode1137","<title>タイトル</title><body>本文1137</body>"
+"mailCode1138","<title>タイトル</title><body>本文1138</body>"
+"mailCode1139","<title>タイトル</title><body>本文1139</body>"
+"mailCode1140","<title>タイトル</title><body>本文1140</body>"
+"mailCode1141","<title>タイトル</title><body>本文1141</body>"
+"mailCode1142","<title>タイトル</title><body>本文1142</body>"
+"mailCode1143","<title>タイトル</title><body>本文1143</body>"
+"mailCode1144","<title>タイトル</title><body>本文1144</body>"
+"mailCode1145","<title>タイトル</title><body>本文1145</body>"
+"mailCode1146","<title>タイトル</title><body>本文1146</body>"
+"mailCode1147","<title>タイトル</title><body>本文1147</body>"
+"mailCode1148","<title>タイトル</title><body>本文1148</body>"
+"mailCode1149","<title>タイトル</title><body>本文1149</body>"
+"mailCode1150","<title>タイトル</title><body>本文1150</body>"
+"mailCode1151","<title>タイトル</title><body>本文1151</body>"
+"mailCode1152","<title>タイトル</title><body>本文1152</body>"
+"mailCode1153","<title>タイトル</title><body>本文1153</body>"
+"mailCode1154","<title>タイトル</title><body>本文1154</body>"
+"mailCode1155","<title>タイトル</title><body>本文1155</body>"
+"mailCode1156","<title>タイトル</title><body>本文1156</body>"
+"mailCode1157","<title>タイトル</title><body>本文1157</body>"
+"mailCode1158","<title>タイトル</title><body>本文1158</body>"
+"mailCode1159","<title>タイトル</title><body>本文1159</body>"
+"mailCode1160","<title>タイトル</title><body>本文1160</body>"
+"mailCode1161","<title>タイトル</title><body>本文1161</body>"
+"mailCode1162","<title>タイトル</title><body>本文1162</body>"
+"mailCode1163","<title>タイトル</title><body>本文1163</body>"
+"mailCode1164","<title>タイトル</title><body>本文1164</body>"
+"mailCode1165","<title>タイトル</title><body>本文1165</body>"
+"mailCode1166","<title>タイトル</title><body>本文1166</body>"
+"mailCode1167","<title>タイトル</title><body>本文1167</body>"
+"mailCode1168","<title>タイトル</title><body>本文1168</body>"
+"mailCode1169","<title>タイトル</title><body>本文1169</body>"
+"mailCode1170","<title>タイトル</title><body>本文1170</body>"
+"mailCode1171","<title>タイトル</title><body>本文1171</body>"
+"mailCode1172","<title>タイトル</title><body>本文1172</body>"
+"mailCode1173","<title>タイトル</title><body>本文1173</body>"
+"mailCode1174","<title>タイトル</title><body>本文1174</body>"
+"mailCode1175","<title>タイトル</title><body>本文1175</body>"
+"mailCode1176","<title>タイトル</title><body>本文1176</body>"
+"mailCode1177","<title>タイトル</title><body>本文1177</body>"
+"mailCode1178","<title>タイトル</title><body>本文1178</body>"
+"mailCode1179","<title>タイトル</title><body>本文1179</body>"
+"mailCode1180","<title>タイトル</title><body>本文1180</body>"
+"mailCode1181","<title>タイトル</title><body>本文1181</body>"
+"mailCode1182","<title>タイトル</title><body>本文1182</body>"
+"mailCode1183","<title>タイトル</title><body>本文1183</body>"
+"mailCode1184","<title>タイトル</title><body>本文1184</body>"
+"mailCode1185","<title>タイトル</title><body>本文1185</body>"
+"mailCode1186","<title>タイトル</title><body>本文1186</body>"
+"mailCode1187","<title>タイトル</title><body>本文1187</body>"
+"mailCode1188","<title>タイトル</title><body>本文1188</body>"
+"mailCode1189","<title>タイトル</title><body>本文1189</body>"
+"mailCode1190","<title>タイトル</title><body>本文1190</body>"
+"mailCode1191","<title>タイトル</title><body>本文1191</body>"
+"mailCode1192","<title>タイトル</title><body>本文1192</body>"
+"mailCode1193","<title>タイトル</title><body>本文1193</body>"
+"mailCode1194","<title>タイトル</title><body>本文1194</body>"
+"mailCode1195","<title>タイトル</title><body>本文1195</body>"
+"mailCode1196","<title>タイトル</title><body>本文1196</body>"
+"mailCode1197","<title>タイトル</title><body>本文1197</body>"
+"mailCode1198","<title>タイトル</title><body>本文1198</body>"
+"mailCode1199","<title>タイトル</title><body>本文1199</body>"
+"mailCode1200","<title>タイトル</title><body>本文1200</body>"
+"mailCode1201","<title>タイトル</title><body>本文1201</body>"
+"mailCode1202","<title>タイトル</title><body>本文1202</body>"
+"mailCode1203","<title>タイトル</title><body>本文1203</body>"
+"mailCode1204","<title>タイトル</title><body>本文1204</body>"
+"mailCode1205","<title>タイトル</title><body>本文1205</body>"
+"mailCode1206","<title>タイトル</title><body>本文1206</body>"
+"mailCode1207","<title>タイトル</title><body>本文1207</body>"
+"mailCode1208","<title>タイトル</title><body>本文1208</body>"
+"mailCode1209","<title>タイトル</title><body>本文1209</body>"
+"mailCode1210","<title>タイトル</title><body>本文1210</body>"
+"mailCode1211","<title>タイトル</title><body>本文1211</body>"
+"mailCode1212","<title>タイトル</title><body>本文1212</body>"
+"mailCode1213","<title>タイトル</title><body>本文1213</body>"
+"mailCode1214","<title>タイトル</title><body>本文1214</body>"
+"mailCode1215","<title>タイトル</title><body>本文1215</body>"
+"mailCode1216","<title>タイトル</title><body>本文1216</body>"
+"mailCode1217","<title>タイトル</title><body>本文1217</body>"
+"mailCode1218","<title>タイトル</title><body>本文1218</body>"
+"mailCode1219","<title>タイトル</title><body>本文1219</body>"
+"mailCode1220","<title>タイトル</title><body>本文1220</body>"
+"mailCode1221","<title>タイトル</title><body>本文1221</body>"
+"mailCode1222","<title>タイトル</title><body>本文1222</body>"
+"mailCode1223","<title>タイトル</title><body>本文1223</body>"
+"mailCode1224","<title>タイトル</title><body>本文1224</body>"
+"mailCode1225","<title>タイトル</title><body>本文1225</body>"
+"mailCode1226","<title>タイトル</title><body>本文1226</body>"
+"mailCode1227","<title>タイトル</title><body>本文1227</body>"
+"mailCode1228","<title>タイトル</title><body>本文1228</body>"
+"mailCode1229","<title>タイトル</title><body>本文1229</body>"
+"mailCode1230","<title>タイトル</title><body>本文1230</body>"
+"mailCode1231","<title>タイトル</title><body>本文1231</body>"
+"mailCode1232","<title>タイトル</title><body>本文1232</body>"
+"mailCode1233","<title>タイトル</title><body>本文1233</body>"
+"mailCode1234","<title>タイトル</title><body>本文1234</body>"
+"mailCode1235","<title>タイトル</title><body>本文1235</body>"
+"mailCode1236","<title>タイトル</title><body>本文1236</body>"
+"mailCode1237","<title>タイトル</title><body>本文1237</body>"
+"mailCode1238","<title>タイトル</title><body>本文1238</body>"
+"mailCode1239","<title>タイトル</title><body>本文1239</body>"
+"mailCode1240","<title>タイトル</title><body>本文1240</body>"
+"mailCode1241","<title>タイトル</title><body>本文1241</body>"
+"mailCode1242","<title>タイトル</title><body>本文1242</body>"
+"mailCode1243","<title>タイトル</title><body>本文1243</body>"
+"mailCode1244","<title>タイトル</title><body>本文1244</body>"
+"mailCode1245","<title>タイトル</title><body>本文1245</body>"
+"mailCode1246","<title>タイトル</title><body>本文1246</body>"
+"mailCode1247","<title>タイトル</title><body>本文1247</body>"
+"mailCode1248","<title>タイトル</title><body>本文1248</body>"
+"mailCode1249","<title>タイトル</title><body>本文1249</body>"
+"mailCode1250","<title>タイトル</title><body>本文1250</body>"
+"mailCode1251","<title>タイトル</title><body>本文1251</body>"
+"mailCode1252","<title>タイトル</title><body>本文1252</body>"
+"mailCode1253","<title>タイトル</title><body>本文1253</body>"
+"mailCode1254","<title>タイトル</title><body>本文1254</body>"
+"mailCode1255","<title>タイトル</title><body>本文1255</body>"
+"mailCode1256","<title>タイトル</title><body>本文1256</body>"
+"mailCode1257","<title>タイトル</title><body>本文1257</body>"
+"mailCode1258","<title>タイトル</title><body>本文1258</body>"
+"mailCode1259","<title>タイトル</title><body>本文1259</body>"
+"mailCode1260","<title>タイトル</title><body>本文1260</body>"
+"mailCode1261","<title>タイトル</title><body>本文1261</body>"
+"mailCode1262","<title>タイトル</title><body>本文1262</body>"
+"mailCode1263","<title>タイトル</title><body>本文1263</body>"
+"mailCode1264","<title>タイトル</title><body>本文1264</body>"
+"mailCode1265","<title>タイトル</title><body>本文1265</body>"
+"mailCode1266","<title>タイトル</title><body>本文1266</body>"
+"mailCode1267","<title>タイトル</title><body>本文1267</body>"
+"mailCode1268","<title>タイトル</title><body>本文1268</body>"
+"mailCode1269","<title>タイトル</title><body>本文1269</body>"
+"mailCode1270","<title>タイトル</title><body>本文1270</body>"
+"mailCode1271","<title>タイトル</title><body>本文1271</body>"
+"mailCode1272","<title>タイトル</title><body>本文1272</body>"
+"mailCode1273","<title>タイトル</title><body>本文1273</body>"
+"mailCode1274","<title>タイトル</title><body>本文1274</body>"
+"mailCode1275","<title>タイトル</title><body>本文1275</body>"
+"mailCode1276","<title>タイトル</title><body>本文1276</body>"
+"mailCode1277","<title>タイトル</title><body>本文1277</body>"
+"mailCode1278","<title>タイトル</title><body>本文1278</body>"
+"mailCode1279","<title>タイトル</title><body>本文1279</body>"
+"mailCode1280","<title>タイトル</title><body>本文1280</body>"
+"mailCode1281","<title>タイトル</title><body>本文1281</body>"
+"mailCode1282","<title>タイトル</title><body>本文1282</body>"
+"mailCode1283","<title>タイトル</title><body>本文1283</body>"
+"mailCode1284","<title>タイトル</title><body>本文1284</body>"
+"mailCode1285","<title>タイトル</title><body>本文1285</body>"
+"mailCode1286","<title>タイトル</title><body>本文1286</body>"
+"mailCode1287","<title>タイトル</title><body>本文1287</body>"
+"mailCode1288","<title>タイトル</title><body>本文1288</body>"
+"mailCode1289","<title>タイトル</title><body>本文1289</body>"
+"mailCode1290","<title>タイトル</title><body>本文1290</body>"
+"mailCode1291","<title>タイトル</title><body>本文1291</body>"
+"mailCode1292","<title>タイトル</title><body>本文1292</body>"
+"mailCode1293","<title>タイトル</title><body>本文1293</body>"
+"mailCode1294","<title>タイトル</title><body>本文1294</body>"
+"mailCode1295","<title>タイトル</title><body>本文1295</body>"
+"mailCode1296","<title>タイトル</title><body>本文1296</body>"
+"mailCode1297","<title>タイトル</title><body>本文1297</body>"
+"mailCode1298","<title>タイトル</title><body>本文1298</body>"
+"mailCode1299","<title>タイトル</title><body>本文1299</body>"
+"mailCode1300","<title>タイトル</title><body>本文1300</body>"
+"mailCode1301","<title>タイトル</title><body>本文1301</body>"
+"mailCode1302","<title>タイトル</title><body>本文1302</body>"
+"mailCode1303","<title>タイトル</title><body>本文1303</body>"
+"mailCode1304","<title>タイトル</title><body>本文1304</body>"
+"mailCode1305","<title>タイトル</title><body>本文1305</body>"
+"mailCode1306","<title>タイトル</title><body>本文1306</body>"
+"mailCode1307","<title>タイトル</title><body>本文1307</body>"
+"mailCode1308","<title>タイトル</title><body>本文1308</body>"
+"mailCode1309","<title>タイトル</title><body>本文1309</body>"
+"mailCode1310","<title>タイトル</title><body>本文1310</body>"
+"mailCode1311","<title>タイトル</title><body>本文1311</body>"
+"mailCode1312","<title>タイトル</title><body>本文1312</body>"
+"mailCode1313","<title>タイトル</title><body>本文1313</body>"
+"mailCode1314","<title>タイトル</title><body>本文1314</body>"
+"mailCode1315","<title>タイトル</title><body>本文1315</body>"
+"mailCode1316","<title>タイトル</title><body>本文1316</body>"
+"mailCode1317","<title>タイトル</title><body>本文1317</body>"
+"mailCode1318","<title>タイトル</title><body>本文1318</body>"
+"mailCode1319","<title>タイトル</title><body>本文1319</body>"
+"mailCode1320","<title>タイトル</title><body>本文1320</body>"
+"mailCode1321","<title>タイトル</title><body>本文1321</body>"
+"mailCode1322","<title>タイトル</title><body>本文1322</body>"
+"mailCode1323","<title>タイトル</title><body>本文1323</body>"
+"mailCode1324","<title>タイトル</title><body>本文1324</body>"
+"mailCode1325","<title>タイトル</title><body>本文1325</body>"
+"mailCode1326","<title>タイトル</title><body>本文1326</body>"
+"mailCode1327","<title>タイトル</title><body>本文1327</body>"
+"mailCode1328","<title>タイトル</title><body>本文1328</body>"
+"mailCode1329","<title>タイトル</title><body>本文1329</body>"
+"mailCode1330","<title>タイトル</title><body>本文1330</body>"
+"mailCode1331","<title>タイトル</title><body>本文1331</body>"
+"mailCode1332","<title>タイトル</title><body>本文1332</body>"
+"mailCode1333","<title>タイトル</title><body>本文1333</body>"
+"mailCode1334","<title>タイトル</title><body>本文1334</body>"
+"mailCode1335","<title>タイトル</title><body>本文1335</body>"
+"mailCode1336","<title>タイトル</title><body>本文1336</body>"
+"mailCode1337","<title>タイトル</title><body>本文1337</body>"
+"mailCode1338","<title>タイトル</title><body>本文1338</body>"
+"mailCode1339","<title>タイトル</title><body>本文1339</body>"
+"mailCode1340","<title>タイトル</title><body>本文1340</body>"
+"mailCode1341","<title>タイトル</title><body>本文1341</body>"
+"mailCode1342","<title>タイトル</title><body>本文1342</body>"
+"mailCode1343","<title>タイトル</title><body>本文1343</body>"
+"mailCode1344","<title>タイトル</title><body>本文1344</body>"
+"mailCode1345","<title>タイトル</title><body>本文1345</body>"
+"mailCode1346","<title>タイトル</title><body>本文1346</body>"
+"mailCode1347","<title>タイトル</title><body>本文1347</body>"
+"mailCode1348","<title>タイトル</title><body>本文1348</body>"
+"mailCode1349","<title>タイトル</title><body>本文1349</body>"
+"mailCode1350","<title>タイトル</title><body>本文1350</body>"
+"mailCode1351","<title>タイトル</title><body>本文1351</body>"
+"mailCode1352","<title>タイトル</title><body>本文1352</body>"
+"mailCode1353","<title>タイトル</title><body>本文1353</body>"
+"mailCode1354","<title>タイトル</title><body>本文1354</body>"
+"mailCode1355","<title>タイトル</title><body>本文1355</body>"
+"mailCode1356","<title>タイトル</title><body>本文1356</body>"
+"mailCode1357","<title>タイトル</title><body>本文1357</body>"
+"mailCode1358","<title>タイトル</title><body>本文1358</body>"
+"mailCode1359","<title>タイトル</title><body>本文1359</body>"
+"mailCode1360","<title>タイトル</title><body>本文1360</body>"
+"mailCode1361","<title>タイトル</title><body>本文1361</body>"
+"mailCode1362","<title>タイトル</title><body>本文1362</body>"
+"mailCode1363","<title>タイトル</title><body>本文1363</body>"
+"mailCode1364","<title>タイトル</title><body>本文1364</body>"
+"mailCode1365","<title>タイトル</title><body>本文1365</body>"
+"mailCode1366","<title>タイトル</title><body>本文1366</body>"
+"mailCode1367","<title>タイトル</title><body>本文1367</body>"
+"mailCode1368","<title>タイトル</title><body>本文1368</body>"
+"mailCode1369","<title>タイトル</title><body>本文1369</body>"
+"mailCode1370","<title>タイトル</title><body>本文1370</body>"
+"mailCode1371","<title>タイトル</title><body>本文1371</body>"
+"mailCode1372","<title>タイトル</title><body>本文1372</body>"
+"mailCode1373","<title>タイトル</title><body>本文1373</body>"
+"mailCode1374","<title>タイトル</title><body>本文1374</body>"
+"mailCode1375","<title>タイトル</title><body>本文1375</body>"
+"mailCode1376","<title>タイトル</title><body>本文1376</body>"
+"mailCode1377","<title>タイトル</title><body>本文1377</body>"
+"mailCode1378","<title>タイトル</title><body>本文1378</body>"
+"mailCode1379","<title>タイトル</title><body>本文1379</body>"
+"mailCode1380","<title>タイトル</title><body>本文1380</body>"
+"mailCode1381","<title>タイトル</title><body>本文1381</body>"
+"mailCode1382","<title>タイトル</title><body>本文1382</body>"
+"mailCode1383","<title>タイトル</title><body>本文1383</body>"
+"mailCode1384","<title>タイトル</title><body>本文1384</body>"
+"mailCode1385","<title>タイトル</title><body>本文1385</body>"
+"mailCode1386","<title>タイトル</title><body>本文1386</body>"
+"mailCode1387","<title>タイトル</title><body>本文1387</body>"
+"mailCode1388","<title>タイトル</title><body>本文1388</body>"
+"mailCode1389","<title>タイトル</title><body>本文1389</body>"
+"mailCode1390","<title>タイトル</title><body>本文1390</body>"
+"mailCode1391","<title>タイトル</title><body>本文1391</body>"
+"mailCode1392","<title>タイトル</title><body>本文1392</body>"
+"mailCode1393","<title>タイトル</title><body>本文1393</body>"
+"mailCode1394","<title>タイトル</title><body>本文1394</body>"
+"mailCode1395","<title>タイトル</title><body>本文1395</body>"
+"mailCode1396","<title>タイトル</title><body>本文1396</body>"
+"mailCode1397","<title>タイトル</title><body>本文1397</body>"
+"mailCode1398","<title>タイトル</title><body>本文1398</body>"
+"mailCode1399","<title>タイトル</title><body>本文1399</body>"
+"mailCode1400","<title>タイトル</title><body>本文1400</body>"
+"mailCode1401","<title>タイトル</title><body>本文1401</body>"
+"mailCode1402","<title>タイトル</title><body>本文1402</body>"
+"mailCode1403","<title>タイトル</title><body>本文1403</body>"
+"mailCode1404","<title>タイトル</title><body>本文1404</body>"
+"mailCode1405","<title>タイトル</title><body>本文1405</body>"
+"mailCode1406","<title>タイトル</title><body>本文1406</body>"
+"mailCode1407","<title>タイトル</title><body>本文1407</body>"
+"mailCode1408","<title>タイトル</title><body>本文1408</body>"
+"mailCode1409","<title>タイトル</title><body>本文1409</body>"
+"mailCode1410","<title>タイトル</title><body>本文1410</body>"
+"mailCode1411","<title>タイトル</title><body>本文1411</body>"
+"mailCode1412","<title>タイトル</title><body>本文1412</body>"
+"mailCode1413","<title>タイトル</title><body>本文1413</body>"
+"mailCode1414","<title>タイトル</title><body>本文1414</body>"
+"mailCode1415","<title>タイトル</title><body>本文1415</body>"
+"mailCode1416","<title>タイトル</title><body>本文1416</body>"
+"mailCode1417","<title>タイトル</title><body>本文1417</body>"
+"mailCode1418","<title>タイトル</title><body>本文1418</body>"
+"mailCode1419","<title>タイトル</title><body>本文1419</body>"
+"mailCode1420","<title>タイトル</title><body>本文1420</body>"
+"mailCode1421","<title>タイトル</title><body>本文1421</body>"
+"mailCode1422","<title>タイトル</title><body>本文1422</body>"
+"mailCode1423","<title>タイトル</title><body>本文1423</body>"
+"mailCode1424","<title>タイトル</title><body>本文1424</body>"
+"mailCode1425","<title>タイトル</title><body>本文1425</body>"
+"mailCode1426","<title>タイトル</title><body>本文1426</body>"
+"mailCode1427","<title>タイトル</title><body>本文1427</body>"
+"mailCode1428","<title>タイトル</title><body>本文1428</body>"
+"mailCode1429","<title>タイトル</title><body>本文1429</body>"
+"mailCode1430","<title>タイトル</title><body>本文1430</body>"
+"mailCode1431","<title>タイトル</title><body>本文1431</body>"
+"mailCode1432","<title>タイトル</title><body>本文1432</body>"
+"mailCode1433","<title>タイトル</title><body>本文1433</body>"
+"mailCode1434","<title>タイトル</title><body>本文1434</body>"
+"mailCode1435","<title>タイトル</title><body>本文1435</body>"
+"mailCode1436","<title>タイトル</title><body>本文1436</body>"
+"mailCode1437","<title>タイトル</title><body>本文1437</body>"
+"mailCode1438","<title>タイトル</title><body>本文1438</body>"
+"mailCode1439","<title>タイトル</title><body>本文1439</body>"
+"mailCode1440","<title>タイトル</title><body>本文1440</body>"
+"mailCode1441","<title>タイトル</title><body>本文1441</body>"
+"mailCode1442","<title>タイトル</title><body>本文1442</body>"
+"mailCode1443","<title>タイトル</title><body>本文1443</body>"
+"mailCode1444","<title>タイトル</title><body>本文1444</body>"
+"mailCode1445","<title>タイトル</title><body>本文1445</body>"
+"mailCode1446","<title>タイトル</title><body>本文1446</body>"
+"mailCode1447","<title>タイトル</title><body>本文1447</body>"
+"mailCode1448","<title>タイトル</title><body>本文1448</body>"
+"mailCode1449","<title>タイトル</title><body>本文1449</body>"
+"mailCode1450","<title>タイトル</title><body>本文1450</body>"
+"mailCode1451","<title>タイトル</title><body>本文1451</body>"
+"mailCode1452","<title>タイトル</title><body>本文1452</body>"
+"mailCode1453","<title>タイトル</title><body>本文1453</body>"
+"mailCode1454","<title>タイトル</title><body>本文1454</body>"
+"mailCode1455","<title>タイトル</title><body>本文1455</body>"
+"mailCode1456","<title>タイトル</title><body>本文1456</body>"
+"mailCode1457","<title>タイトル</title><body>本文1457</body>"
+"mailCode1458","<title>タイトル</title><body>本文1458</body>"
+"mailCode1459","<title>タイトル</title><body>本文1459</body>"
+"mailCode1460","<title>タイトル</title><body>本文1460</body>"
+"mailCode1461","<title>タイトル</title><body>本文1461</body>"
+"mailCode1462","<title>タイトル</title><body>本文1462</body>"
+"mailCode1463","<title>タイトル</title><body>本文1463</body>"
+"mailCode1464","<title>タイトル</title><body>本文1464</body>"
+"mailCode1465","<title>タイトル</title><body>本文1465</body>"
+"mailCode1466","<title>タイトル</title><body>本文1466</body>"
+"mailCode1467","<title>タイトル</title><body>本文1467</body>"
+"mailCode1468","<title>タイトル</title><body>本文1468</body>"
+"mailCode1469","<title>タイトル</title><body>本文1469</body>"
+"mailCode1470","<title>タイトル</title><body>本文1470</body>"
+"mailCode1471","<title>タイトル</title><body>本文1471</body>"
+"mailCode1472","<title>タイトル</title><body>本文1472</body>"
+"mailCode1473","<title>タイトル</title><body>本文1473</body>"
+"mailCode1474","<title>タイトル</title><body>本文1474</body>"
+"mailCode1475","<title>タイトル</title><body>本文1475</body>"
+"mailCode1476","<title>タイトル</title><body>本文1476</body>"
+"mailCode1477","<title>タイトル</title><body>本文1477</body>"
+"mailCode1478","<title>タイトル</title><body>本文1478</body>"
+"mailCode1479","<title>タイトル</title><body>本文1479</body>"
+"mailCode1480","<title>タイトル</title><body>本文1480</body>"
+"mailCode1481","<title>タイトル</title><body>本文1481</body>"
+"mailCode1482","<title>タイトル</title><body>本文1482</body>"
+"mailCode1483","<title>タイトル</title><body>本文1483</body>"
+"mailCode1484","<title>タイトル</title><body>本文1484</body>"
+"mailCode1485","<title>タイトル</title><body>本文1485</body>"
+"mailCode1486","<title>タイトル</title><body>本文1486</body>"
+"mailCode1487","<title>タイトル</title><body>本文1487</body>"
+"mailCode1488","<title>タイトル</title><body>本文1488</body>"
+"mailCode1489","<title>タイトル</title><body>本文1489</body>"
+"mailCode1490","<title>タイトル</title><body>本文1490</body>"
+"mailCode1491","<title>タイトル</title><body>本文1491</body>"
+"mailCode1492","<title>タイトル</title><body>本文1492</body>"
+"mailCode1493","<title>タイトル</title><body>本文1493</body>"
+"mailCode1494","<title>タイトル</title><body>本文1494</body>"
+"mailCode1495","<title>タイトル</title><body>本文1495</body>"
+"mailCode1496","<title>タイトル</title><body>本文1496</body>"
+"mailCode1497","<title>タイトル</title><body>本文1497</body>"
+"mailCode1498","<title>タイトル</title><body>本文1498</body>"
+"mailCode1499","<title>タイトル</title><body>本文1499</body>"
+"mailCode1500","<title>タイトル</title><body>本文1500</body>"
+"mailCode1501","<title>タイトル</title><body>本文1501</body>"
+"mailCode1502","<title>タイトル</title><body>本文1502</body>"
+"mailCode1503","<title>タイトル</title><body>本文1503</body>"
+"mailCode1504","<title>タイトル</title><body>本文1504</body>"
+"mailCode1505","<title>タイトル</title><body>本文1505</body>"
+"mailCode1506","<title>タイトル</title><body>本文1506</body>"
+"mailCode1507","<title>タイトル</title><body>本文1507</body>"
+"mailCode1508","<title>タイトル</title><body>本文1508</body>"
+"mailCode1509","<title>タイトル</title><body>本文1509</body>"
+"mailCode1510","<title>タイトル</title><body>本文1510</body>"
+"mailCode1511","<title>タイトル</title><body>本文1511</body>"
+"mailCode1512","<title>タイトル</title><body>本文1512</body>"
+"mailCode1513","<title>タイトル</title><body>本文1513</body>"
+"mailCode1514","<title>タイトル</title><body>本文1514</body>"
+"mailCode1515","<title>タイトル</title><body>本文1515</body>"
+"mailCode1516","<title>タイトル</title><body>本文1516</body>"
+"mailCode1517","<title>タイトル</title><body>本文1517</body>"
+"mailCode1518","<title>タイトル</title><body>本文1518</body>"
+"mailCode1519","<title>タイトル</title><body>本文1519</body>"
+"mailCode1520","<title>タイトル</title><body>本文1520</body>"
+"mailCode1521","<title>タイトル</title><body>本文1521</body>"
+"mailCode1522","<title>タイトル</title><body>本文1522</body>"
+"mailCode1523","<title>タイトル</title><body>本文1523</body>"
+"mailCode1524","<title>タイトル</title><body>本文1524</body>"
+"mailCode1525","<title>タイトル</title><body>本文1525</body>"
+"mailCode1526","<title>タイトル</title><body>本文1526</body>"
+"mailCode1527","<title>タイトル</title><body>本文1527</body>"
+"mailCode1528","<title>タイトル</title><body>本文1528</body>"
+"mailCode1529","<title>タイトル</title><body>本文1529</body>"
+"mailCode1530","<title>タイトル</title><body>本文1530</body>"
+"mailCode1531","<title>タイトル</title><body>本文1531</body>"
+"mailCode1532","<title>タイトル</title><body>本文1532</body>"
+"mailCode1533","<title>タイトル</title><body>本文1533</body>"
+"mailCode1534","<title>タイトル</title><body>本文1534</body>"
+"mailCode1535","<title>タイトル</title><body>本文1535</body>"
+"mailCode1536","<title>タイトル</title><body>本文1536</body>"
+"mailCode1537","<title>タイトル</title><body>本文1537</body>"
+"mailCode1538","<title>タイトル</title><body>本文1538</body>"
+"mailCode1539","<title>タイトル</title><body>本文1539</body>"
+"mailCode1540","<title>タイトル</title><body>本文1540</body>"
+"mailCode1541","<title>タイトル</title><body>本文1541</body>"
+"mailCode1542","<title>タイトル</title><body>本文1542</body>"
+"mailCode1543","<title>タイトル</title><body>本文1543</body>"
+"mailCode1544","<title>タイトル</title><body>本文1544</body>"
+"mailCode1545","<title>タイトル</title><body>本文1545</body>"
+"mailCode1546","<title>タイトル</title><body>本文1546</body>"
+"mailCode1547","<title>タイトル</title><body>本文1547</body>"
+"mailCode1548","<title>タイトル</title><body>本文1548</body>"
+"mailCode1549","<title>タイトル</title><body>本文1549</body>"
+"mailCode1550","<title>タイトル</title><body>本文1550</body>"
+"mailCode1551","<title>タイトル</title><body>本文1551</body>"
+"mailCode1552","<title>タイトル</title><body>本文1552</body>"
+"mailCode1553","<title>タイトル</title><body>本文1553</body>"
+"mailCode1554","<title>タイトル</title><body>本文1554</body>"
+"mailCode1555","<title>タイトル</title><body>本文1555</body>"
+"mailCode1556","<title>タイトル</title><body>本文1556</body>"
+"mailCode1557","<title>タイトル</title><body>本文1557</body>"
+"mailCode1558","<title>タイトル</title><body>本文1558</body>"
+"mailCode1559","<title>タイトル</title><body>本文1559</body>"
+"mailCode1560","<title>タイトル</title><body>本文1560</body>"
+"mailCode1561","<title>タイトル</title><body>本文1561</body>"
+"mailCode1562","<title>タイトル</title><body>本文1562</body>"
+"mailCode1563","<title>タイトル</title><body>本文1563</body>"
+"mailCode1564","<title>タイトル</title><body>本文1564</body>"
+"mailCode1565","<title>タイトル</title><body>本文1565</body>"
+"mailCode1566","<title>タイトル</title><body>本文1566</body>"
+"mailCode1567","<title>タイトル</title><body>本文1567</body>"
+"mailCode1568","<title>タイトル</title><body>本文1568</body>"
+"mailCode1569","<title>タイトル</title><body>本文1569</body>"
+"mailCode1570","<title>タイトル</title><body>本文1570</body>"
+"mailCode1571","<title>タイトル</title><body>本文1571</body>"
+"mailCode1572","<title>タイトル</title><body>本文1572</body>"
+"mailCode1573","<title>タイトル</title><body>本文1573</body>"
+"mailCode1574","<title>タイトル</title><body>本文1574</body>"
+"mailCode1575","<title>タイトル</title><body>本文1575</body>"
+"mailCode1576","<title>タイトル</title><body>本文1576</body>"
+"mailCode1577","<title>タイトル</title><body>本文1577</body>"
+"mailCode1578","<title>タイトル</title><body>本文1578</body>"
+"mailCode1579","<title>タイトル</title><body>本文1579</body>"
+"mailCode1580","<title>タイトル</title><body>本文1580</body>"
+"mailCode1581","<title>タイトル</title><body>本文1581</body>"
+"mailCode1582","<title>タイトル</title><body>本文1582</body>"
+"mailCode1583","<title>タイトル</title><body>本文1583</body>"
+"mailCode1584","<title>タイトル</title><body>本文1584</body>"
+"mailCode1585","<title>タイトル</title><body>本文1585</body>"
+"mailCode1586","<title>タイトル</title><body>本文1586</body>"
+"mailCode1587","<title>タイトル</title><body>本文1587</body>"
+"mailCode1588","<title>タイトル</title><body>本文1588</body>"
+"mailCode1589","<title>タイトル</title><body>本文1589</body>"
+"mailCode1590","<title>タイトル</title><body>本文1590</body>"
+"mailCode1591","<title>タイトル</title><body>本文1591</body>"
+"mailCode1592","<title>タイトル</title><body>本文1592</body>"
+"mailCode1593","<title>タイトル</title><body>本文1593</body>"
+"mailCode1594","<title>タイトル</title><body>本文1594</body>"
+"mailCode1595","<title>タイトル</title><body>本文1595</body>"
+"mailCode1596","<title>タイトル</title><body>本文1596</body>"
+"mailCode1597","<title>タイトル</title><body>本文1597</body>"
+"mailCode1598","<title>タイトル</title><body>本文1598</body>"
+"mailCode1599","<title>タイトル</title><body>本文1599</body>"
+"mailCode1600","<title>タイトル</title><body>本文1600</body>"
+"mailCode1601","<title>タイトル</title><body>本文1601</body>"
+"mailCode1602","<title>タイトル</title><body>本文1602</body>"
+"mailCode1603","<title>タイトル</title><body>本文1603</body>"
+"mailCode1604","<title>タイトル</title><body>本文1604</body>"
+"mailCode1605","<title>タイトル</title><body>本文1605</body>"
+"mailCode1606","<title>タイトル</title><body>本文1606</body>"
+"mailCode1607","<title>タイトル</title><body>本文1607</body>"
+"mailCode1608","<title>タイトル</title><body>本文1608</body>"
+"mailCode1609","<title>タイトル</title><body>本文1609</body>"
+"mailCode1610","<title>タイトル</title><body>本文1610</body>"
+"mailCode1611","<title>タイトル</title><body>本文1611</body>"
+"mailCode1612","<title>タイトル</title><body>本文1612</body>"
+"mailCode1613","<title>タイトル</title><body>本文1613</body>"
+"mailCode1614","<title>タイトル</title><body>本文1614</body>"
+"mailCode1615","<title>タイトル</title><body>本文1615</body>"
+"mailCode1616","<title>タイトル</title><body>本文1616</body>"
+"mailCode1617","<title>タイトル</title><body>本文1617</body>"
+"mailCode1618","<title>タイトル</title><body>本文1618</body>"
+"mailCode1619","<title>タイトル</title><body>本文1619</body>"
+"mailCode1620","<title>タイトル</title><body>本文1620</body>"
+"mailCode1621","<title>タイトル</title><body>本文1621</body>"
+"mailCode1622","<title>タイトル</title><body>本文1622</body>"
+"mailCode1623","<title>タイトル</title><body>本文1623</body>"
+"mailCode1624","<title>タイトル</title><body>本文1624</body>"
+"mailCode1625","<title>タイトル</title><body>本文1625</body>"
+"mailCode1626","<title>タイトル</title><body>本文1626</body>"
+"mailCode1627","<title>タイトル</title><body>本文1627</body>"
+"mailCode1628","<title>タイトル</title><body>本文1628</body>"
+"mailCode1629","<title>タイトル</title><body>本文1629</body>"
+"mailCode1630","<title>タイトル</title><body>本文1630</body>"
+"mailCode1631","<title>タイトル</title><body>本文1631</body>"
+"mailCode1632","<title>タイトル</title><body>本文1632</body>"
+"mailCode1633","<title>タイトル</title><body>本文1633</body>"
+"mailCode1634","<title>タイトル</title><body>本文1634</body>"
+"mailCode1635","<title>タイトル</title><body>本文1635</body>"
+"mailCode1636","<title>タイトル</title><body>本文1636</body>"
+"mailCode1637","<title>タイトル</title><body>本文1637</body>"
+"mailCode1638","<title>タイトル</title><body>本文1638</body>"
+"mailCode1639","<title>タイトル</title><body>本文1639</body>"
+"mailCode1640","<title>タイトル</title><body>本文1640</body>"
+"mailCode1641","<title>タイトル</title><body>本文1641</body>"
+"mailCode1642","<title>タイトル</title><body>本文1642</body>"
+"mailCode1643","<title>タイトル</title><body>本文1643</body>"
+"mailCode1644","<title>タイトル</title><body>本文1644</body>"
+"mailCode1645","<title>タイトル</title><body>本文1645</body>"
+"mailCode1646","<title>タイトル</title><body>本文1646</body>"
+"mailCode1647","<title>タイトル</title><body>本文1647</body>"
+"mailCode1648","<title>タイトル</title><body>本文1648</body>"
+"mailCode1649","<title>タイトル</title><body>本文1649</body>"
+"mailCode1650","<title>タイトル</title><body>本文1650</body>"
+"mailCode1651","<title>タイトル</title><body>本文1651</body>"
+"mailCode1652","<title>タイトル</title><body>本文1652</body>"
+"mailCode1653","<title>タイトル</title><body>本文1653</body>"
+"mailCode1654","<title>タイトル</title><body>本文1654</body>"
+"mailCode1655","<title>タイトル</title><body>本文1655</body>"
+"mailCode1656","<title>タイトル</title><body>本文1656</body>"
+"mailCode1657","<title>タイトル</title><body>本文1657</body>"
+"mailCode1658","<title>タイトル</title><body>本文1658</body>"
+"mailCode1659","<title>タイトル</title><body>本文1659</body>"
+"mailCode1660","<title>タイトル</title><body>本文1660</body>"
+"mailCode1661","<title>タイトル</title><body>本文1661</body>"
+"mailCode1662","<title>タイトル</title><body>本文1662</body>"
+"mailCode1663","<title>タイトル</title><body>本文1663</body>"
+"mailCode1664","<title>タイトル</title><body>本文1664</body>"
+"mailCode1665","<title>タイトル</title><body>本文1665</body>"
+"mailCode1666","<title>タイトル</title><body>本文1666</body>"
+"mailCode1667","<title>タイトル</title><body>本文1667</body>"
+"mailCode1668","<title>タイトル</title><body>本文1668</body>"
+"mailCode1669","<title>タイトル</title><body>本文1669</body>"
+"mailCode1670","<title>タイトル</title><body>本文1670</body>"
+"mailCode1671","<title>タイトル</title><body>本文1671</body>"
+"mailCode1672","<title>タイトル</title><body>本文1672</body>"
+"mailCode1673","<title>タイトル</title><body>本文1673</body>"
+"mailCode1674","<title>タイトル</title><body>本文1674</body>"
+"mailCode1675","<title>タイトル</title><body>本文1675</body>"
+"mailCode1676","<title>タイトル</title><body>本文1676</body>"
+"mailCode1677","<title>タイトル</title><body>本文1677</body>"
+"mailCode1678","<title>タイトル</title><body>本文1678</body>"
+"mailCode1679","<title>タイトル</title><body>本文1679</body>"
+"mailCode1680","<title>タイトル</title><body>本文1680</body>"
+"mailCode1681","<title>タイトル</title><body>本文1681</body>"
+"mailCode1682","<title>タイトル</title><body>本文1682</body>"
+"mailCode1683","<title>タイトル</title><body>本文1683</body>"
+"mailCode1684","<title>タイトル</title><body>本文1684</body>"
+"mailCode1685","<title>タイトル</title><body>本文1685</body>"
+"mailCode1686","<title>タイトル</title><body>本文1686</body>"
+"mailCode1687","<title>タイトル</title><body>本文1687</body>"
+"mailCode1688","<title>タイトル</title><body>本文1688</body>"
+"mailCode1689","<title>タイトル</title><body>本文1689</body>"
+"mailCode1690","<title>タイトル</title><body>本文1690</body>"
+"mailCode1691","<title>タイトル</title><body>本文1691</body>"
+"mailCode1692","<title>タイトル</title><body>本文1692</body>"
+"mailCode1693","<title>タイトル</title><body>本文1693</body>"
+"mailCode1694","<title>タイトル</title><body>本文1694</body>"
+"mailCode1695","<title>タイトル</title><body>本文1695</body>"
+"mailCode1696","<title>タイトル</title><body>本文1696</body>"
+"mailCode1697","<title>タイトル</title><body>本文1697</body>"
+"mailCode1698","<title>タイトル</title><body>本文1698</body>"
+"mailCode1699","<title>タイトル</title><body>本文1699</body>"
+"mailCode1700","<title>タイトル</title><body>本文1700</body>"
+"mailCode1701","<title>タイトル</title><body>本文1701</body>"
+"mailCode1702","<title>タイトル</title><body>本文1702</body>"
+"mailCode1703","<title>タイトル</title><body>本文1703</body>"
+"mailCode1704","<title>タイトル</title><body>本文1704</body>"
+"mailCode1705","<title>タイトル</title><body>本文1705</body>"
+"mailCode1706","<title>タイトル</title><body>本文1706</body>"
+"mailCode1707","<title>タイトル</title><body>本文1707</body>"
+"mailCode1708","<title>タイトル</title><body>本文1708</body>"
+"mailCode1709","<title>タイトル</title><body>本文1709</body>"
+"mailCode1710","<title>タイトル</title><body>本文1710</body>"
+"mailCode1711","<title>タイトル</title><body>本文1711</body>"
+"mailCode1712","<title>タイトル</title><body>本文1712</body>"
+"mailCode1713","<title>タイトル</title><body>本文1713</body>"
+"mailCode1714","<title>タイトル</title><body>本文1714</body>"
+"mailCode1715","<title>タイトル</title><body>本文1715</body>"
+"mailCode1716","<title>タイトル</title><body>本文1716</body>"
+"mailCode1717","<title>タイトル</title><body>本文1717</body>"
+"mailCode1718","<title>タイトル</title><body>本文1718</body>"
+"mailCode1719","<title>タイトル</title><body>本文1719</body>"
+"mailCode1720","<title>タイトル</title><body>本文1720</body>"
+"mailCode1721","<title>タイトル</title><body>本文1721</body>"
+"mailCode1722","<title>タイトル</title><body>本文1722</body>"
+"mailCode1723","<title>タイトル</title><body>本文1723</body>"
+"mailCode1724","<title>タイトル</title><body>本文1724</body>"
+"mailCode1725","<title>タイトル</title><body>本文1725</body>"
+"mailCode1726","<title>タイトル</title><body>本文1726</body>"
+"mailCode1727","<title>タイトル</title><body>本文1727</body>"
+"mailCode1728","<title>タイトル</title><body>本文1728</body>"
+"mailCode1729","<title>タイトル</title><body>本文1729</body>"
+"mailCode1730","<title>タイトル</title><body>本文1730</body>"
+"mailCode1731","<title>タイトル</title><body>本文1731</body>"
+"mailCode1732","<title>タイトル</title><body>本文1732</body>"
+"mailCode1733","<title>タイトル</title><body>本文1733</body>"
+"mailCode1734","<title>タイトル</title><body>本文1734</body>"
+"mailCode1735","<title>タイトル</title><body>本文1735</body>"
+"mailCode1736","<title>タイトル</title><body>本文1736</body>"
+"mailCode1737","<title>タイトル</title><body>本文1737</body>"
+"mailCode1738","<title>タイトル</title><body>本文1738</body>"
+"mailCode1739","<title>タイトル</title><body>本文1739</body>"
+"mailCode1740","<title>タイトル</title><body>本文1740</body>"
+"mailCode1741","<title>タイトル</title><body>本文1741</body>"
+"mailCode1742","<title>タイトル</title><body>本文1742</body>"
+"mailCode1743","<title>タイトル</title><body>本文1743</body>"
+"mailCode1744","<title>タイトル</title><body>本文1744</body>"
+"mailCode1745","<title>タイトル</title><body>本文1745</body>"
+"mailCode1746","<title>タイトル</title><body>本文1746</body>"
+"mailCode1747","<title>タイトル</title><body>本文1747</body>"
+"mailCode1748","<title>タイトル</title><body>本文1748</body>"
+"mailCode1749","<title>タイトル</title><body>本文1749</body>"
+"mailCode1750","<title>タイトル</title><body>本文1750</body>"
+"mailCode1751","<title>タイトル</title><body>本文1751</body>"
+"mailCode1752","<title>タイトル</title><body>本文1752</body>"
+"mailCode1753","<title>タイトル</title><body>本文1753</body>"
+"mailCode1754","<title>タイトル</title><body>本文1754</body>"
+"mailCode1755","<title>タイトル</title><body>本文1755</body>"
+"mailCode1756","<title>タイトル</title><body>本文1756</body>"
+"mailCode1757","<title>タイトル</title><body>本文1757</body>"
+"mailCode1758","<title>タイトル</title><body>本文1758</body>"
+"mailCode1759","<title>タイトル</title><body>本文1759</body>"
+"mailCode1760","<title>タイトル</title><body>本文1760</body>"
+"mailCode1761","<title>タイトル</title><body>本文1761</body>"
+"mailCode1762","<title>タイトル</title><body>本文1762</body>"
+"mailCode1763","<title>タイトル</title><body>本文1763</body>"
+"mailCode1764","<title>タイトル</title><body>本文1764</body>"
+"mailCode1765","<title>タイトル</title><body>本文1765</body>"
+"mailCode1766","<title>タイトル</title><body>本文1766</body>"
+"mailCode1767","<title>タイトル</title><body>本文1767</body>"
+"mailCode1768","<title>タイトル</title><body>本文1768</body>"
+"mailCode1769","<title>タイトル</title><body>本文1769</body>"
+"mailCode1770","<title>タイトル</title><body>本文1770</body>"
+"mailCode1771","<title>タイトル</title><body>本文1771</body>"
+"mailCode1772","<title>タイトル</title><body>本文1772</body>"
+"mailCode1773","<title>タイトル</title><body>本文1773</body>"
+"mailCode1774","<title>タイトル</title><body>本文1774</body>"
+"mailCode1775","<title>タイトル</title><body>本文1775</body>"
+"mailCode1776","<title>タイトル</title><body>本文1776</body>"
+"mailCode1777","<title>タイトル</title><body>本文1777</body>"
+"mailCode1778","<title>タイトル</title><body>本文1778</body>"
+"mailCode1779","<title>タイトル</title><body>本文1779</body>"
+"mailCode1780","<title>タイトル</title><body>本文1780</body>"
+"mailCode1781","<title>タイトル</title><body>本文1781</body>"
+"mailCode1782","<title>タイトル</title><body>本文1782</body>"
+"mailCode1783","<title>タイトル</title><body>本文1783</body>"
+"mailCode1784","<title>タイトル</title><body>本文1784</body>"
+"mailCode1785","<title>タイトル</title><body>本文1785</body>"
+"mailCode1786","<title>タイトル</title><body>本文1786</body>"
+"mailCode1787","<title>タイトル</title><body>本文1787</body>"
+"mailCode1788","<title>タイトル</title><body>本文1788</body>"
+"mailCode1789","<title>タイトル</title><body>本文1789</body>"
+"mailCode1790","<title>タイトル</title><body>本文1790</body>"
+"mailCode1791","<title>タイトル</title><body>本文1791</body>"
+"mailCode1792","<title>タイトル</title><body>本文1792</body>"
+"mailCode1793","<title>タイトル</title><body>本文1793</body>"
+"mailCode1794","<title>タイトル</title><body>本文1794</body>"
+"mailCode1795","<title>タイトル</title><body>本文1795</body>"
+"mailCode1796","<title>タイトル</title><body>本文1796</body>"
+"mailCode1797","<title>タイトル</title><body>本文1797</body>"
+"mailCode1798","<title>タイトル</title><body>本文1798</body>"
+"mailCode1799","<title>タイトル</title><body>本文1799</body>"
+"mailCode1800","<title>タイトル</title><body>本文1800</body>"
+"mailCode1801","<title>タイトル</title><body>本文1801</body>"
+"mailCode1802","<title>タイトル</title><body>本文1802</body>"
+"mailCode1803","<title>タイトル</title><body>本文1803</body>"
+"mailCode1804","<title>タイトル</title><body>本文1804</body>"
+"mailCode1805","<title>タイトル</title><body>本文1805</body>"
+"mailCode1806","<title>タイトル</title><body>本文1806</body>"
+"mailCode1807","<title>タイトル</title><body>本文1807</body>"
+"mailCode1808","<title>タイトル</title><body>本文1808</body>"
+"mailCode1809","<title>タイトル</title><body>本文1809</body>"
+"mailCode1810","<title>タイトル</title><body>本文1810</body>"
+"mailCode1811","<title>タイトル</title><body>本文1811</body>"
+"mailCode1812","<title>タイトル</title><body>本文1812</body>"
+"mailCode1813","<title>タイトル</title><body>本文1813</body>"
+"mailCode1814","<title>タイトル</title><body>本文1814</body>"
+"mailCode1815","<title>タイトル</title><body>本文1815</body>"
+"mailCode1816","<title>タイトル</title><body>本文1816</body>"
+"mailCode1817","<title>タイトル</title><body>本文1817</body>"
+"mailCode1818","<title>タイトル</title><body>本文1818</body>"
+"mailCode1819","<title>タイトル</title><body>本文1819</body>"
+"mailCode1820","<title>タイトル</title><body>本文1820</body>"
+"mailCode1821","<title>タイトル</title><body>本文1821</body>"
+"mailCode1822","<title>タイトル</title><body>本文1822</body>"
+"mailCode1823","<title>タイトル</title><body>本文1823</body>"
+"mailCode1824","<title>タイトル</title><body>本文1824</body>"
+"mailCode1825","<title>タイトル</title><body>本文1825</body>"
+"mailCode1826","<title>タイトル</title><body>本文1826</body>"
+"mailCode1827","<title>タイトル</title><body>本文1827</body>"
+"mailCode1828","<title>タイトル</title><body>本文1828</body>"
+"mailCode1829","<title>タイトル</title><body>本文1829</body>"
+"mailCode1830","<title>タイトル</title><body>本文1830</body>"
+"mailCode1831","<title>タイトル</title><body>本文1831</body>"
+"mailCode1832","<title>タイトル</title><body>本文1832</body>"
+"mailCode1833","<title>タイトル</title><body>本文1833</body>"
+"mailCode1834","<title>タイトル</title><body>本文1834</body>"
+"mailCode1835","<title>タイトル</title><body>本文1835</body>"
+"mailCode1836","<title>タイトル</title><body>本文1836</body>"
+"mailCode1837","<title>タイトル</title><body>本文1837</body>"
+"mailCode1838","<title>タイトル</title><body>本文1838</body>"
+"mailCode1839","<title>タイトル</title><body>本文1839</body>"
+"mailCode1840","<title>タイトル</title><body>本文1840</body>"
+"mailCode1841","<title>タイトル</title><body>本文1841</body>"
+"mailCode1842","<title>タイトル</title><body>本文1842</body>"
+"mailCode1843","<title>タイトル</title><body>本文1843</body>"
+"mailCode1844","<title>タイトル</title><body>本文1844</body>"
+"mailCode1845","<title>タイトル</title><body>本文1845</body>"
+"mailCode1846","<title>タイトル</title><body>本文1846</body>"
+"mailCode1847","<title>タイトル</title><body>本文1847</body>"
+"mailCode1848","<title>タイトル</title><body>本文1848</body>"
+"mailCode1849","<title>タイトル</title><body>本文1849</body>"
+"mailCode1850","<title>タイトル</title><body>本文1850</body>"
+"mailCode1851","<title>タイトル</title><body>本文1851</body>"
+"mailCode1852","<title>タイトル</title><body>本文1852</body>"
+"mailCode1853","<title>タイトル</title><body>本文1853</body>"
+"mailCode1854","<title>タイトル</title><body>本文1854</body>"
+"mailCode1855","<title>タイトル</title><body>本文1855</body>"
+"mailCode1856","<title>タイトル</title><body>本文1856</body>"
+"mailCode1857","<title>タイトル</title><body>本文1857</body>"
+"mailCode1858","<title>タイトル</title><body>本文1858</body>"
+"mailCode1859","<title>タイトル</title><body>本文1859</body>"
+"mailCode1860","<title>タイトル</title><body>本文1860</body>"
+"mailCode1861","<title>タイトル</title><body>本文1861</body>"
+"mailCode1862","<title>タイトル</title><body>本文1862</body>"
+"mailCode1863","<title>タイトル</title><body>本文1863</body>"
+"mailCode1864","<title>タイトル</title><body>本文1864</body>"
+"mailCode1865","<title>タイトル</title><body>本文1865</body>"
+"mailCode1866","<title>タイトル</title><body>本文1866</body>"
+"mailCode1867","<title>タイトル</title><body>本文1867</body>"
+"mailCode1868","<title>タイトル</title><body>本文1868</body>"
+"mailCode1869","<title>タイトル</title><body>本文1869</body>"
+"mailCode1870","<title>タイトル</title><body>本文1870</body>"
+"mailCode1871","<title>タイトル</title><body>本文1871</body>"
+"mailCode1872","<title>タイトル</title><body>本文1872</body>"
+"mailCode1873","<title>タイトル</title><body>本文1873</body>"
+"mailCode1874","<title>タイトル</title><body>本文1874</body>"
+"mailCode1875","<title>タイトル</title><body>本文1875</body>"
+"mailCode1876","<title>タイトル</title><body>本文1876</body>"
+"mailCode1877","<title>タイトル</title><body>本文1877</body>"
+"mailCode1878","<title>タイトル</title><body>本文1878</body>"
+"mailCode1879","<title>タイトル</title><body>本文1879</body>"
+"mailCode1880","<title>タイトル</title><body>本文1880</body>"
+"mailCode1881","<title>タイトル</title><body>本文1881</body>"
+"mailCode1882","<title>タイトル</title><body>本文1882</body>"
+"mailCode1883","<title>タイトル</title><body>本文1883</body>"
+"mailCode1884","<title>タイトル</title><body>本文1884</body>"
+"mailCode1885","<title>タイトル</title><body>本文1885</body>"
+"mailCode1886","<title>タイトル</title><body>本文1886</body>"
+"mailCode1887","<title>タイトル</title><body>本文1887</body>"
+"mailCode1888","<title>タイトル</title><body>本文1888</body>"
+"mailCode1889","<title>タイトル</title><body>本文1889</body>"
+"mailCode1890","<title>タイトル</title><body>本文1890</body>"
+"mailCode1891","<title>タイトル</title><body>本文1891</body>"
+"mailCode1892","<title>タイトル</title><body>本文1892</body>"
+"mailCode1893","<title>タイトル</title><body>本文1893</body>"
+"mailCode1894","<title>タイトル</title><body>本文1894</body>"
+"mailCode1895","<title>タイトル</title><body>本文1895</body>"
+"mailCode1896","<title>タイトル</title><body>本文1896</body>"
+"mailCode1897","<title>タイトル</title><body>本文1897</body>"
+"mailCode1898","<title>タイトル</title><body>本文1898</body>"
+"mailCode1899","<title>タイトル</title><body>本文1899</body>"
+"mailCode1900","<title>You there! Yes, you!</title>
+<body>Come over here a minute!
+Nigh Plains? Cave Entrance?
+Or something like that...
+I have an urgent request! Seriously!
+What do you mean this sounds shady?!
+It is totally not shady!
+
+From the Most Beautiful Trainer Ever</body>"
+"mailCode1901","<title>My pupil!</title>
+<body>All of my pupils need to undergo ten
+training sessions! It's basic stuff!
+After that, come back here!</body>"
+"mailCode1902","<title>Get some Digistalks!</title>
+<body>When you've collected 30 Digistalks,
+bring them to me!
+Just remember, treat them as you want to
+be treated yourself...
+Actually, that probably doesn't apply
+here. Just get them!</body>"
+"mailCode1903","<title>!!!</title>
+<body>Three things:
+A Super Regen Disc,
+a Super Double Holodisk,
+and a Utility Booster X!
+Make sure you don't get the wrong
+things!
+You won't be able to deceive me!</body>"
+"mailCode1904","<title>My favorite pupil!</title>
+<body>You are now ready for my final training
+session!
+Come to the usual place!
+This will be tough, so be prepared!</body>"
+"mailCode1905","<title>I'm back!</title>
+<body>Anyway... Somehow...
+Through everything...
+I have finally returned to this world...
+And where is this world precisely...?
+It's your job to find out, my pupil!</body>"
+"mailCode1906","<title>タイトル</title><body>本文1906</body>"
+"mailCode1907","<title>タイトル</title><body>本文1907</body>"
+"mailCode1908","<title>タイトル</title><body>本文1908</body>"
+"mailCode1909","<title>タイトル</title><body>本文1909</body>"
+"mailCode1910","<title>タイトル</title><body>本文1910</body>"
+"mailCode1911","<title>希望你能過來</title>
+<body>在纜線的某個地方、
+有草也有樹。
+希望你能夠來幫助我。</body>"
+"mailCode1912","<title>希望你能趕走</title>
+<body>希望你能夠幫我趕走
+在大平原東邊的可怕數碼寶貝。</body>"
+"mailCode1913","<title>希望你能尋找</title>
+<body>綠…土…
+…瀑布……？
+柵欄…？
+長長的……橋…？
+回憶中的風景…
+我想那裏…應該有些什麼
+</body>"
+"mailCode1914","<title>タイトル</title><body>本文1914</body>"
+"mailCode1915","<title>タイトル</title><body>本文1915</body>"
+"mailCode1916","<title>タイトル</title><body>本文1916</body>"
+"mailCode1917","<title>タイトル</title><body>本文1917</body>"
+"mailCode1918","<title>タイトル</title><body>本文1918</body>"
+"mailCode1919","<title>タイトル</title><body>本文1919</body>"
+"mailCode1920","<title>タイトル</title><body>本文1920</body>"
+"mailCode1921","<title>緊急狀況，來我家裡</title>
+<body>非常重要，那些傢伙
+終於復活了！</body>"
+"mailCode1922","<title>鋼鐵悟空獸</title>
+<body>聽說鋼鐵悟空獸在暴食荒野，
+但還找不到他。
+如果泰坦獸的事已解決，希望你能來幫忙</body>"
+"mailCode1923","<title>凱…王</title>
+<body>凱王獸…
+地點在…峽谷的…東邊……
+盡快……</body>"
+"mailCode1924","<title>現在立刻回來一趟</title>
+<body>已經知道葛葉獸的所在地點。
+但請先回公公獸家一趟。</body>"
+"mailCode1925","<title>タイトル</title><body>本文1925</body>"
+"mailCode1926","<title>タイトル</title><body>本文1926</body>"
+"mailCode1927","<title>タイトル</title><body>本文1927</body>"
+"mailCode1928","<title>タイトル</title><body>本文1928</body>"
+"mailCode1929","<title>タイトル</title><body>本文1929</body>"
+"mailCode1930","<title>真是令人困擾吶…</title>
+<body>喔、{0}
+發生了件令人困擾的事情，
+不好意思，你能到我這裡一趟嗎？</body>"
+"mailCode1931","<title>請向他們打聽</title>
+<body>鼻涕獸在中央區、大便獸在農業區、
+白金大便獸在商業區裡的高級道具店。
+
+請向他們打聽一下消息，
+也許可以找到什麼解決事件的突破口。</body>"
+"mailCode1932","<title>天然成熟數碼垢</title>
+<body>在電路海角、船長室旁邊的小房間裡唷。
+因為非常珍貴、
+所以別把他取走。
+只需要輕輕撫摸，香味就會殘留在你身上。
+這樣對『大平原的努梅爾佛斯』就已有足夠效果了。
+那麼，
+好好努力讓那些笨蛋們住手喔</body>"
+"mailCode1933","<title>感謝！</title>
+<body>救世主殿下！　之前給您添麻煩了。
+跳入馬桶自殺的努梅爾佛斯們，
+被沖到我們的下水道，已平安無事了，
+這也是多虧了您的幫助，非常感謝。
+
+接下來也會和卡歐利耶爾一起，
+盡力輔佐大王。
+下次來的時候，希望能見見您，
+那麼請多保重…</body>"
+"mailCode1934","<title>タイトル</title><body>本文1934</body>"
+"mailCode1935","<title>タイトル</title><body>本文1935</body>"
+"mailCode1936","<title>緊急會議</title>
+<body>又再次發生異常狀態了
+雖然還不知是否變得嚴重，
+總之先在我家召開作戰會議！</body>"
+"mailCode1937","<title>新的反應</title>
+<body>如何？　應該發現了些什麼吧，
+就在剛才，在無限鍋爐中偵測到反應了，
+你能夠去那裡探查看看嗎？</body>"
+"mailCode1938","<title>出現了唷～</title>
+<body>在伺服沙漠的　公車轉運站
+出現新的反應了，
+我和空太已經先去探查了，
+{0}可以一起來嗎？</body>"
+"mailCode1939","<title>タイトル</title><body>本文1939</body>"
+"mailCode1940","<title>タイトル</title><body>本文1940</body>"
+"mailCode1941","<title>タイトル</title><body>本文1941</body>"
+"mailCode1942","<title>タイトル</title><body>本文1942</body>"
+"mailCode1943","<title>タイトル</title><body>本文1943</body>"
+"mailCode1944","<title>タイトル</title><body>本文1944</body>"
+"mailCode1945","<title>タイトル</title><body>本文1945</body>"
+"mailCode1946","<title>タイトル</title><body>本文1946</body>"
+"mailCode1947","<title>タイトル</title><body>本文1947</body>"
+"mailCode1948","<title>タイトル</title><body>本文1948</body>"
+"mailCode1949","<title>タイトル</title><body>本文1949</body>"
+"mailCode1950","<title>タイトル</title><body>本文1950</body>"
+"mailCode1951","<title>タイトル</title><body>本文1951</body>"
+"mailCode1952","<title>タイトル</title><body>本文1952</body>"
+"mailCode1953","<title>タイトル</title><body>本文1953</body>"
+"mailCode1954","<title>タイトル</title><body>本文1954</body>"
+"mailCode1955","<title>タイトル</title><body>本文1955</body>"
+"mailCode1956","<title>タイトル</title><body>本文1956</body>"
+"mailCode1957","<title>タイトル</title><body>本文1957</body>"
+"mailCode1958","<title>タイトル</title><body>本文1958</body>"
+"mailCode1959","<title>タイトル</title><body>本文1959</body>"
+"mailCode1960","<title>タイトル</title><body>本文1960</body>"
+"mailCode1961","<title>タイトル</title><body>本文1961</body>"
+"mailCode1962","<title>タイトル</title><body>本文1962</body>"
+"mailCode1963","<title>タイトル</title><body>本文1963</body>"
+"mailCode1964","<title>タイトル</title><body>本文1964</body>"
+"mailCode1965","<title>タイトル</title><body>本文1965</body>"
+"mailCode1966","<title>タイトル</title><body>本文1966</body>"
+"mailCode1967","<title>タイトル</title><body>本文1967</body>"
+"mailCode1968","<title>タイトル</title><body>本文1968</body>"
+"mailCode1969","<title>タイトル</title><body>本文1969</body>"
+"mailCode1970","<title>タイトル</title><body>本文1970</body>"
+"mailCode1971","<title>タイトル</title><body>本文1971</body>"
+"mailCode1972","<title>タイトル</title><body>本文1972</body>"
+"mailCode1973","<title>タイトル</title><body>本文1973</body>"
+"mailCode1974","<title>タイトル</title><body>本文1974</body>"
+"mailCode1975","<title>タイトル</title><body>本文1975</body>"
+"mailCode1976","<title>タイトル</title><body>本文1976</body>"
+"mailCode1977","<title>タイトル</title><body>本文1977</body>"
+"mailCode1978","<title>タイトル</title><body>本文1978</body>"
+"mailCode1979","<title>タイトル</title><body>本文1979</body>"
+"mailCode1980","<title>タイトル</title><body>本文1980</body>"
+"mailCode1981","<title>タイトル</title><body>本文1981</body>"
+"mailCode1982","<title>タイトル</title><body>本文1982</body>"
+"mailCode1983","<title>タイトル</title><body>本文1983</body>"
+"mailCode1984","<title>タイトル</title><body>本文1984</body>"
+"mailCode1985","<title>タイトル</title><body>本文1985</body>"
+"mailCode1986","<title>タイトル</title><body>本文1986</body>"
+"mailCode1987","<title>タイトル</title><body>本文1987</body>"
+"mailCode1988","<title>タイトル</title><body>本文1988</body>"
+"mailCode1989","<title>タイトル</title><body>本文1989</body>"
+"mailCode1990","<title>タイトル</title><body>本文1990</body>"
+"mailCode1991","<title>タイトル</title><body>本文1991</body>"
+"mailCode1992","<title>タイトル</title><body>本文1992</body>"
+"mailCode1993","<title>タイトル</title><body>本文1993</body>"
+"mailCode1994","<title>タイトル</title><body>本文1994</body>"
+"mailCode1995","<title>タイトル</title><body>本文1995</body>"
+"mailCode1996","<title>タイトル</title><body>本文1996</body>"
+"mailCode1997","<title>タイトル</title><body>本文1997</body>"
+"mailCode1998","<title>タイトル</title><body>本文1998</body>"
+"mailCode1999","<title>タイトル</title><body>本文1999</body>"
+"mailCode2000","<title>タイトル</title><body>本文2000</body>"
+"3a054ff6","<title>Digistalk Gathering</title>
+<body>Gather five Digistalks!
+
+Reward: 1,000 NWP</body>"
+"e6db041f","<title>Success: Digistalks</title>
+<body>You gathered five Digistalks!
+
+Received: 1,000 NWP</body>"
+"3a054ff5","<title>Goblimon Hunt</title>
+<body>Defeat five Goblimon!
+
+Reward: 1,000 NWP</body>"
+"552c844a","<title>Success: Goblimon</title>
+<body>You defeated five Goblimon!
+
+Received: 1,000 NWP</body>"
+"3a054ff4","<title>Conductor Lemon Gathering</title>
+<body>Gather three Conductor Lemons!
+
+Reward: 2,000 NWP</body>"
+"ea549641","<title>Success: Conductor Lemons</title>
+<body>You gathered three Conductor Lemons!
+
+Received: 2,000 NWP</body>"
+"3a054ff3","<title>Aruraumon Hunt</title>
+<body>Defeat five Aruraumon!
+
+Reward: 1,000 NWP</body>"
+"9f67bfa4","<title>Success: Aruraumon</title>
+<body>You defeated five Aruraumon!
+
+Received: 1,000 NWP</body>"
+"3a054ff2","<title>Logic Volcano Trip #1</title>
+<body>Go to Taomon's Meditation Place at Logic
+Volcano!
+
+Reward: 3,000 NWP</body>"
+"133ee34b","<title>Success: Logic Volcano #1</title>
+<body>You went to Taomon's Meditation Place at
+Logic Volcano!
+
+Received: 3,000 NWP</body>"
+"3a054ff1","<title>Green Digistalk Gathering</title>
+<body>Gather five Green Digistalks!
+
+Reward: 4,000 NWP</body>"
+"a0536096","<title>Success: Green Digistalks</title>
+<body>You gathered five Green Digistalks!
+
+Received: 4,000 NWP</body>"
+"3a054ff0","<title>Gotsumon Hunt</title>
+<body>Defeat five Gotsumon!
+
+Reward: 1,000 NWP</body>"
+"357b72ad","<title>Success: Gotsumon</title>
+<body>You defeated five Gotsumon!
+
+Received: 1,000 NWP</body>"
+"3a054fff","<title>Cheerful Apple Gathering</title>
+<body>Gather three Cheerful Apples!
+
+Reward: 1,000 NWP</body>"
+"98faff00","<title>Success: Cheerful Apples</title>
+<body>You gathered three Cheerful Apples!
+
+Received: 1,000 NWP</body>"
+"3a054ffe","<title>Garurumon (Black) Hunt!</title>
+<body>Defeat two Garurumon (Black)!
+
+Reward: 2,000 NWP</body>"
+"4e0fbc67","<title>Success: Garurumon (Black)</title>
+<body>You defeated two Garurumon (Black)!
+
+Received: 2,000 NWP</body>"
+"39054e04","<title>Server Desert Trip #1</title>
+<body>Go to Dead End Town in the Server
+Desert!
+
+Reward: 1,000 NWP</body>"
+"bf1c0011","<title>Success: Server Desert #1</title>
+<body>You went to Dead End Town in the Server
+Desert!
+
+Received: 1,000 NWP</body>"
+"39054e05","<title>Salty Fruit Gathering</title>
+<body>Gather four Salty Fruits!
+
+Reward: 3,000 NWP</body>"
+"29f3ee1a","<title>Success: Salty Fruits</title>
+<body>You gathered four Salty Fruits!
+
+Received: 3,000 NWP</body>"
+"39054e06","<title>Fugamon Hunt</title>
+<body>Defeat three Fugamon!
+
+Reward: 4,000 NWP</body>"
+"7cdf3e2f","<title>Success: Fugamon</title>
+<body>You defeated three Fugamon!
+
+Received: 4,000 NWP</body>"
+"39054e07","<title>Celestial Chestnut Gathering</title>
+<body>Gather one Celestial Chestnut!
+
+Reward: 1,000 NWP</body>"
+"9081a88","<title>Success: Celestial Chestnut</title>
+<body>You gathered one Celestial Chestnut!
+
+Received: 1,000 NWP</body>"
+"39054e00","<title>Shamamon Hunt</title>
+<body>Defeat five Shamamon!
+
+Reward: 1,000 NWP</body>"
+"cbd467d","<title>Success: Shamamon</title>
+<body>You defeated five Shamamon!
+
+Received: 1,000 NWP</body>"
+"39054e01","<title>MOD Cape Trip #1</title>
+<body>Go to Ship 2.0 Cabin in MOD Cape!
+
+Reward: 2,000 NWP</body>"
+"77953466","<title>Success: MOD Cape #1</title>
+<body>You went to Ship 2.0 Cabin in MOD Cape!
+
+Received: 2,000 NWP</body>"
+"39054e02","<title>Unlucky Shroom Gathering</title>
+<body>Gather two Unlucky Shrooms!
+
+Reward: 1,000 NWP</body>"
+"ea80b61b","<title>Success: Unlucky Shrooms</title>
+<body>You gathered two Unlucky Shrooms!
+
+Received: 1,000 NWP</body>"
+"39054e03","<title>Woodmon Hunt</title>
+<body>Defeat three Woodmon!
+
+Reward: 3,000 NWP</body>"
+"356d8cb4","<title>Success: Woodmon</title>
+<body>You defeated the Woodmon!
+
+Received: 3,000 NWP</body>"
+"39054e0c","<title>Golden Acorn Gathering</title>
+<body>Collect one Golden Acorn!
+
+Reward: 4,000 NWP</body>"
+"65085d9","<title>Success: Golden Acorn</title>
+<body>You gathered one Golden Acorn!
+
+Received: 4,000 NWP</body>"
+"39054e0d","<title>Vegiemon Hunt</title>
+<body>Defeat five Vegiemon!
+
+Reward: 1,000 NWP</body>"
+"9128a662","<title>Success: Vegiemon</title>
+<body>You defeated five Vegiemon!
+
+Received: 1,000 NWP</body>"
+"3c0552dd","<title>Ohguino Wastelands Trip #1</title>
+<body>Go to the Secret Graveyard in the
+Ohguino Wastelands!
+
+Reward: 1,000 NWP</body>"
+"6867e3b2","<title>Success: Ohguino Wastelands #1</title>
+<body>You went to the Secret Graveyard in the
+Ohguino Wastelands!
+
+Received: 1,000 NWP</body>"
+"3c0552dc","<title>Deluxe Mushroom Gathering</title>
+<body>Gather two Deluxe Mushrooms!
+
+Reward: 2,000 NWP</body>"
+"1d902869","<title>Success: Deluxe Mushroom<</title>
+<body>You gathered two Deluxe Mushrooms!
+
+Received: 2,000 NWP</body>"
+"3c0552df","<title>Agumon (Black) Hunt</title>
+<body>Defeat five Agumon (Black)!
+
+Reward: 1,000 NWP</body>"
+"477c1020","<title>Success: Agumon (Black)</title>
+<body>You defeated five Agumon (Black)!
+
+Received: 1,000 NWP</body>"
+"3c0552de","<title>Baby Strawberry Gathering</title>
+<body>Gather two Baby Strawberries!
+
+Reward: 3,000 NWP</body>"
+"fb539807","<title>Success: Baby Strawberries</title>
+<body>You gathered two Baby Strawberries!
+
+Received: 3,000 NWP</body>"
+"3c0552d9","<title>Saberdramon Hunt</title>
+<body>Defeat four Saberdramon!
+
+Reward: 4,000 NWP</body>"
+"b60abc1e","<title>Success: Saberdramon</title>
+<body>You defeated four Saberdramon!
+
+Received: 4,000 NWP</body>"
+"3c0552d8","<title>Bony Resort Trip #1</title>
+<body>Go to the Celeb Blue Room at the Bony
+Resort!
+
+Reward: 1,000 NWP</body>"
+"6b3300b5","<title>Success: Bony Resort #1</title>
+<body>You went to the Celeb Blue Room at the
+Bony Resort!
+
+Received: 1,000 NWP</body>"
+"3c0552db","<title>Fighty Fungus Gathering</title>
+<body>Gather one Fighty Fungus.
+
+Reward: 1,000 NWP</body>"
+"92a47f8c","<title>Success: Fighty Fungus</title>
+<body>You gathered one Fighty Fungus!
+
+Received: 1,000 NWP</body>"
+"3c0552da","<title>ClearAgumon Hunt</title>
+<body>Defeat ten ClearAgumon!
+
+Reward: 2,000 NWP</body>"
+"48f67153","<title>Success: ClearAgumon</title>
+<body>You defeated ten ClearAgumon!
+
+Received: 2,000 NWP</body>"
+"3c0552d5","<title>Orange Banana Gathering</title>
+<body>Gather two Orange Bananas!
+
+Reward: 1,000 NWP</body>"
+"131996a","<title>Success: Orange Banana</title>
+<body>You gathered two Orange Bananas!
+
+Received: 1,000 NWP</body>"
+"3c0552d4","<title>Wizardmon Hunt</title>
+<body>Defeat six Wizardmon!
+
+Reward: 3,000 NWP</body>"
+"9796dfe1","<title>Success: Wizardmon</title>
+<body>You defeated six Wizardmon!
+
+Received: 3,000 NWP</body>"
+"3b05516a","<title>Faulty Ex Machina Trip #1</title>
+<body>Go to the West Coast of Faulty Ex Machina!
+
+Reward: 4,000 NWP</body>"
+"51171c63","<title>Success: Faulty Ex Machina #1</title>
+<body>You went to the West Coast of Faulty Ex
+Machina!
+
+Received: 4,000 NWP</body>"
+"3b05516b","<title>Celebration Nameko Gathering</title>
+<body>Gather one Celebration Nameko!
+
+Reward: 1,000 NWP</body>"
+"dc02c45c","<title>Success: Celebration Nameko</title>
+<body>You gathered one Celebration Nameko!
+
+Received: 1,000 NWP</body>"
+"3b055168","<title>Guardromon Hunt</title>
+<body>Defeat six Guardromon!
+
+Reward: 1,000 NWP</body>"
+"7490e045","<title>Success: Guardromon</title>
+<body>You defeated six Guardromon!
+
+Received: 1,000 NWP</body>"
+"3b055169","<title>Cloudy Orange Gathering</title>
+<body>Gather two Cloudy Oranges!
+
+Reward: 2,000 NWP</body>"
+"fe2bcc6e","<title>Success: Cloudy Oranges</title>
+<body>You gathered two Cloudy Oranges!
+
+Received: 2,000 NWP</body>"
+"3b05516e","<title>Guardromon (Gold) Hunt</title>
+<body>Defeat one Guardromon (Gold)!
+
+Reward: 1,000 NWP</body>"
+"5eeac17","<title>Success: Guardromon (Gold)</title>
+<body>You defeated one Guardromon (Gold)!
+
+Received: 1,000 NWP</body>"
+"3b05516f","<title>Absolute Zero Trip #1</title>
+<body>Go to the Freeze Way in Absolute Zero!
+
+Reward: 3,000 NWP</body>"
+"90da54f0","<title>Success: Absolute Zero #1</title>
+<body>You went to the Freeze Way in Absolute
+Zero!
+
+Received: 3,000 NWP</body>"
+"3b05516c","<title>Frostcut Mushroom Gathering</title>
+<body>Gather four Frostcut Mushrooms!
+
+Reward: 4,000 NWP</body>"
+"282b3c79","<title>Success: Frostcut Mushrooms</title>
+<body>You gathered four Frostcut Mushrooms!
+
+Received: 4,000 NWP</body>"
+"3b05516d","<title>SnowAgumon Hunt</title>
+<body>Defeat five SnowAgumon!
+
+Reward: 1,000 NWP</body>"
+"b3035c02","<title>Success: SnowAgumon</title>
+<body>You defeated five SnowAgumon!
+
+Received: 1,000 NWP</body>"
+"3b055162","<title>Confusion Cherry Gathering</title>
+<body>Gather one Confusion Cherry!
+
+Reward: 1,000 NWP</body>"
+"9e103bb","<title>Success: Confusion Cherry</title>
+<body>You gathered one Confusion Cherry!
+
+Received: 1,000 NWP</body>"
+"3b055163","<title>SnowGoblimon Hunt</title>
+<body>Defeat ten SnowGoblimon!
+
+Reward: 2,000 NWP</body>"
+"54cc4754","<title>Success: SnowGoblimon</title>
+<body>You defeated ten SnowGoblimon!
+
+Received: 2,000 NWP</body>"
+"3605494b","<title>Infinite Cauldron Trip #1</title>
+<body>Go to Layer 03 in the Infinite Cauldron!
+
+Reward: 1,000 NWP</body>"
+"93cf9c7c","<title>Success: Infinite Cauldron #1</title>
+<body>You went to Layer 03 in the Infinite
+Cauldron!
+
+Received: 1,000 NWP</body>"
+"3605494a","<title>Quick Fruit Gathering</title>
+<body>Gather three Quick Fruits!
+
+Reward: 3,000 NWP</body>"
+"7a6bf03","<title>Success: Quick Fruits</title>
+<body>You gathered three Quick Fruits!
+
+Received: 3,000 NWP</body>"
+"36054949","<title>Datamon Hunt</title>
+<body>Defeat three Datamon!
+
+Reward: 4,000 NWP</body>"
+"b4b9dc0e","<title>Success: Datamon</title>
+<body>You defeated three Datamon!
+
+Received: 4,000 NWP</body>"
+"36054948","<title>Digifry Fishing</title>
+<body>Fish for three Digifry!
+
+Reward: 1,000 NWP</body>"
+"29e34f65","<title>Success: Digifry</title>
+<body>You caught three Digifry!
+
+Received: 1,000 NWP</body>"
+"3605494f","<title>Piddomon Hunt</title>
+<body>Defeat three Piddomon!
+
+Reward: 1,000 NWP</body>"
+"462cc310","<title>Success: Piddomon Hunt</title>
+<body>You defeated three Piddomon!
+
+Received: 1,000 NWP</body>"
+"3605494e","<title>Logic Volcano Trip #2</title>
+<body>Go to the Hidden Red House at Logic
+Volcano!
+
+Reward: 2,000 NWP</body>"
+"bb411b37","<title>Success: Logic Volcano #2</title>
+<body>You went to the Hidden Red House at
+Logic Volcano!
+
+Reward: 2,000 NWP</body>"
+"3605494d","<title>Acrid Fruit Gathering</title>
+<body>Gather one Acrid Fruit!
+
+Reward: 1,000 NWP</body>"
+"6992ffa2","<title>Success: Acrid Fruit</title>
+<body>You gathered one Acrid Fruit!
+
+Received: 1,000 NWP</body>"
+"3605494c","<title>Meramon Hunt</title>
+<body>Defeat six Meramon!
+
+Reward: 3,000 NWP</body>"
+"debadf19","<title>Success: Meramon</title>
+<body>You defeated six Meramon!
+
+Received: 3,000 NWP</body>"
+"36054943","<title>Digicrucian Fishing</title>
+<body>Fish for six Digicrucians!
+
+Reward: 4,000 NWP</body>"
+"b5beaf4","<title>Success: Digicrucians</title>
+<body>You caught six Digicrucians!
+
+Received: 4,000 NWP</body>"
+"36054942","<title>BomberNanimon Hunt</title>
+<body>Defeat two BomberNanimon!
+
+Reward: 1,000 NWP</body>"
+"c070a75b","<title>Success: BomberNanimon</title>
+<body>You defeated two BomberNanimon!
+
+Received: 1,000 NWP</body>"
+"350547d8","<title>MOD Cape Trip #2</title>
+<body>Go to the Captain's Cabin at MOD Cape!
+
+Reward: 1,000 NWP</body>"
+"747ec7b5","<title>Success: MOD Cape #2</title>
+<body>You went to the Captain's Cabin at MOD
+Cape!
+
+Received: 1,000 NWP</body>"
+"350547d9","<title>Rolly Fruit Gathering</title>
+<body>Gather three Rolly Fruits!
+
+Reward: 2,000 NWP</body>"
+"bf56831e","<title>Success: Rolly Fruits</title>
+<body>You gathered three Rolly Fruits!
+
+Received: 2,000 NWP</body>"
+"350547da","<title>Seadramon Hunt</title>
+<body>Defeat four Seadramon!
+
+Reward: 1,000 NWP</body>"
+"52423853","<title>Success: Seadramon</title>
+<body>You defeated four Seadramon!
+
+Received: 1,000 NWP</body>"
+"350547db","<title>Digikoi Fishing</title>
+<body>Fish for four Digikoi!
+
+Reward: 3,000 NWP</body>"
+"9bf0468c","<title>Success: Digikoi</title>
+<body>You caught four Digikoi!
+
+Received: 3,000 NWP</body>"
+"350547dc","<title>WereGarurumon (Black) Hunt</title>
+<body>Defeat one WereGarurumon (Black)!
+
+Reward: 4,000 NWP</body>"
+"26dbef69","<title>Success: WereGarurumon (Blk)</title>
+<body>You defeated one WereGarurumon (Black)!
+
+Received: 4,000 NWP</body>"
+"350547dd","<title>Ohguino Wastelands Trip #2</title>
+<body>Go to the Rose Palace in the Ohguino
+Wastelands!
+
+Reward: 1,000 NWP</body>"
+"71b3aab2","<title>Success: Ohguino Wastelands #2</title>
+<body>You went to the Rose Palace in the
+Ohguino Wastelands!
+
+Received: 1,000 NWP</body>"
+"350547de","<title>Duty Fruit Gathering</title>
+<body>Gather one Duty Fruit!
+
+Reward: 1,000 NWP</body>"
+"49f5f07","<title>Success: Duty Fruit</title>
+<body>You gathered one Duty Fruit!
+
+Received: 1,000 NWP</body>"
+"350547df","<title>Lopmon Hunt</title>
+<body>Defeat six Lopmon!
+
+Reward: 2,000 NWP</body>"
+"50c7d720","<title>Success: Lopmon</title>
+<body>You defeated six Lopmon!
+
+Received: 2,000 NWP</body>"
+"350547d0","<title>Digicarp Fishing</title>
+<body>Fish for three Digicarp!
+
+Reward: 1,000 NWP</body>"
+"ec0b164d","<title>Success: Digicarp</title>
+<body>You caught three Digicarp!
+
+Received: 1,000 NWP</body>"
+"350547d1","<title>BlackGatomon Hunt</title>
+<body>Defeat four BlackGatomon!
+
+Reward: 3,000 NWP</body>"
+"582038b6","<title>Success: BlackGatomon</title>
+<body>You defeated four BlackGatomon!
+
+Received: 3,000 NWP</body>"
+"38054c91","<title>Bony Resort Trip #2</title>
+<body>Go to the Pink Stone House at the Bony
+Resort!
+
+Reward: 4,000 NWP</body>"
+"7fb77276","<title>Success: Bony Resort #2</title>
+<body>You went to the Pink Stone House at the
+Bony Resort!
+
+Received: 4,000 NWP</body>"
+"38054c90","<title>Dozy Fruit Gathering</title>
+<body>Gather one Dozy Fruit!
+
+Reward: 1,000 NWP</body>"
+"161cb80d","<title>Success: Dozy Fruit</title>
+<body>You gathered one Dozy Fruit!
+
+Received: 1,000 NWP</body>"
+"38054c93","<title>Sukamon Hunt</title>
+<body>Defeat six Sukamon!
+
+Reward: 1,000 NWP</body>"
+"7d8e9c04","<title>Success: Sukamon</title>
+<body>You defeated six Sukamon!
+
+Received: 1,000 NWP</body>"
+"38054c92","<title>Digibitterling Fishing</title>
+<body>Fish for two Digibitterlings!
+
+Reward: 2,000 NWP</body>"
+"f2a2f42b","<title>Success: Digibitterling</title>
+<body>You caught two Digibitterlings!
+
+Received: 2,000 NWP</body>"
+"38054c95","<title>PlatinumSukamon Hunt</title>
+<body>Defeat one PlatinumSukamon!
+
+Reward: 1,000 NWP</body>"
+"348f022a","<title>Success: PlatinumSukamon</title>
+<body>You defeated one PlatinumSukamon!
+
+Received: 1,000 NWP</body>"
+"38054c94","<title>Faulty Ex Machina Trip #2</title>
+<body>Go to KingSukamon's Chamber at Faulty Ex
+Machina!
+
+Reward: 3,000 NWP</body>"
+"c879dfa1","<title>Success: Faulty Ex Machina #2</title>
+<body>You went to KingSukamon's Chamber at
+Faulty Ex Machina!
+
+Received: 3,000 NWP</body>"
+"38054c97","<title>Cobb Fruit Gathering</title>
+<body>Gather four Cobb Fruits!
+
+Reward: 4,000 NWP</body>"
+"1265fa18","<title>Success: Cobb Fruits</title>
+<body>You gathered four Cobb Fruits!
+
+Received: 4,000 NWP</body>"
+"38054c96","<title>WaruSeadramon Hunt</title>
+<body>Defeat two WaruSeadramon!
+
+Reward: 1,000 NWP</body>"
+"c77ab77f","<title>Success: WaruSeadramon</title>
+<body>You defeated two WaruSeadramon!
+
+Received: 1,000 NWP</body>"
+"38054c99","<title>Digisalmon Fishing</title>
+<body>Fish for one Digisalmon!
+
+Reward: 1,000 NWP</body>"
+"e6ec29de","<title>Success: Digisalmon</title>
+<body>You caught one Digisalmon!
+
+Received: 1,000 NWP</body>"
+"38054c98","<title>Meteormon Hunt</title>
+<body>Defeat two Meteormon!
+
+Reward: 2,000 NWP</body>"
+"9c146e75","<title>Success: Meteormon</title>
+<body>You defeated two Meteormon!
+
+Received: 2,000 NWP</body>"
+"37054b3e","<title>Infinite Cauldron Trip #2</title>
+<body>Go to Layer 06 at the Infinite Cauldron!
+
+Reward: 1,000 NWP</body>"
+"267a15a7","<title>Success: Infinite Cauldron #2</title>
+<body>You went to Layer 06 at the Infinite
+Cauldron!
+
+Received: 1,000 NWP</body>"
+"37054b3f","<title>Oily Fruit Gathering</title>
+<body>Gather three Oily Fruits!
+
+Reward: 3,000 NWP</body>"
+"71655940","<title>Success: Oily Fruits</title>
+<body>You gathered three Oily Fruits!
+
+Received: 3,000 NWP</body>"
+"37054b3c","<title>MegaSeadramon Hunt</title>
+<body>Defeat one MegaSeadramon!
+
+Reward: 4,000 NWP</body>"
+"47797089","<title>Success: MegaSeadramon</title>
+<body>You defeated one MegaSeadramon!
+
+Received: 4,000 NWP</body>"
+"37054b3d","<title>Digitrout Fishing</title>
+<body>Fish for five Digitrout!
+
+Reward: 1,000 NWP</body>"
+"938e6152","<title>Success: Digitrout</title>
+<body>You caught five Digitrout!
+
+Received: 1,000 NWP</body>"
+"37054b3a","<title>Youkomon Hunt</title>
+<body>Defeat five Youkomon!
+
+Reward: 1,000 NWP</body>"
+"71a0f2f3","<title>Success: Youkomon</title>
+<body>You defeated five Youkomon!
+
+Received: 1,000 NWP</body>"
+"37054b3b","<title>Logic Volcano Trip #3</title>
+<body>Go to the Dragon's Trident at Logic
+Volcano!
+
+Reward: 2,000 NWP</body>"
+"bc8dc8ac","<title>Success: Logic Volcano #3</title>
+<body>You went to the Dragon's Trident at
+Logic Volcano!
+
+Received: 2,000 NWP</body>"
+"37054b38","<title>Black Digitrout Fishing</title>
+<body>Fish for three Black Digitrout!
+
+Reward: 1,000 NWP</body>"
+"951ab6d5","<title>Success: Black Digitrout</title>
+<body>You caught three Black Digitrout!
+
+Received: 1,000 NWP</body>"
+"37054b39","<title>WarGrowlmon (Orange) Hunt</title>
+<body>Defeat one WarGrowlmon (Orange)!
+
+Reward: 3,000 NWP</body>"
+"dff2723e","<title>Success: WarGrowlmon (Orange)</title>
+<body>You defeated one WarGrowlmon (Orange)!
+
+Received: 3,000 NWP</body>"
+"37054b36","<title>Digisnakehead Fishing</title>
+<body>Fish for one Digisnakehead!
+
+Reward: 4,000 NWP</body>"
+"bf43cb5f","<title>Success: Digisnakehead</title>
+<body>You caught one Digisnakehead!
+
+Received: 4,000 NWP</body>"
+"37054b37","<title>Hagurumon Hunt</title>
+<body>Defeat six Hagurumon!
+
+Reward: 1,000 NWP</body>"
+"a2f0ef8","<title>Success: Hagurumon</title>
+<body>You defeated six Hagurumon!
+
+Received: 1,000 NWP</body>"
+"3205431f","<title>Absolute Zero Trip #2</title>
+<body>Go to the Concealed Gorge at Absolute
+Zero!
+
+Reward: 1,000 NWP</body>"
+"26b7c860","<title>Success: Absolute Zero #2</title>
+<body>You went to the Concealed Gorge at
+Absolute Zero!
+
+Received: 1,000 NWP</body>"
+"3205431e","<title>Digieel Fishing</title>
+<body>Fish for one Digieel!
+
+Reward: 2,000 NWP</body>"
+"dd082647","<title>Success: Digieel</title>
+<body>You caught one Digieel!
+
+Received: 2,000 NWP</body>"
+"3205431d","<title>Icemon Hunt</title>
+<body>Defeat four Icemon!
+
+Reward: 1,000 NWP</body>"
+"4a1c71f2","<title>Success: Icemon</title>
+<body>You defeated four Icemon!
+
+Received: 1,000 NWP</body>"
+"3205431c","<title>Digituna Fishing</title>
+<body>Fish for one Digituna!
+
+Reward: 3,000 NWP</body>"
+"ff44b5a9","<title>Success: Digituna</title>
+<body>You caught one Digituna!
+
+Received: 3,000 NWP</body>"
+"3205431b","<title>Hyogamon Hunt</title>
+<body>Defeat ten Hyogamon!
+
+Reward: 4,000 NWP</body>"
+"74590dcc","<title>Success: Hyogamon</title>
+<body>You defeated ten Hyogamon!
+
+Received: 4,000 NWP</body>"
+"3205431a","<title>Bony Resort Trip #3</title>
+<body>Go to the Night Church at the Bony
+Resort!
+
+Reward: 1,000 NWP</body>"
+"28309593","<title>Success: Bony Resort #3</title>
+<body>You went to the Night Church at the Bony
+Resort!
+
+Received: 1,000 NWP</body>"
+"32054319","<title>Digiarowana Fishing</title>
+<body>Fish for one Digiarowana!
+
+Reward: 1,000 NWP</body>"
+"9544e15e","<title>Success: Digiarowana</title>
+<body>You caught one Digiarowana!
+
+Received: 1,000 NWP</body>"
+"32054318","<title>MegaKabuterimon (Blue) Hunt</title>
+<body>Defeat one MegaKabuterimon (Blue)!
+
+Reward: 2,000 NWP</body>"
+"4a6d25f5","<title>Success: MegaKabuterimon (Bl)</title>
+<body>You defeated one MegaKabuterimon (Blue)!
+
+Received: 2,000 NWP</body>"
+"32054317","<title>Digipirarucu Fishing</title>
+<body>Fish for one Digipirarucu!
+
+Reward: 1,000 NWP</body>"
+"c0beb198","<title>Success: Digipirarucu</title>
+<body>You caught one Digipirarucu!
+
+Received: 1,000 NWP</body>"
+"32054316","<title>BlueMeramon Hunt</title>
+<body>Defeat two BlueMeramon!
+
+Reward: 3,000 NWP</body>"
+"75d36eff","<title>Success: BlueMeramon</title>
+<body>You defeated two BlueMeramon!
+
+Received: 3,000 NWP</body>"
+"310541ac","<title>Absolute Zero Trip #3</title>
+<body>Go to the Eternal Glacier at Absolute
+Zero!
+
+Reward: 4,000 NWP</body>"
+"766f3b9","<title>Success: Absolute Zero #3</title>
+<body>You went to the Eternal Glacier at
+Absolute Zero!
+
+Received: 4,000 NWP</body>"
+"310541ad","<title>Quick Fruit Gathering</title>
+<body>Gather two Quick Fruits!
+
+Reward: 1,000 NWP</body>"
+"923d8142","<title>Success: Quick Fruits</title>
+<body>You gathered two Quick Fruits!
+
+Received: 1,000 NWP</body>"
+"310541ae","<title>Gigadramon Hunt</title>
+<body>Defeat one Gigadramon!
+
+Reward: 1,000 NWP</body>"
+"e52a6457","<title>Success: Gigadramon</title>
+<body>You defeated one Gigadramon!
+
+Received: 1,000 NWP</body>"
+"310541af","<title>Digiloach Fishing</title>
+<body>Gather three Digiloaches!
+
+Reward: 2,000 NWP</body>"
+"70160c30","<title>Success: Digiloaches</title>
+<body>You caught three Digiloaches!
+
+Received: 2,000 NWP</body>"
+"310541a8","<title>DemiDevimon Hunt</title>
+<body>Defeat five DemiDevimon!
+
+Reward: 1,000 NWP</body>"
+"53cb0485","<title>Success: DemiDevimon</title>
+<body>You defeated five DemiDevimon!
+
+Received: 1,000 NWP</body>"
+"310541a9","<title>Infinite Cauldron Trip #3</title>
+<body>Go to Core 02 at the Infinite Cauldron!
+
+Reward: 3,000 NWP</body>"
+"dfe059ae","<title>Success: Infinite Cauldron #3</title>
+<body>You went to Core 02 at the Infinite
+Cauldron!
+
+Received: 3,000 NWP</body>"
+"310541aa","<title>Digistalk Gathering</title>
+<body>Gather 12 Digistalks!
+
+Reward: 4,000 NWP!</body>"
+"32cba9a3","<title>Success: Digistalks</title>
+<body>You gathered 12 Digistalks!
+
+Received: 4,000 NWP!</body>"
+"310541ab","<title>RedVegiemon Hunt</title>
+<body>Defeat three RedVegiemon!
+
+Reward: 1,000 NWP!</body>"
+"bdb7519c","<title>Success: RedVegiemon</title>
+<body>You defeated three RedVegiemon!
+
+Received: 1,000 NWP!</body>"
+"310541a4","<title>Digicatfish Fishing</title>
+<body>Fish for one Digicatfish!
+
+Reward: 1,000 NWP</body>"
+"c16e1071","<title>Success: Digicatfish</title>
+<body>You caught one Digicatfish!
+
+Received: 1,000 NWP</body>"
+"310541a5","<title>GranKuwagamon Hunt</title>
+<body>Defeat two GranKuwagamon!
+
+Reward: 3,000 NWP</body>"
+"2c45fe7a","<title>Success: GranKuwagamon</title>
+<body>You defeated two GranKuwagamon!
+
+Received: 3,000 NWP</body>"
+"b4023e0e","<title>Infinite Cauldron Trip #4</title>
+<body>Go to Core 00 at the Infinite Cauldron!
+
+Reward: 4,000 NWP</body>"
+"693b7af7","<title>Success: Infinite Cauldron #4</title>
+<body>You went to Core 00 at the Infinite
+Cauldron!
+
+Received: 4,000 NWP</body>"
