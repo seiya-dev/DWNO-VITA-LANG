@@ -44,20 +44,20 @@
 "48520337","Rina"
 "48919c1b","UlforceVeedramon"
 "625c65c3","Noir"
-"625c65c0","彼特獸A"
-"625c65c1","彼特獸B"
-"625c65c6","彼特獸C"
-"625c65c7","冰加獸A"
-"625c65c4","冰加獸B"
-"869529ec","光速之努梅爾佛斯"
-"869529ef","怒濤之摩拉伊格爾"
-"869529ee","巨岩之普布朗克"
-"869529e9","劇毒之柯爾拉斯"
-"869529e8","雷鳴之斯卡費爾特"
-"869529eb","享樂之魔德利亞斯"
-"869529ea","沉默之格利爾邦茲亞"
-"869529e5","極冰之卡歐利耶爾"
-"869529e4","衝擊之戴亞利亞斯"
+"625c65c0","Piddomon A"
+"625c65c1","Piddomon B"
+"625c65c6","Piddomon C"
+"625c65c7","Hyogamon A"
+"625c65c4","Hyogamon B"
+"869529ec","Numelfos the Light-Speed"
+"869529ef","Moraigel the Surging"
+"869529ee","Puplang the Stone"
+"869529e9","Corellus the Venomous"
+"869529e8","Skaffelt the Thunderous"
+"869529eb","Modorius the Indulgent"
+"869529ea","Geryl Panzer the Silent"
+"869529e5","Kaoriel the Frozen"
+"869529e4","Diarius the Ballistic"
 "ceec9f4b","DO_NOT_TRANSLATE"
 "a001","Botamon"
 "a002","Punimon"
@@ -197,7 +197,7 @@
 "d061","Sukamon"
 "d062","PlatinumSukamon"
 "d063","Arresterdramon"
-"d064","OmniShoutmon"
+"d064","OmegaShoutmon"
 "d065","Meicoomon"
 "d066","Greymon"
 "d067","Garurumon"
@@ -276,7 +276,7 @@
 "f012","Magnamon"
 "f013","DO_NOT_TRANSLATE"
 "f014","Gallantmon"
-"f015","MegaGargomon"
+"f015","SaintGargomon"
 "f016","Cherubimon"
 "f017","Sakuyamon"
 "f018","MirageGaogamon"
@@ -295,7 +295,7 @@
 "f031","DO_NOT_TRANSLATE"
 "f032","BanchoLeomon"
 "f033","Leviamon"
-"f034","Crusadermon"
+"f034","LordKnightmon"
 "f035","Boltmon"
 "f036","Creepymon"
 "f037","DO_NOT_TRANSLATE"
@@ -329,7 +329,7 @@
 "f065","Jesmon"
 "f066","DO_NOT_TRANSLATE"
 "f067","DO_NOT_TRANSLATE"
-"f068","Susanoomon"
+"f068","Susanomon"
 "f069","WarGreymon"
 "f070","MetalGarurumon"
 "g001","Omegamon"
@@ -337,7 +337,7 @@
 "g003","DO_NOT_TRANSLATE"
 "g004","Imperialdramon FM"
 "g005","Imperialdramon PM"
-"g006","Susanoomon"
+"g006","Susanomon"
 "g007","Belphemon RM"
 "g008","Omegamon Zwart D"
 "g009","Armageddemon"
@@ -409,12 +409,12 @@
 "f071","Minervamon"
 "f072","Dianamon"
 "f073","Darkdramon"
-"f074","KaiserGreymon"
+"f074","EmperorGreymon"
 "f075","MagnaGarurumon"
 "g015","ShineGreymon BM"
 "g016","Rosemon Burst Mode"
 "g017","Chaosmon"
-"cb95b49e","A newborn digital monster.
+"cb95b49e","A newborn Digimon.
 Dark peach fuzz bristles across the
 surface of its slimy body."
 "cb8d6651","A newborn Digimon baby. Three tentacles
@@ -433,19 +433,18 @@ type, in-training Digimon is said to be
 sparse in number."
 "b9a968c","A very happy Digimon with one horn.
 Unlike other slime Digimon, Zerimon's
-horn is very rigid."
+horn is surprisingly rigid."
 "cb7e5bcf","A rather subdued Digimon with three
 horns. Like other in-training Digimon,
 uses acidic bubbles to defeat enemies."
 "b80ff66","An unidentified Digimon that appeared on
-a computer network. An amalgam of
+a computer network. It's an amalgam of
 humanity's destructive instincts."
-"7829919c","The smallest Digimon there is. Very,
-very curious, this Digimon baby is loved
-by everyone."
+"7829919c","The smallest Digimon there is. It's very,
+very curious and is loved by everyone."
 "78275305","DO_NOT_TRANSLATE"
 "382f3d02","A seed-type Digimon, covered with fine
-hairs. Floats through the air gently,
+hairs. It floats through the air gently,
 like a dandelion seed."
 "382cfeab","This Botamon grows into an Agumon with
 a special voice."
@@ -454,34 +453,34 @@ a special voice."
 "ec2127eb","This small Digimon shed its fur and grew
 one size bigger."
 "2c1f4ddc","Small like Punimon, but with a hard
-tentacle. With a more feral Digivolution
-than Punimon. Covered in bushy hair."
-"2c1d0f45","Rare for an in-training Digimon, has
-hands and feet. Cute but with a mouth
+tentacle. It's a more feral Digivolution
+than Punimon and is covered in bushy hair."
+"2c1d0f45","Rare for an in-training Digimon, it has
+hands and feet. It's cute but has a mouth
 full of sharp teeth."
 "ec1a6bae","DO_NOT_TRANSLATE"
 "2c16fe97","This soft-bodied Digimon has a
 retractable carapace and dodders around."
 "2c14c038","A bulb Digimon with plant-like growths
-sprouting from its head, Yuramon began
-to Digivolve after falling to Earth."
+sprouting from its head. Yuramon began
+to Digivolve after falling to the ground."
 "ec121d61","A quadruped Digimon that grew from
 Jyarimon. With features like Tokomon,
 it also has a mouth full of sharp teeth."
 "ec0fde0a","A Digimon that grew from Zerimon. Bright
-and cheerful like Zerimon. Also has a
+and cheerful like Zerimon. It also has a
 rigid horn like Zerimon."
 "2c0e04f3","A Digimon that grew from Conomon. Like
-Conomon, has three horns and a mature
+Conomon, it has three horns and a mature
 personality."
 "7f8c1c35","A Digimon in training, Digivolved from
 Kuramon. The tips of the tentacles are
 claw-like, and deadly."
-"bf8ebfcc","A little Digimon, akin to a cat. Always
-fickle, very curious and flighty, but
+"bf8ebfcc","A little Digimon, akin to a cat. It's always
+fickle, very curious, and flighty, but
 also a little on the lonely side."
 "bf90fe5b","Looking like a baby plesiosaur, this is
-a funny little Digimon. Moves strangely,
+a funny little Digimon. It moves strangely,
 like a seahorse."
 "7f946b72","This Koromon grows into an Agumon with a
 special voice."
@@ -497,41 +496,41 @@ by other Digimon."
 grab things, but as a result, is a poor
 flyer."
 "93b21ce9","A mammal Digimon with big ears. Has
-hidden holy powers, and is said to bear
+hidden holy powers and is said to bear
 an ancient genome."
 "93b45b40","A primitive insectoid Digimon with a
-hard shell and undeveloped attacks. One
-foreleg and four back claws."
+hard shell and undeveloped attacks. It
+has one foreleg and four back claws."
 "d3b6fe1f","A sea beast Digimon whose coat of fur
 keeps it warm and lets it move on land.
 Has a rascally personality."
-"d3b93d76","A vegetation Digimon with tropical
-flowers in its head that change odor
-enough to sometimes drive enemies away."
-"d3cf0305","A baby sacred Digimon with droopy ears.
-Still young, so could be either good or
+"d3b93d76","A vegetation Digimon with tropical flowers
+on its head. The odor of the flowers can
+be changed to drive enemies away."
+"d3cf0305","A sacred Digimon baby with droopy ears.
+Still young, so it could be either good or
 evil. Looks like a real animal."
 "d3d1419c","A new, recently-discovered Digimon. A
-remnant from the early days. Imp with a
+remnant from the early days. An imp with a
 powerful sense of justice."
 "18f955a","12345678901234567890
 12345678901234567890
 12345678901234567890"
-"18d56c3","A shy larva Digimon. Said to be the
-descendant of ancient stock. Will
-Digivolve into a powerful Champion."
+"18d56c3","A shy larva Digimon that's said to be
+the descendant of ancient stock.
+Digivolves into a powerful Adult."
 "418b7cb4","This little dinosaur-like Digimon is
-still a Rookie, but it has lots of
+still a Child, but it has lots of
 potential as fighting stock."
 "188d91d","A mysterious Digimon with one horn.
-Utterly adorable, but shines with an
+It's utterly adorable, but shines with an
 unsuspected power when fighting."
-"1869a86","A very rare twin Digimon Rookie. Against
-the rougher Terriermon, this one is more
+"1869a86","A very rare twin Digimon Child. Compared
+to the rougher Terriermon, this one is more
 of a lonely baby."
 "41832e6f","A beast humanoid Digimon like a golden
 fox. Taller and thinner than other
-Rookies, and attacks with great speed."
+Childs, it attacks with great speed."
 "4180ef10","A beast Digimon, perhaps a sub-species
 of Gazimon. Wears gloves, perhaps to
 protect its maturing claws."
@@ -542,14 +541,14 @@ protect its maturing claws."
 "ae29820e","DO_NOT_TRANSLATE"
 "ae22c6c1","DO_NOT_TRANSLATE"
 "6e24a018","A variety of machine Digimon with a gear
-shape. Myriad gears lie within as well,
+shape. Myriad gears lie within it as well,
 and they are always turning."
-"ae31d14b","An ore Digimon with powerful defenses,
-seeking ore data from the field. A
+"ae31d14b","An ore Digimon with powerful defenses
+that seeks ore data from the field. A
 bright, happy, rascal."
 "ae340fa2","A little demon Digimon who loves trouble
 but lacks bravery. Smarter than most
-Rookies. Maybe a little too smart?"
+Childs. Maybe a little too smart?"
 "6e2cef25","A unique Digimon made entirely from
 plastic blocks. Adorable. Shy, unlike
 the brazen Agumon."
@@ -596,7 +595,7 @@ bother him a bit."
 "20754e87","This Goblimon's purpose is to share its
 divine good news with all who would
 listen."
-"e07728de","A Rookie Digimon that Digivolved from
+"e07728de","A Child Digimon that Digivolved from
 Tsumemon. Has a sunny disposition.
 Thinks that breaking things is fun."
 "e0796735","A Digimon with an elastic hammer-tail.
@@ -607,20 +606,20 @@ weird habits, and never lets go of its
 MacField microphone."
 "207e495b","Agumon with a special voice."
 "e081b672","Gabumon with a special voice."
-"f587f431","Dinosaur Digimon covered with a hardened
-shell. Sharp claws and a big horn make
+"f587f431","A dinosaur Digimon covered with a hardened
+shell. Its sharp claws and big horn make
 for fierce attacks."
-"f58eb07e","Beast Digimon akin to a wolf. With a
+"f58eb07e","A beast Digimon akin to a wolf. With a
 lean body and mad skills, its agility
 makes it fearsome to other Digimon."
 "b58c0ca7","A gigantic bird Digimon enrobed in
 flame. Patrols the skies on huge wings.
 Vicious, but hates fighting."
-"b5945bec","Angel Digimon wearing heavenly white
-garments, with six shining wings. Cool-
+"b5945bec","An angel Digimon wearing heavenly white
+garments and has six shining wings. Cool-
 headed in the face of evil."
 "f590eed5","A special insectoid Digimon with good
-attacks and defenses. A metallic head
+attacks and defenses. Its metallic head
 allows for extra-strong defenses."
 "f5993d12","A sea beast Digimon, sturdy and with
 thick fur to stand extreme cold. Roars
@@ -629,18 +628,18 @@ like a lion while fighting."
 Spends nearly all day spaced out, but
 look out when it goes berserk."
 "f576ab50","A very curious tease. Small in stature
-but a valuable sacred Digimon, with a
+but a valuable sacred Digimon, with
 power you'd never suspect."
-"b57407b9","A Champion mythical dragon Digimon that
-Digivolved with Veemon's powers. Very
+"b57407b9","An Adult mythical dragon Digimon that
+Digivolved with Veemon's powers. It's very
 just, and never heedless in action."
 "47b0d2cd","DO_NOT_TRANSLATE"
 "47b78e0a","A very rare insectoid Digimon with a
-humanoid form. A hard shell and rapid
-moves combine with a cool intellect."
-"87b5b4f3","A wizard dragon Digimon known as the
-""Crimson Wizard Dragon."" Wild and
-violent, with an awesome roar."
+humanoid form. Its hard shell and rapid
+moves combine with its cool intellect."
+"87b5b4f3","A demon dragon type Digimon known as the ""Crimson Dragon.""
+Has a wild and violent nature
+coupled with a roar powerful enough to shake the earth."
 "47b31124","A beast humanoid Digimon that Digivolved
 from Terriermon. Excels at hunting, and
 loves to wear D-VI's 503xx jeans."
@@ -651,15 +650,15 @@ fighting technique. Uses the Togaken."
 of a giant fox with nine tails. Hailed
 in ancient times as a peace-bringer."
 "47a64529","This beast Digimon is a bigger version
-of Gaomon, with glove-protected claws
+of Gaomon. Its glove-protected claws
 that have fully grown."
 "47a88380","DO_NOT_TRANSLATE"
 "47c8d7eb","A high-level wizard Digimon from the
 dimension of the Digital World. A bit
-impish, but with a shy side as well."
+impish, but has a shy side as well."
 "47cb1642","A fallen angel Digimon wrapped in dark
 robes. Once it was a shining Angemon,
-but then it fell into darkness."
+but it fell into darkness."
 "1b1e6aa6","A mythical ancient Digimon. Very rare
 and prized. Said to have been tamed by
 only one Tamer."
@@ -678,7 +677,7 @@ Its nature is also flame-like, scorching
 everything that it touches."
 "db228354","DO_NOT_TRANSLATE"
 "1b20a93d","A carnivorous vegetation Digimon with
-long ivy and a gaping mouth. The sweet
+long ivy and a gaping mouth. Its sweet
 aroma draws in small Digimon."
 "db318dde","DO_NOT_TRANSLATE"
 "1b2fb387","A mysterious Digimon from the Digital
@@ -690,7 +689,7 @@ after many battles."
 like body. Wraps its enemies in its
 coils and then crushes them."
 "6e8d7796","An insectoid Digimon with giant scissors
-atop its head. With a hard shell. Once
+atop its head. Has a hard shell. Once
 it has you, you won't escape."
 "ae901b2d","A machine Digimon used to protect
 computer networks. Follows its programs
@@ -698,7 +697,7 @@ to repel invaders."
 "ae925984","DO_NOT_TRANSLATE"
 "6e95c6d3","DO_NOT_TRANSLATE"
 "ae986a6a","A vegetation Digimon akin to a dying
-tree. Pretends to be just a tree, to
+tree. It pretends to be just a tree to
 attack passing Digimon. Hates fire."
 "ae9aa8c1","This mysterious Digimon is a variant of
 Nanimon. Shaped like a bomb, it even has
@@ -710,9 +709,9 @@ remains a riddle to be solved."
 places. Very territorial; will charge you
 down if you step over its line."
 "a8d29e2d","A Digimon enrobed in sparkling white
-robes, with two wings. As with Angemon,
-utterly good, and destroys evil."
-"a8daed6a","A subspecies of Kyubimon with green fur.
+robes and has two wings. As with
+Angemon, it's utterly good, and destroys evil."
+"a8daed6a","A subspecies of Kyubimon with silver fur.
 Not as bright, but faster than Kyubimon."
 "68d849d3","A beast Digimon like Garurumon. An evil
 Digimon, living in darkness. Is a real
@@ -756,22 +755,22 @@ Digivolve into this Devimon."
 "3c45e1b4","A comrade of Wizardmon from another
 dimension. Controls light and ice magic
 (high-level programming languages)."
-"fc524967","A chrysalis-like Champion Digimon. The
-Rookie Keramon became pupa-like to
+"fc524967","A chrysalis-like Adult Digimon. The
+Child Keramon became pupa-like to
 Digivolve into a stronger Digimon."
 "3c54ec3e","A mollusk Digimon with a slug-like body.
 Loves dark and damp places, and has
 neither attack power nor intelligence."
 "8eb861b2","A mollusk Digimon like Numemon. Lacks
 attack power, but is brutal, and will
-attack anyone. This leads to defeat."
-"ceb6879b","A Digimon shaped like a golden poop.
+attack anyone. This leads to its defeat."
+"ceb6879b","A Digimon shaped like a sparkly golden poop.
 Hated by other Digimon, but has great
 intelligence and attack power."
 "ceb4490c","A Digimon shaped like a platinum poop.
-This Sukamon-type took ore data from
-rare metals, but has the same skills."
-"8eb1a675","A Digivolved form of Gumdramon. Makes
+It has ore data from rare metals, but
+has the same skills as Sukamon."
+"8eb1a675","Digivolved form of Gumdramon. Makes
 the most of its flexibility with its
 special rubber battle armor."
 "8eaf671e","Shoutmon, releasing its hot soul, took
@@ -788,14 +787,14 @@ powers rival a nuclear warhead."
 leg strength of Garurumon, it has one of
 the best jumps in the Digimon world."
 "7ec9c1fc","A bird humanoid Digimon with wings that
-let it roam the skies, and massive
+let it roam the skies. Has massive
 claws. Guardian of the earth and wind."
 "7ec305b7","A high angel Digimon with eight silver
 wings. Assigned to control angel Digimon
 in the Digital World."
 "bec5a94e","A Digivolved form of Kabuterimon, found
 in the tropics. Big for an insectoid
-Digimon, and excels in fighting."
+Digimon and excels in fighting."
 "bebd5a01","A well-developed sea beast Digimon.
 Makes its own armor from materials it
 stole from enemies."
@@ -806,17 +805,17 @@ has secret reserves of untold power."
 lovely woman. Powerful and just, they
 say it was akin to a goddess."
 "bebb1baa","A dragon humanoid Digimon Digivolved
-from ExVeemon and Stingmon. Combines
+from ExVeemon and Stingmon. It combines
 dragon power with a tough insect shell."
 "eb152b40","DO_NOT_TRANSLATE"
-"eb12ece9","An Ultimate android Digimon named Giant
+"eb12ece9","A Perfect android Digimon named Giant
 Growlmon. Wears a restraint on its jaw
 to keep it under control."
 "2b1a0d76","An android Digimon Digivolved from
 Gargomon. Called ""Agile Hound"" as it can
 kill with lightning-quick speed."
-"2b17ce1f","One of the Deva Digimon. It is an
-Ultimate Digimon with a rabbit-like
+"2b17ce1f","One of the Deva Digimon. It is a
+Perfect Digimon with a rabbit-like
 form. Has a very kind heart."
 "eb1e25e4","Versed in Tao, this Master Digimon will
 fight using all techniques. Skilled in
@@ -831,8 +830,8 @@ ones with the most impressive records."
 "2b2917f8","King of the undead Digimon. Attained
 great powers when reborn. Very cruel and
 cunning in nature."
-"eb267421","A valuable female fallen angel Digimon.
-With mighty pure dark powers. Almost no
+"eb267421","A valuable female fallen angel Digimon
+with mighty, pure dark powers. Almost no
 tamer can deal with her."
 "a4603861","DO_NOT_TRANSLATE"
 "e462db38","A mutant Digimon Digivolved in a cruel
@@ -848,33 +847,33 @@ Area after losing an ancient battle."
 "e46d68dc","An android Digimon created to hold great
 power. It can chew through the strongest
 armor with its powerful jaw."
-"a46f42eb","This undead Digimon is nothing but bones
-but its remaining fight instinct
-animates those bones yet."
+"a46f42eb","This undead Digimon is nothing but bones.
+It remains animated due to its
+remaining fighting instincts."
 "a4718142","A dark dragon Digimon developed as a
 combat dragon to surpass Megadramon.
 It exists as a brutal computer virus."
 "a44cb029","An artificially created Digimon. Among
-the Ultimate dragon android Digimon,
-said to have the most awesome power."
+the Perfect dragon android Digimon,
+it's said to have the most awesome power."
 "a44eee80","A beast humanoid Digimon with a strong
-sense of justice. Digivolved from some
-Leomon with training and cold power."
-"52351b7e","A fighting beast humanoid Digimon, with
-data from various fighting games and a
-secret. Crushes its enemies."
+sense of justice. Digivolved from Leomon
+while constantly training in the cold."
+"52351b7e","A beast humanoid Digimon that takes
+data from various fighting games and
+uses their secrets. Crushes its enemies."
 "123277a7","DO_NOT_TRANSLATE"
 "52309d88","DO_NOT_TRANSLATE"
 "522e5f31","A fire Digimon that burns with an even
-greater intensity than a Champion
+greater intensity than an Adult
 Meramon."
 "523fa812","DO_NOT_TRANSLATE"
 "123d057b","DO_NOT_TRANSLATE"
 "123ac6ec","This Seadramon-type from the extremes of
-Folder Digivolved to survive the dog-
-eat-dog Digital World."
+Folder Continent Digivolved to survive the
+dog-eat-dog Digital World."
 "523759d5","An insectoid Digimon Digivolved from
-Kuwagamon. Better defenses in places,
+Kuwagamon. Has better defenses in places
 and more precise scissor attacks."
 "12212ec6","DO_NOT_TRANSLATE"
 "521f54af","DO_NOT_TRANSLATE"
@@ -897,25 +896,25 @@ it has powerful kicks."
 Kabuterimon. Big for an insectoid
 Digimon, it also excels in fighting."
 "3204b50f","An android Digimon Digivolved from a
-data-type Growlmon. Restraint on its jaw
-keeps it under control."
-"720758a6","An Ultimate android Digimon. The virus-
-type nature is strong, and it is called
+data-type Growlmon. The restraint on
+its jaw keeps it under control."
+"720758a6","A Perfect android Digimon. Its virus-
+type nature runs deep. It is called
 the Black Destructor."
-"deafebdc","Compared to normal Rapidmon, has a gold
-shine. Power goes to Mega level."
+"deafebdc","Compared to normal Rapidmon, it has a
+gold shine. Its power goes to Ultimate level."
 "deadad45","A vaccine-type Taomon enrobed in silver."
 "9eb40442","Versed in Tao, this Master Digimon will
-fight using all techniques. Skilled
+fight using all techniques. It's skilled
 in assassinations, unlike Taomon."
 "9eb1c5eb","A Seadramon-type Digimon Digivolved
 badly. Sneaky, it will chase its prey
 down with a zeal beyond MegaSeadramon."
-"dea55e38","An Ultimate Digimon like a long-legged
-spider. Can get into any network,
+"dea55e38","A Perfect Digimon like a long-legged
+spider. It can get into any network,
 regardless of security."
-"9ea2bb61","A mysterious Digimon that appeared
-suddenly. Calls itself the King of
+"9ea2bb61","A mysterious Digimon that suddenly
+appeared. Calls itself the King of
 Digimon. Powers exceed the imagination."
 "9eab09ae","A Digimon shrouded in mystery. Looks
 like a teddy bear, but they say there is
@@ -929,18 +928,18 @@ Digimon can use fire at will. A mutation
 of the Internet's firewall."
 "58e9a91d","MetalGreymon with a special voice."
 "98ec4cb4","WereGarurumon with a special voice."
-"c8ec6edf","Wearing the armor of the ultra-metallic
-Chrome Digizoid, this powerful dragon
-warrior is an extreme Greymon-type."
+"c8ec6edf","Armored in the ultra-metallic Chrome
+Digizoid, this mighty dragon warrior is
+the ultimate form of the Greymon type."
 "88e9cb00","A shining dragon Digimon that attacks
 using the energy of the scorching sun."
 "88e78ca9","The ultimate Garurumon, with increased
-power from his metallized body. Mentally
-alert as well."
+power from his metallized body. It's
+mentally alert as well."
 "88f8d58a","DO_NOT_TRANSLATE"
 "c8f6fc73","A Digimon with four golden wings.
-Leads all the bird Digimon, and said to
-control the holy Digimon too."
+Leads all the bird Digimon and is said
+to control the holy Digimon too."
 "88f458a4","A Seraph Digimon with ten golden wings
 and holy armor of a platinum sheen.
 The highest of the angel Digimon."
@@ -992,15 +991,15 @@ of Darkness."
 long red scarf. Its strong moral code
 will not tolerate wickedness."
 "63649e7c","DO_NOT_TRANSLATE"
-"63625fe5","A strange and mysterious titan wizard
+"63625fe5","A strange and mysterious wizard
 Digimon. Unlike demon and undead types,
 the reason for its existence is unknown."
-"a3698062","The ultimate form of Lucemon, as a
+"a3698062","The ultimate form of Lucemon. A
 dragon of the Apocalypse. Has ""Gehenna""
 balls of darkness that absorb attacks."
-"a367410b","The extreme form of Tyrannomon, which
-has Digivolved while fighting through
-all of the Digital World's history."
+"a367410b","The red-rusted Ultimate form of Tyrannomon,
+which has been fighting and Digivolving
+since the dawn of the Digital World."
 "a346eda0","A dragon humanoid Digimon subspecies of
 Greymon, using victory to increase
 power. Has an unbelievable record."
@@ -1017,8 +1016,8 @@ with strong will can be called Bancho."
 "36c0ed74","Called the Devil Beast from fear of the
 monster's powerful strength, it is the
 strongest of the Seven Deadly Digimon."
-"36ba312f","King of all the Knightmon, and a holy
-knight Digimon member of the Royal
+"36ba312f","King of all the Knightmon and a holy
+knight Digimon. Member of the Royal
 Knights. Has no mercy for the weak."
 "f6bc0b46","A prototype android Digimon. Made of
 flesh, it can feel emotion. It often
@@ -1036,13 +1035,13 @@ Most evil among the insectoid Digimon.
 Known as the Demon of the Deep Forest."
 "3c87f8ab","DO_NOT_TRANSLATE"
 "7c848b9c","An evil king Digimon sealed deep within
-the Dark Area, its too-strong powers put
-to sleep."
+the Dark Area. Put into sleep to seal
+its massive power."
 "7c824d05","An evil king Digimon akin to a bearded
-old man, and one of the Seven Deadly
-Digimon. Very cruel and avaricious."
+old man. One of the Seven Deadly
+Digimon and is very cruel and avaricious."
 "3c7faa6e","A member of the Royal Knights, the holy
-guardians of the Digital World, and a
+guardians of the Digital World. A
 holy knight Digimon with massive data."
 "7c7dd057","A vengeful colossus, born from the
 malice of the Digimon defeated by the
@@ -1051,13 +1050,13 @@ Olympos XII."
 Royal Knights. Unlike the others,
 descended to Earth to fight."
 "3c78ee21","A member of the Royal Knights, the holy
-guardians of the Digital World, and a
-holy knight Digimon like a beast."
+guardians of the Digital World. A
+beast-like holy knight Digimon."
 "3c76afca","A perfectionist among the Royal Knights
 with excellent manners. The stronger the
 enemy, the greater his joy."
-"7c7342b3","Feared as the Jet Black Dragon Warrior,
-a virus-type WarGreymon. Exists for
+"7c7342b3","Feared as the Jet Black Dragon Warrior, it
+is a virus-type WarGreymon. Exists for
 justice and hates the low and cowardly."
 "cff2edf5","A virus-type MetalGarurumon with cold
 air weapons throughout its body."
@@ -1066,7 +1065,7 @@ virus powers. Utterly on the dark
 side, spiritually and emotionally."
 "ff7cf1b","A deity Digimon, said to be a long-
 lived fox that took on human form.
-Skilled in diverse ancient magics."
+Skilled in various ancient magics."
 "cff9a932","A mysterious Digimon, bent on death and
 destruction in the Digital World. Grew
 and Digivolved by absorbing network data."
@@ -1080,20 +1079,20 @@ platinum mine in the Digital World."
 One of the High Angel Digimon, like
 Seraphimon and Cherubimon."
 "cff0ae9e","Powerful ancient dragon Digimon from
-ages past. A level above other the
-existence and powers of other Digimon."
+ages past. Its existence and powers
+are a level above other Digimon."
 "fde37fd","DO_NOT_TRANSLATE"
 "cfe1a414","A holy knight Digimon recognized by the
 Royal Knights as a strategist. Has the
 power to control the Royal Knights."
 "16a64dd4","A member of the holy Royal Knights.
-Serves the master with the same brand
+Serves its master with the same brand
 of justice, even if evil."
 "56a473bd","An ancient Digimon, around since the
 Digital World began. Knows everything
 there is to know about this world."
 "56ab2ffa","Sukamon's ruler. Mysterious, in that it
-has both a giant body, and the power
+has both a giant body and the power
 to make any Digimon a Sukamon."
 "56a8f163","A Digivolved extreme form of two
 opposites: angel Digimon and dark angel
@@ -1101,8 +1100,8 @@ Digimon. Called the Tactician."
 "169d5330","Member of the holy Royal Knights. Both a
 Holy Knight and able to hold them back.
 Keeps his normal form hidden."
-"5699e619","A holy knight Digimon Digivolved to an
-extreme form of Hackmon, through
+"5699e619","A holy knight Digimon. Digivolved to an
+extreme form of Hackmon through
 practice and ordeals. A Royal Knight."
 "56a23526","DO_NOT_TRANSLATE"
 "169f918f","DO_NOT_TRANSLATE"
@@ -1123,7 +1122,7 @@ Digimon, released all power to transform
 into a legendary Dragon Warrior."
 "8702640c","The ultimate form of Imperialdramon,
 with power from the holy knight
-Omegamon, now a legendary holy knight."
+Omegamon. Now a legendary holy knight."
 "8704a29b","In Eastern traditions, it is the god of
 destruction that governs regeneration.
 Creator of a new system."
@@ -1141,7 +1140,7 @@ went out of control after being injected
 with Black Digitron."
 "f38aa3d7","DO_NOT_TRANSLATE"
 "f3886578","DO_NOT_TRANSLATE"
-"b385c1a1","Hidden form of Gallantmon, wrapped in
+"b385c1a1","Hidden form of Gallantmon. Wrapped in
 crimson fire armor, which is red-hot
 from the release of power."
 "b3970a82","Omegamon with a special voice."
@@ -1295,9 +1294,9 @@ with a short life."
 "GRB_E","Poop Fling"
 "GRB_F","Guerilla Poop"
 "GRB_G","Extreme Poop Death"
-"584c9e16","Foam"
+"584c9e16","Bubbles"
 "eaea3cf6","Pepper Breath"
-"eaea3cf5","Petit Fire"
+"eaea3cf5","Blue Blaster"
 "eaea3cf4","Spiral Twister"
 "eaea3cf3","Air Shot"
 "eaea3cf2","Super Shocker"
@@ -1310,7 +1309,7 @@ with a short life."
 "e9ea3b04","Fire Ball"
 "e9ea3b07","Terrier Tornado"
 "e9ea3b00","Blazing Ice"
-"e9ea3b01","Diamond Storm"
+"e9ea3b01","Fox Arrows"
 "e9ea3b02","Double Backhand"
 "e9ea3b03","DO_NOT_TRANSLATE"
 "e9ea3b0c","DO_NOT_TRANSLATE"
@@ -1342,7 +1341,7 @@ with a short life."
 "e6ea364f","Fire Vortex"
 "e6ea364e","Rock Soul"
 "e6ea364d","Pepper Breath"
-"e6ea364c","Petit Fire"
+"e6ea364c","Blue Blaster"
 "de63e97","Mega Flame"
 "de63e94","Fox Fire"
 "de63e95","Meteor Wing"
@@ -1357,7 +1356,7 @@ with a short life."
 "ee64009","Exhaust Flame"
 "ee6400a","Dumdum Uppercut"
 "ee6400d","Gauntlet Claw"
-"ee6400c","Fox Tail Inferno"
+"ee6400c","Fox Fire"
 "ee6400f","Spiral Blow"
 "ee6400e","DO_NOT_TRANSLATE"
 "ee64001","Thunder Cloud"
@@ -1365,7 +1364,7 @@ with a short life."
 "be63bb0","V-Nova Blast"
 "be63bb1","Fire Breath"
 "be63bb2","DO_NOT_TRANSLATE"
-"be63bb3","Pummel Whack"
+"be63bb3","Fist of the Supreme King"
 "be63bb4","Fist of the Beast King"
 "be63bb5","Burning Fist"
 "be63bb6","DO_NOT_TRANSLATE"
@@ -1381,7 +1380,7 @@ with a short life."
 "ce63d25","DO_NOT_TRANSLATE"
 "ce63d24","Branch Drain"
 "ce63d2b","Free Throw Bomb"
-"ce63d2a","Ice Ball Bomb"
+"ce63d2a","Iceball Bomb"
 "11e644c2","Snow Punch"
 "11e644c3","Fire Phaser"
 "11e644c0","Fox Tail Inferno"
@@ -1391,14 +1390,14 @@ with a short life."
 "11e644c4","DO_NOT_TRANSLATE"
 "11e644c5","Evil Hurricane"
 "11e644ca","Destruction Grenade"
-"11e644cb","Fire Ball"
+"11e644cb","Blazing Spheres"
 "12e646b5","V-Nova Blast"
 "12e646b4","V-Nova Blast"
 "12e646b7","Exhaust Flame"
 "12e646b6","Mega Flame"
 "12e646b1","Freeze Fang"
 "12e646b0","Hazard Breath"
-"12e646b3","Frozen Claw"
+"12e646b3","Frost Claw"
 "12e646b2","Crystal Cloud"
 "12e646bd","Data Crusher"
 "12e646bc","Poop Toss"
@@ -1436,8 +1435,8 @@ with a short life."
 "8bbad61f","Dead or Alive"
 "8bbad61e","Nuclear Laser"
 "8bbad61d","Oblivion Bird"
-"8bbad61c","Genocidal Gears"
-"8bbad613","Genocide Attack"
+"8bbad61c","Eradication Gears"
+"8bbad613","Eradication Attack"
 "8bbad612","Fist of Ice"
 "8abad4a8","The King of Fists"
 "8abad4a9","DO_NOT_TRANSLATE"
@@ -1461,14 +1460,14 @@ with a short life."
 "91badfa4","Atomic Blaster"
 "90bade3a","Golden Triangle"
 "90bade3b","Talisman of Light"
-"90bade38","Hidden Gate Divination"
+"90bade38","Demon's Gate"
 "90bade39","Evil Icicle"
 "90bade3e","Hell's Grenade"
 "90bade3f","Love Serenade"
 "90bade3c","Hearts Attack"
 "90bade3d","DO_NOT_TRANSLATE"
 "90bade32","Berserk Sinking"
-"90bade33","Burning Salamander"
+"90bade33","Pyro Punch"
 "8fbadc47","Giga Destroyer"
 "8fbadc46","Wolf Claw"
 "30b7a481","Terra Force"
@@ -1476,7 +1475,7 @@ with a short life."
 "30b7a483","Ice Wolf Claw"
 "30b7a484","DO_NOT_TRANSLATE"
 "30b7a485","Starlight Explosion"
-"30b7a486","Strike of the 7 Stars"
+"30b7a486","Seven Heavens"
 "30b7a487","Giga Blaster"
 "30b7a488","Arctic Blizzard"
 "30b7a489","Thorn Whip"
@@ -1487,7 +1486,7 @@ with a short life."
 "31b7a677","Lightning Joust"
 "31b7a676","Burst Shot"
 "31b7a675","Heaven's Judgment"
-"31b7a674","Amethyst Mandala"
+"31b7a674","Kongoukai Mandala"
 "31b7a67b","Full Moon Blaster"
 "31b7a67a","DO_NOT_TRANSLATE"
 "32b7a7e6","The Ray of Victory"
@@ -1541,20 +1540,20 @@ with a short life."
 "36b7ae1a","Celestial Blade"
 "36b7ae1b","Terra Force"
 "37b7af85","Ice Wolf Claw"
-"af4f0aea","Supreme Cannon/Transcendent Sword"
-"af4f0ae9","Supreme Cannon/Transcendent Sword"
+"af4f0aea","Garuru Cannon/Grey Sword"
+"af4f0ae9","Garuru Cannon/Grey Sword"
 "af4f0ae8","DO_NOT_TRANSLATE"
 "af4f0aef","Positron Laser"
 "af4f0aee","Omega Blade"
 "af4f0aed","Celestial Blade"
 "af4f0aec","Gift of Darkness"
-"af4f0ae3","Supreme Cannon/Transcendent Sword"
+"af4f0ae3","Garuru Cannon/Grey Sword"
 "af4f0ae2","Ultimate Flare"
-"ae4f0978","Transcendent Cannon/Supreme Sword"
+"ae4f0978","Grey Cannon/Garuru Sword"
 "ae4f0979","DO_NOT_TRANSLATE"
 "ae4f097a","DO_NOT_TRANSLATE"
 "ae4f097b","Quo Vadis"
-"ae4f097c","Supreme Cannon/Transcendent Sword"
+"ae4f097c","Garuru Cannon/Grey Sword"
 "37b7af84","Strike Roll"
 "37b7af87","Good Night Moon"
 "37b7af86","Dark Roar"
@@ -1642,57 +1641,57 @@ with a short life."
 "1a873a78","DO_NOT_TRANSLATE"
 "673700f9","DO_NOT_TRANSLATE"
 "d3f59578","DO_NOT_TRANSLATE"
-"3208e41","Spews a very hot breath of flames at enemies in front."
+"3208e41","Spews a hot breath of flames at enemies in front."
 "327498e","Attack that results in a pillar of flame erupting at the target's feet."
 "c324a6f7","Attack that surrounds the attacker with a wall of fire."
-"c32cf53c","Enflames the hearts of allies, increasing their strength."
+"c32cf53c","Enflames the hearts of allies, massively boosting their strength."
 "c32ab6a5","Attack that surrounds the attacker with the flames of hell."
-"331d722","Rains bolts of lava from the sky, dealing enemies much damage."
-"32f98cb","Raises a storm of flames, dealing much damage to a wide range of enemies."
+"331d722","Rains bolts of lava from the sky."
+"32f98cb","Raises a storm of flames, dealing huge damage to a wide range of enemies."
 "e1febd13","Bathes enemies in front in a powerful water breath attack."
 "21fce3c4","Attack that raises painfully sharp icicles from under the target's feet."
 "21faa56d","Attack that blasts enemies in front with water at high pressure."
 "e1f801d6","Attack that drops a flow of high-pressure water on the target's head."
 "e1f5c37f","Attack that brings powerful torrential rains to a wide area."
 "21f25620","Attack that results in giant icicles erupting at the target's feet."
-"21f017c9","Raises a powerful blizzard of water and ice, dealing much damage to a wide range of enemies."
+"21f017c9","Raises a powerful blizzard of water and ice, dealing huge damage to a wide range of enemies."
 "74bd4e80","Shoots a ball of energy at enemies."
-"b4bff25f","Sends a pleasing wind to the feet of allies, increasing speed."
+"b4bff25f","Sends a pleasing wind to the feet of you and your allies, massively increasing speed."
 "b4c230b6","Attack that looses a cutting whirlwind at the target."
-"74c59dcd","Attack that drops lightning from thunderclouds raised over the target's head."
-"74c7dc24","Sends a powerful wind to the feet of you and your allies, increasing speed."
-"b4ca7ff3","Shoots lightning from all directions, dealing much damage to a wide range of enemies."
-"74cc590a","Raises a powerful hurricane, dealing much damage to a wide range of enemies."
+"74c59dcd","Attacks with strikes of lightning from thunderclouds gathered over the target's head."
+"74c7dc24","Sends a powerful wind to the feet of you and your allies, increasing speed to unparalleled levels."
+"b4ca7ff3","Shoots lightning from all directions, dealing huge damage to a wide range of enemies."
+"74cc590a","Raises a powerful hurricane, dealing huge damage to a wide range of enemies."
 "72e5a10a","Attacks enemies in front with a poisonous mist."
-"72dee5cd","Wraps allies in stone, increasing stamina."
+"72dee5cd","Wraps you and your allies in stone, greatly increasing stamina."
 "72e12424","Attack that surrounds the attacker with a poisonous mist."
 "b2d93a5f","Attack that brings forth a clinging ivy to cover the victim."
 "b2db78b6","Attack that drops giant boulders on the target's head."
-"72d45829","Wraps attacker and allies in stone, increasing stamina."
-"72d69680","Brings forth a tornado of poisonous mist, dealing much damage to a wide range of enemies."
+"72d45829","Wraps you and your allies in stone, massively increasing stamina."
+"72d69680","Brings forth a tornado of poisonous mist, dealing huge damage to a wide range of enemies."
 "7e64e207","Shoots a ball of darkness at enemies."
 "3e623f68","Brings forth a dark mist to the surroundings, dealing damage to enemies."
-"3e600011","Brings forth an eye of darkness, whose stare deals damage, from above the victim's head."
+"3e600011","Brings forth an eye of darkness, damaging the enemy while granting wisdom to the attacker."
 "3e7149f2","Attacks enemies in front with dark energy."
 "7e6ddcdb","Drops bolts of dark energy down on the target's head."
 "7e6b9e4c","Attacks a wide range of enemies with a dark fear that turns enemy anger to allied Digimon."
-"3e68fab5","Brings forth powerful dark energy, dealing much damage to a wide range of enemies."
+"3e68fab5","Brings forth powerful dark energy, dealing huge damage to a wide range of enemies."
 "419aaf31","Shoots a ball of light energy at enemies."
-"41a16b7e","Attack that drops a column of light on the target's head."
-"19ec7a7","Increases the stamina and speed of allies."
+"41a16b7e","Attack that drops a column of light on the target's head while greatly increasing attacker's stamina."
+"19ec7a7","Massively increases the stamina and speed of allies."
 "1a716ec","Deals damage to enemies by exploding them from within with light."
-"41a3a9d5","Deals damage to area around target with a dome of light."
-"41abf812","Attacks enemies with an extra powerful laser of judgment."
-"1a9557b","Fills the surrounding area with light energy, dealing much damage to enemies."
+"41a3a9d5","Deals damage to area around target with a dome of light while greatly increasing attacker's stamina."
+"41abf812","Attacks enemies with an extra powerful laser of judgment that greatly increases attacker's stamina briefly."
+"1a9557b","Fills the surrounding area with light energy, dealing huge damage to enemies while greatly increasing attacker's stamina briefly."
 "68ad3b1c","Repeatedly attacks enemies in front with physical assaults."
-"28b0a82b","Swells the muscular power of allies, increasing their strength."
+"28b0a82b","Swells the muscular power of you and your allies, greatly increasing strength and stamina."
 "28b2e682","Damages surrounding enemies by rotating them at high speed."
 "28a19da1","Attacks enemies in front with a full-power charge."
 "68a44178","Threatens and damages surrounding enemies with a powerful bellow."
 "68a67fd7","Damages a wide range of enemies with powerful rotation."
-"28a859ee","Deals much damage to a wide range of enemies with an explosion of fighting spirit."
+"28a859ee","Deals huge damage to a wide range of enemies with an explosion of fighting spirit, massively boosting attacker's strength."
 "70304d0f","Attacks enemies in front with a mechanical claw."
-"702e0eb0","Increases the strength and stamina of allies."
+"702e0eb0","Increases the strength and stamina of you and your allies."
 "b02aa199","Shoot a ball of energy at enemies."
 "b03beb7a","Brings forth an energy barrier, dealing damage to surrounding enemies."
 "b039ace3","Blasts enemies with a wide laser from within a mechanized body."
@@ -1701,11 +1700,11 @@ with a short life."
 "9a6164e9","Attacks enemies with kicks from filthy feet."
 "da688576","Attacks enemies in front with an atrocious odor."
 "da66461f","Attacks enemies by tossing poop."
-"9a6c9de4","Creates a barrier with poop power, surrounding and damaging enemies."
+"9a6c9de4","Using the power of poop, deploys a barrier which surrounds and damages enemies."
 "9a6a5e8d","Piles up poop to toss at victims."
-"9a72adca","Drops mounds of poop from above the target's head."
-"da6f40b3","Deals much damage to a wide range of enemies with exploding poop bombs."
-"95efe223","Launches an acid foam at enemies."
+"9a72adca","Drops mounds of poop on the target from above."
+"da6f40b3","Detonates a wide range of poop bombs, dealing heavy damage to those caught in the blast."
+"95efe223","Launches acid bubbles at enemies."
 "d40c02c3","Attacks enemies with a breath of fire."
 "140a28b4","Shoots small flames at enemies."
 "d407851d","Hits enemies with flame illusions."
@@ -1720,7 +1719,7 @@ poisonous ivy."
 "14222dd2","Paralyzes enemies with an
 ultrasound cry."
 "d41f8a3b","Knock enemies over with a dash and
-powerful head-butt."
+powerful headbutt."
 "a63ea4b3","DO_NOT_TRANSLATE"
 "663c01e4","Expels strings of a sticky net to
 trap enemy movement."
@@ -1728,8 +1727,7 @@ trap enemy movement."
 "664211ca","Fires bolts of heat at enemies."
 "6630c8e9","Fires bolts of cold at enemies."
 "66330740","Tosses sharp splinters at enemies."
-"a635aa1f","Rapidly fires punches at enemies,
-moving quickly."
+"a635aa1f","Lashes out and damages enemies while rotating towards them."
 "a637e976","DO_NOT_TRANSLATE"
 "a64daf05","DO_NOT_TRANSLATE"
 "a64fed9c","DO_NOT_TRANSLATE"
@@ -1808,8 +1806,8 @@ hits from below with Gatling arm."
 Tesso on both hands."
 "f60dbc05","Strikes enemies with fireballs
 that are mentally controlled."
-"b615a602","Launches the Spiral Blow from
-mouth with a powerful whirlwind."
+"b615a602","""Spiral Blow"" launches a powerful
+whirlwind attack from the mouth."
 "b61367ab","DO_NOT_TRANSLATE"
 "b5f31440","Summons an electric shock."
 "b5f0d5e9","Expands its retractable arms to
@@ -1828,8 +1826,7 @@ victims."
 "7052071a","Bathes enemies in a sweet poison
 gas."
 "b054aab1","DO_NOT_TRANSLATE"
-"b056e908","Hits enemies with dunk shots of
-poop from both hands."
+"b056e908","Slam dunks big poops on enemies."
 "dcd80856","DO_NOT_TRANSLATE"
 "dcd5c9ff","DO_NOT_TRANSLATE"
 "1cd25ca0","Releases a breath of absolute
@@ -1882,7 +1879,7 @@ made poop."
 powerful wafting odor."
 "23dd58ac","Tosses fetid, specially-made poop
 at enemies."
-"23df973b","Tosses hard, metallic poop at
+"23df973b","Tosses hard, sparkly metallic poop at
 enemies."
 "63e23ad2","Spins tail anchor fast to create
 infinite light beams that slice."
@@ -1977,8 +1974,8 @@ disintegrate enemies."
 from character drawn by spell."
 "c5fc5131","Seals enemies in eternal maze,
 drawn in the sky with summoned brush."
-"c5fe8f88","Swallows enemies with whirlpool
-created from forces of darkness."
+"c5fe8f88","Forms a dark icicle from its horn
+that grows rapidly to pierce foes."
 "860af77b","Fires extremely powerful bolts of
 energy from gun in mouth."
 "c60d9a12","Brings sorrow to enemy hearts,
@@ -1986,7 +1983,8 @@ depriving them of will to fight."
 "c6054bd5","Shoots hearts to deal damage to
 enemy's spirit."
 "8608b8ec","DO_NOT_TRANSLATE"
-"c5ed46af","將憤怒的瘋狂意念灌注於銳爪上，瞬間將對手撕裂成十字。"
+"c5ed46af","In a fit of rage, tears a cross mark
+into the opponent with razor-sharp claws."
 "85ef20c6","Hits victims with ""waterfalls"" of
 flame from fists wrapped in fire."
 "182beb0a","Fires destructive organic missile
@@ -2036,8 +2034,8 @@ reach 45 tons of force."
 the magic box is pierced."
 "42153009","Attacks enemy with vanishing light
 from seven crowns."
-"42176f60","Brings guns from back to front to
-loose massive electronic bolts."
+"42176f60","Rotates guns forward to fire
+massive electromagnetic shells."
 "4237c2cb","Mows down enemy with Kikurin
 sword."
 "423a0122","Fires superdreadnought energy
@@ -2168,37 +2166,42 @@ Giga Stick Cannon."
 "156037f","Special Move 269"
 "41529620","Special Move 270"
 "a4667e8","No Skill"
-"e5f0299b","Agitated: Gradually recoup HP"
-"e5f0299a","Agitated: Increase max HP + recoup half"
-"e5f02999","Agitated: Lower HP for great attack increase"
-"ae887d6e","Agitated: Gradually recoup MP"
-"ae887d6f","Agitated: Increase max MP + recoup half"
-"ae887d6c","Agitated: MP takes on damage"
+"e5f0299b","Agitated: Gradually recover HP"
+"e5f0299a","Agitated: Increase max HP + recover half"
+"e5f02999","Agitated: Lower HP; greatly boost attack"
+"ae887d6e","Agitated: Gradually recover MP"
+"ae887d6f","Agitated: Increase max MP + recover half"
+"ae887d6c","Agitated: Take damage from MP instead of HP"
 "51c1620c","Agitated: Temporary strength increase"
-"51c1620d","Agitated: Max strength, gradual return"
+"51c1620d","Agitated: Max strength, gradual return to normal"
 "8615ee64","Agitated: Temporary stamina increase"
-"8615ee65","Agitated: Max stamina, gradual return"
+"8615ee65","Agitated: Max stamina, gradual return to normal"
 "c94cbfce","Agitated: Temporary speed increase"
-"c94cbfcf","Agitated: Max speed, gradual return"
+"c94cbfcf","Agitated: Max speed, gradual return to normal"
 "5f5d381d","Agitated: Temporary wisdom increase"
-"5f5d381c","Agitated: Max wisdom, gradual return"
-"dc222f13","Agitated: Increase max attack + recoup half MP, HP"
+"5f5d381c","Agitated: Max wisdom, gradual return to normal"
+"dc222f13","Agitated: Increase max attack + recover half MP, HP"
 "33357841","No Skill"
-"758b809e","Agitated: Gradually recoup HP"
-"b5881447","Agitated: Increase max HP + recoup half"
-"758570a8","Agitated: Lower HP for great attack increase"
-"3b9e544b","Agitated: Gradually recoup MP"
-"3ba092a2","Agitated: Increase max MP + recoup half"
-"fb997225","Agitated: MP takes on damage"
-"1422ae05","Agitated: Temporary strength increase"
-"1424ec9c","Agitated: Max strength, gradual return"
-"ee62152d","Agitated: Temporary stamina increase"
-"ee645384","Agitated: Max stamina, gradual return"
-"27e846b","Agitated: Temporary speed increase"
-"280c2c2","Agitated: Max speed, gradual return"
-"9934550c","Agitated: Temporary wisdom increase"
-"5931b275","Agitated: Max wisdom, gradual return"
-"919a0ce6","Agitated: Increase max attack + recoup half MP, HP"
+"758b809e","Gradually recovers HP"
+"b5881447","Increases max HP + recovers half"
+"758570a8","Lowers HP; greatly boosts attack"
+"3b9e544b","Gradually recovers MP"
+"3ba092a2","Increases max MP + recovers half"
+"fb997225","Takes damage from MP instead of HP"
+"1422ae05","Temporary strength increase"
+"1424ec9c","Maxes strength, gradually
+returning to normal"
+"ee62152d","Temporary stamina increase"
+"ee645384","Maxes stamina, gradually returning
+to normal"
+"27e846b","Temporary speed increase"
+"280c2c2","Maxes speed, gradually returning
+to normal"
+"9934550c","Temporary wisdom increase"
+"5931b275","Maxes wisdom, gradually returning
+to normal"
+"919a0ce6","Increases max attack + recovers
+half MP, HP"
 "item_battle_001","Attack Plugin"
 "item_battle_002","Attack Plugin S"
 "item_battle_003","Attack Plugin X"
@@ -2223,12 +2226,12 @@ Giga Stick Cannon."
 "item_battle_022","DO_NOT_TRANSLATE"
 "item_battle_023","DO_NOT_TRANSLATE"
 "item_battle_024","DO_NOT_TRANSLATE"
-"item_battle_025","Recovery Disc"
-"item_battle_026","Full Recovery Disc"
-"item_battle_027","Recovery Holo-Disc"
-"item_battle_028","Full Recovery Holo-Disc"
-"item_battle_029","Regen Disc"
-"item_battle_030","Super Regen Disc"
+"item_battle_025","Remedy Disk"
+"item_battle_026","Full Remedy Disk"
+"item_battle_027","Remedy Holo-Disk"
+"item_battle_028","Full Remedy Holo-Disk"
+"item_battle_029","Regen Disk"
+"item_battle_030","Super Regen Disk"
 "item_battle_031","DO_NOT_TRANSLATE"
 "item_battle_032","DO_NOT_TRANSLATE"
 "item_battle_033","DO_NOT_TRANSLATE"
@@ -2461,7 +2464,7 @@ Giga Stick Cannon."
 "9dea763","DO_NOT_TRANSLATE"
 "item_other_001","Portable Toilet"
 "item_other_002","Auto-Pilot"
-"item_other_003","Band-Aid"
+"item_other_003","Bandage"
 "item_other_004","Medicine"
 "item_other_005","HP Chip"
 "item_other_006","MP Chip"
@@ -2502,24 +2505,24 @@ Giga Stick Cannon."
 "item_other_041","Haguru Gear"
 "item_other_042","Rapidmon's Cellphone"
 "item_other_043","DO_NOT_TRANSLATE"
-"item_recover_001","Recovery Disc"
-"item_recover_002","Medium Recovery Disc"
-"item_recover_003","Large Recovery Disc"
-"item_recover_004","Super Recovery Disc"
-"item_recover_005","Large Recovery Holo-Disc"
-"item_recover_006","Super Recovery Holo-Disc"
+"item_recover_001","Recovery Disk"
+"item_recover_002","Medium Recovery Disk"
+"item_recover_003","Large Recovery Disk"
+"item_recover_004","Super Recovery Disk"
+"item_recover_005","Large Recovery Holo-Disk"
+"item_recover_006","Super Recovery Holo-Disk"
 "item_recover_007","Large Recovery Device"
 "item_recover_008","Super Recovery Device"
-"item_recover_009","MP Disc"
-"item_recover_010","Medium MP Disc"
-"item_recover_011","Large MP Disc"
-"item_recover_012","Large MP Holo-Disc"
-"item_recover_013","Medium MP Disc"
+"item_recover_009","MP Disk"
+"item_recover_010","Medium MP Disk"
+"item_recover_011","Large MP Disk"
+"item_recover_012","Large MP Holo-Disk"
+"item_recover_013","Medium MP Disk"
 "item_recover_014","Large MP Device"
-"item_recover_015","Double Disc"
-"item_recover_016","Large Double Disc"
-"item_recover_017","Super Double Disc"
-"item_recover_018","Super Double Holo-Disc"
+"item_recover_015","Double Disk"
+"item_recover_016","Large Double Disk"
+"item_recover_017","Super Double Disk"
+"item_recover_018","Super Double Holo-Disk"
 "item_recover_019","DO_NOT_TRANSLATE"
 "item_recover_020","DO_NOT_TRANSLATE"
 "item_recover_021","DO_NOT_TRANSLATE"
@@ -2560,9 +2563,9 @@ Giga Stick Cannon."
 "item_food_016","Baby Strawberry"
 "item_food_017","Celestial Chestnut"
 "item_food_018","Orange Banana"
-"item_food_019","Rotting Melon"
+"item_food_019","Chained Melon"
 "item_food_020","Cloudy Orange"
-"item_food_021","Confusion Cherry"
+"item_food_021","Ripe Cherry"
 "item_food_022","DO_NOT_TRANSLATE"
 "item_food_023","DO_NOT_TRANSLATE"
 "item_food_024","DO_NOT_TRANSLATE"
@@ -2578,10 +2581,10 @@ Giga Stick Cannon."
 "item_food_034","DO_NOT_TRANSLATE"
 "item_food_035","DO_NOT_TRANSLATE"
 "item_food_036","DO_NOT_TRANSLATE"
-"item_food_037","Digistalk"
-"item_food_038","Green Digistalk"
+"item_food_037","Digishroom"
+"item_food_038","Green Digishroom"
 "item_food_039","Frostcut Mushroom"
-"item_food_040","Unlucky Shroom"
+"item_food_040","Unlucky Mushroom"
 "item_food_041","Deluxe Mushroom"
 "item_food_042","Fighty Fungus"
 "item_food_043","Celebration Nameko"
@@ -2590,15 +2593,15 @@ Giga Stick Cannon."
 "item_food_046","DO_NOT_TRANSLATE"
 "item_food_047","DO_NOT_TRANSLATE"
 "item_food_048","DO_NOT_TRANSLATE"
-"item_food_049","Salty Fruit"
-"item_food_050","Quick Fruit"
-"item_food_051","Acrid Fruit"
-"item_food_052","Rolly Fruit"
-"item_food_053","Duty Fruit"
-"item_food_054","Dozy Fruit"
+"item_food_049","Salty Nut"
+"item_food_050","Quick Nut"
+"item_food_051","Acrid Nut"
+"item_food_052","Rolly Nut"
+"item_food_053","Duty Nut"
+"item_food_054","Dozy Nut"
 "item_food_055","Az Nut"
-"item_food_056","Cobb Fruit"
-"item_food_057","Oily Fruit"
+"item_food_056","Cobb Nut"
+"item_food_057","Oily Nut"
 "item_food_058","DO_NOT_TRANSLATE"
 "item_food_059","DO_NOT_TRANSLATE"
 "item_food_060","DO_NOT_TRANSLATE"
@@ -2643,7 +2646,7 @@ Giga Stick Cannon."
 "item_food_099","DO_NOT_TRANSLATE"
 "item_food_100","DO_NOT_TRANSLATE"
 "item_food_101","Over Done Meat"
-"item_food_102","Volcano Meat/Veg Fry"
+"item_food_102","Volcano Veggie Stir-Fry"
 "item_food_103","Super Hot Drink"
 "item_food_104","Red-Hot Ramen"
 "item_food_105","Spicy Fish Fry"
@@ -2726,8 +2729,8 @@ Giga Stick Cannon."
 "item_food_182","Confusion Cherry Jam"
 "item_food_183","Ginseng Stick"
 "item_food_184","Sakura Bird Radish Stick"
-"item_food_185","Obscure Onion Fry"
-"item_food_186","Drizzle Cabbage Fry"
+"item_food_185","Obscure Onion Stir-Fry"
+"item_food_186","Drizzle Cabbage Stir-Fry"
 "item_food_187","Soft Gold Pumpkin Fry"
 "item_food_188","Spotted Tomato Slices"
 "item_food_189","Jaguar Potato Chips"
@@ -2739,7 +2742,7 @@ Giga Stick Cannon."
 "item_food_195","Baked Unlucky Shroom"
 "item_food_196","Baked Deluxe Mushroom"
 "item_food_197","Baked Fighty Fungus"
-"item_food_198","Naked Nutty Mushroom"
+"item_food_198","Baked Nutty Mushroom"
 "item_food_199","Coriander Soup"
 "item_food_200","Boiled Scratchy Grass"
 "item_food_201","Salty Candy"
@@ -2779,7 +2782,7 @@ Giga Stick Cannon."
 "item_food_235","Meat and Potatoes"
 "item_food_236","Fried Chicken"
 "item_food_237","Meatloaf"
-"item_food_238","Meat and Vegetable Fry"
+"item_food_238","Meat and Veggie Stir-Fry"
 "item_food_239","Lemon Steak"
 "item_food_240","Steak and Radish"
 "item_food_241","Junk Food"
@@ -2808,14 +2811,14 @@ Giga Stick Cannon."
 "item_food_264","Tomato Pizza"
 "item_food_265","Sun Salad"
 "item_food_266","Clever Potato"
-"item_food_267","Aubergine and Meat Fry"
+"item_food_267","Eggplant and Meat Stir-Fry"
 "item_food_268","Sweet Aubergine"
 "item_food_269","Plain Soup"
 "item_food_270","Mountain Sweets"
 "item_food_271","Mushroom Skewer"
 "item_food_272","Egg Custard"
 "item_food_273","Dark Pot"
-"item_food_274","Mushroom Fry"
+"item_food_274","Mushroom Stir-Fry"
 "item_food_275","Mushrooms and Rice"
 "item_food_276","Neptune Juice"
 "item_food_277","Pot Luck"
@@ -3011,222 +3014,213 @@ restores full HP."
 "75a3fd38","DO_NOT_TRANSLATE"
 "35a15a61","DO_NOT_TRANSLATE"
 "a3648f5d","DO_NOT_TRANSLATE"
-"5dfcffa7","When used on a Rookie partner, instantly Digivolves to Greymon."
-"9dfb2588","When used on a Rookie partner, instantly Digivolves to Garurumon."
-"9df8e731","When used on a Rookie partner, instantly Digivolves to Birdramon."
-"9e0a3012","When used on a Rookie partner, instantly Digivolves to Angemon."
-"5e078d7b","When used on a Rookie partner, instantly Digivolves to Kabuterimon."
-"5e054eec","When used on a Rookie partner, instantly Digivolves to Ikkakumon."
-"9e01e1d5","When used on a Rookie partner, instantly Digivolves to Togemon."
-"5debb6c6","When used on a Rookie partner, instantly Digivolves to Gatomon."
-"9de9dcaf","When used on a Rookie partner, instantly Digivolves to ExVeemon."
+"5dfcffa7","When used on a Child, instantly Digivolves to Greymon."
+"9dfb2588","When used on a Child, instantly Digivolves to Garurumon."
+"9df8e731","When used on a Child, instantly Digivolves to Birdramon."
+"9e0a3012","When used on a Child, instantly Digivolves to Angemon."
+"5e078d7b","When used on a Child, instantly Digivolves to Kabuterimon."
+"5e054eec","When used on a Child, instantly Digivolves to Ikkakumon."
+"9e01e1d5","When used on a Child, instantly Digivolves to Togemon."
+"5debb6c6","When used on a Child, instantly Digivolves to Gatomon."
+"9de9dcaf","When used on a Child, instantly Digivolves to ExVeemon."
 "f02ac061","DO_NOT_TRANSLATE"
-"302d6338","When used on a Rookie partner, instantly Digivolves to Stingmon."
-"302fa197","When used on a Rookie partner, instantly Digivolves to Growlmon."
-"f0330eae","When used on a Rookie partner, instantly Digivolves to Gargomon."
-"3035b245","When used on a Rookie partner, instantly Digivolves to Turuiemon."
-"3037f0dc","When used on a Rookie partner, instantly Digivolves to Kyubimon."
-"f039caeb","When used on a Rookie partner, instantly Digivolves to GaoGamon."
+"302d6338","When used on a Child, instantly Digivolves to Stingmon."
+"302fa197","When used on a Child, instantly Digivolves to Growlmon."
+"f0330eae","When used on a Child, instantly Digivolves to Gargomon."
+"3035b245","When used on a Child, instantly Digivolves to Turuiemon."
+"3037f0dc","When used on a Child, instantly Digivolves to Kyubimon."
+"f039caeb","When used on a Child, instantly Digivolves to GaoGamon."
 "f03c0942","DO_NOT_TRANSLATE"
-"f0173829","When used on a Rookie partner, instantly Digivolves to Wizardmon."
-"f0197680","When used on a Rookie partner, instantly Digivolves to Devimon."
-"36dfb340","When used on a Rookie partner, instantly Digivolves to Veedramon."
-"36dd74e9","When used on a Rookie partner, instantly Digivolves to Tyrannomon."
+"f0173829","When used on a Child, instantly Digivolves to Wizardmon."
+"f0197680","When used on a Child, instantly Digivolves to Devimon."
+"36dfb340","When used on a Child, instantly Digivolves to Veedramon."
+"36dd74e9","When used on a Child, instantly Digivolves to Tyrannomon."
 "76e49576","DO_NOT_TRANSLATE"
-"76e2561f","When used on a Rookie partner, instantly Digivolves to Ogremon."
-"36e8ade4","When used on a Rookie partner, instantly Digivolves to Leomon."
-"36e66e8d","When used on a Rookie partner, instantly Digivolves to Meramon."
+"76e2561f","When used on a Child, instantly Digivolves to Ogremon."
+"36e8ade4","When used on a Child, instantly Digivolves to Leomon."
+"36e66e8d","When used on a Child, instantly Digivolves to Meramon."
 "36eebdca","DO_NOT_TRANSLATE"
-"76eb50b3","When used on a Rookie partner, instantly Digivolves to Vegiemon."
+"76eb50b3","When used on a Child, instantly Digivolves to Vegiemon."
 "76f39ff8","DO_NOT_TRANSLATE"
-"36f0fc21","When used on a Rookie partner, instantly Digivolves to Nanimon."
+"36f0fc21","When used on a Child, instantly Digivolves to Nanimon."
 "a96ec8b","DO_NOT_TRANSLATE"
 "a992be2","DO_NOT_TRANSLATE"
-"ca920b65","When used on a Rookie partner, instantly Digivolves to Seadramon."
-"ca9449fc","When used on a Rookie partner, instantly Digivolves to Kuwagamon."
-"ca8d8db7","When used on a Rookie partner, instantly Digivolves to Guardromon."
+"ca920b65","When used on a Child, instantly Digivolves to Seadramon."
+"ca9449fc","When used on a Child, instantly Digivolves to Kuwagamon."
+"ca8d8db7","When used on a Child, instantly Digivolves to Guardromon."
 "a90314e","DO_NOT_TRANSLATE"
 "a87e201","DO_NOT_TRANSLATE"
-"ca8b4f58","When used on a Rookie partner, instantly Digivolves to Woodmon."
-"ca830013","When used on a Rookie partner, instantly Digivolves to BomberNanimon."
-"a85a3aa","When used on a Rookie partner, instantly Digivolves to Icemon."
-"514be06a","When used on a Rookie partner, instantly Digivolves to Hyogamon."
-"11493cd3","When used on a Rookie partner, instantly Digivolves to Piddomon."
-"5145cf84","When used on a Rookie, instantly Digivolves to Kyubimon (Silver)."
-"5143912d","When used on a Rookie partner, instantly Digivolves to Gururumon."
-"1140ed96","When used on a Rookie partner, instantly Digivolves to Saberdramon."
-"113eaf3f","When used on a Rookie partner, instantly Digivolves to BlackGatomon."
+"ca8b4f58","When used on a Child, instantly Digivolves to Woodmon."
+"ca830013","When used on a Child, instantly Digivolves to BomberNanimon."
+"a85a3aa","When used on a Child, instantly Digivolves to Icemon."
+"514be06a","When used on a Child, instantly Digivolves to Hyogamon."
+"11493cd3","When used on a Child, instantly Digivolves to Piddomon."
+"5145cf84","When used on a Child, instantly Digivolves to Kyubimon (Silver)."
+"5143912d","When used on a Child, instantly Digivolves to Gururumon."
+"1140ed96","When used on a Child, instantly Digivolves to Saberdramon."
+"113eaf3f","When used on a Child, instantly Digivolves to BlackGatomon."
 "513cd5e0","DO_NOT_TRANSLATE"
-"513a9689","When used on a Rookie partner, instantly Digivolves to Fugamon."
-"515f67a2","When used on a Rookie, instantly Digivolves to Guardromon (Gold)."
-"515d294b","When used on a Rookie partner, instantly Digivolves to Youkomon."
-"a4b4311d","When used on a Rookie partner, instantly Digivolves to RedVeedramon."
-"e4b6d4b4","When used on a Rookie partner, instantly Digivolves to GoldVeedramon."
-"a4b8aec3","When used on a Rookie, instantly Digivolves to Growlmon (Orange)."
-"a4baed5a","When used on a Rookie partner, instantly Digivolves to Greymon (Blue)."
-"a4a9a479","When used on a Rookie, instantly Digivolves to Garurumon (Black)."
-"e4ac4710","When used on a Rookie partner, instantly Digivolves to RedVegiemon."
-"e4ae866f","When used on a Rookie partner, instantly Digivolves to IceDevimon."
-"a4b1f286","When used on a Rookie partner, instantly Digivolves to Socerimon."
-"e4c81d95","When used on a Rookie partner, instantly Digivolves to Chrysalimon."
-"a4c9f7ac","When used on a Rookie partner, instantly Digivolves to Numemon."
-"2a7a73dc","When used on a Rookie partner, instantly Digivolves to Geremon."
-"2a783545","When used on a Rookie partner, instantly Digivolves to Sukamon."
-"ea7e8c42","When used on a Rookie partner, instantly Digivolves to PlatinumSukamon."
-"ea7c4deb","When used on a Rookie partner, instantly Digivolves to Arresterdramon."
-"2a6fe638","When used on a Rookie partner, instantly Digivolves to OmniShoutmon."
-"ea6d4361","When used on a Champion partner, instantly Digivolves to Meicoomon."
-"ea7591ae","When used on a Champion partner, instantly Digivolves to MetalGreymon."
-"2a722497","When used on a Champion partner, instantly Digivolves to WereGarurumon."
-"ea668724","When used on a Champion partner, instantly Digivolves to Garudamon."
-"ea6448cd","When used on a Champion partner, instantly Digivolves to MagnaAngemon."
-"bde32987","When used on a Champion partner, instantly Digivolves to MegaKabuterimon."
-"7de503de","When used on a Champion partner, instantly Digivolves to Zudomon."
-"7dde4791","When used on a Champion partner, instantly Digivolves to Lillymon."
-"7de086e8","When used on a Champion partner, instantly Digivolves to Angewomon."
-"bdec245b","When used on a Champion partner, instantly Digivolves to Paildramon."
+"513a9689","When used on a Child, instantly Digivolves to Fugamon."
+"515f67a2","When used on a Child, instantly Digivolves to Guardromon (Gold)."
+"515d294b","When used on a Child, instantly Digivolves to Youkomon."
+"a4b4311d","When used on a Child, instantly Digivolves to RedVeedramon."
+"e4b6d4b4","When used on a Child, instantly Digivolves to GoldVeedramon."
+"a4b8aec3","When used on a Child, instantly Digivolves to Growlmon (Orange)."
+"a4baed5a","When used on a Child, instantly Digivolves to Greymon (Blue)."
+"a4a9a479","When used on a Child, instantly Digivolves to Garurumon (Black)."
+"e4ac4710","When used on a Child, instantly Digivolves to RedVegiemon."
+"e4ae866f","When used on a Child, instantly Digivolves to IceDevimon."
+"a4b1f286","When used on a Child, instantly Digivolves to Sorcermon."
+"e4c81d95","When used on a Child, instantly Digivolves to Chrysalimon."
+"a4c9f7ac","When used on a Child, instantly Digivolves to Numemon."
+"2a7a73dc","When used on a Child, instantly Digivolves to Geremon."
+"2a783545","When used on a Child, instantly Digivolves to Sukamon."
+"ea7e8c42","When used on a Child, instantly Digivolves to PlatinumSukamon."
+"ea7c4deb","When used on a Child, instantly Digivolves to Arresterdramon."
+"2a6fe638","When used on an Adult, instantly Digivolves to OmegaShoutmon."
+"ea6d4361","When used on a Child, instantly Digivolves to Meicoomon."
+"ea7591ae","When used on an Adult, instantly Digivolves to MetalGreymon."
+"2a722497","When used on an Adult, instantly Digivolves to WereGarurumon."
+"ea668724","When used on an Adult, instantly Digivolves to Garudamon."
+"ea6448cd","When used on an Adult, instantly Digivolves to MagnaAngemon."
+"bde32987","When used on an Adult, instantly Digivolves to MegaKabuterimon."
+"7de503de","When used on an Adult, instantly Digivolves to Zudomon."
+"7dde4791","When used on an Adult, instantly Digivolves to Lillymon."
+"7de086e8","When used on an Adult, instantly Digivolves to Angewomon."
+"bdec245b","When used on an Adult, instantly Digivolves to Paildramon."
 "7def9172","DO_NOT_TRANSLATE"
-"7de74235","When used on a Champion partner, instantly Digivolves to WarGrowlmon."
-"bde9e5cc","When used on a Champion partner, instantly Digivolves to Rapidmon."
-"7dcf3d0f","When used on a Champion partner, instantly Digivolves to Antylamon."
-"bdd1e0a6","When used on a Champion partner, instantly Digivolves to Taomon."
-"35dbd5b6","When used on a Champion partner, instantly Digivolves to MachGaogamon."
+"7de74235","When used on an Adult, instantly Digivolves to WarGrowlmon."
+"bde9e5cc","When used on an Adult, instantly Digivolves to Rapidmon."
+"7dcf3d0f","When used on an Adult, instantly Digivolves to Antylamon."
+"bdd1e0a6","When used on an Adult, instantly Digivolves to Taomon."
+"35dbd5b6","When used on an Adult, instantly Digivolves to MachGaogamon."
 "35d9975f","DO_NOT_TRANSLATE"
-"f5d6f380","When used on a Champion partner, instantly Digivolves to AeroVeedramon."
-"f5d4b529","When used on a Champion partner, instantly Digivolves to Myotismon."
-"f5e5fe0a","When used on a Champion partner, instantly Digivolves to LadyDevimon."
+"f5d6f380","When used on an Adult, instantly Digivolves to AeroVeedramon."
+"f5d4b529","When used on an Adult, instantly Digivolves to Myotismon."
+"f5e5fe0a","When used on an Adult, instantly Digivolves to LadyDevimon."
 "35e424f3","DO_NOT_TRANSLATE"
-"f5e18124","When used on a Champion partner, instantly Digivolves to Mamemon."
-"f5df42cd","When used on a Champion partner, instantly Digivolves to MetalMamemon."
+"f5e18124","When used on an Adult, instantly Digivolves to Mamemon."
+"f5df42cd","When used on an Adult, instantly Digivolves to MetalMamemon."
 "f5f08bae","DO_NOT_TRANSLATE"
-"35ed1e97","When used on a Champion partner, instantly Digivolves to Lucemon FM."
-"c9448b99","When used on a Champion, instantly Digivolves to MetalTyrannomon."
-"8947f8b0","When used on a Champion partner, instantly Digivolves to SkullGreymon."
-"894a370f","When used on a Champion partner, instantly Digivolves to Gigadramon."
-"c94cdaa6","When used on a Champion partner, instantly Digivolves to Megadramon."
-"c94f193d","When used on a Champion partner, instantly Digivolves to IceLeomon."
-"8950f354","When used on a Champion partner, instantly Digivolves to GrapLeomon."
+"35ed1e97","When used on an Adult, instantly Digivolves to Lucemon FM."
+"c9448b99","When used on an Adult, instantly Digivolves to MetalTyrannomon."
+"8947f8b0","When used on an Adult, instantly Digivolves to SkullGreymon."
+"894a370f","When used on an Adult, instantly Digivolves to Gigadramon."
+"c94cdaa6","When used on an Adult, instantly Digivolves to Megadramon."
+"c94f193d","When used on an Adult, instantly Digivolves to IceLeomon."
+"8950f354","When used on an Adult, instantly Digivolves to GrapLeomon."
 "c95396e3","DO_NOT_TRANSLATE"
 "c955d57a","DO_NOT_TRANSLATE"
-"89594191","When used on a Champion partner, instantly Digivolves to BlueMeramon."
+"89594191","When used on an Adult, instantly Digivolves to BlueMeramon."
 "895b80e8","DO_NOT_TRANSLATE"
 "80aa54af","DO_NOT_TRANSLATE"
-"40ac2ec6","When used on a Champion partner, instantly Digivolves to MegaSeadramon."
-"40a572b9","When used on a Champion partner, instantly Digivolves to Okuwamon."
-"80a81650","When used on a Champion partner, instantly Digivolves to Andromon."
-"40b47d03","When used on a Champion partner, instantly Digivolves to Digitamamon."
-"40b6bb9a","When used on a Champion partner, instantly Digivolves to ShogunGekomon."
+"40ac2ec6","When used on an Adult, instantly Digivolves to MegaSeadramon."
+"40a572b9","When used on an Adult, instantly Digivolves to Okuwamon."
+"80a81650","When used on an Adult, instantly Digivolves to Andromon."
+"40b47d03","When used on an Adult, instantly Digivolves to Digitamamon."
+"40b6bb9a","When used on an Adult, instantly Digivolves to ShogunGekomon."
 "40ae6d5d","DO_NOT_TRANSLATE"
-"80b110f4","When used on a Champion partner, instantly Digivolves to Datamon."
+"80b110f4","When used on an Adult, instantly Digivolves to Datamon."
 "40bd77a7","DO_NOT_TRANSLATE"
-"80c01b7e","When used on a Champion partner, instantly Digivolves to Meteormon."
-"ed419ec4","When used on a Champion, instantly Digivolves to MetalGreymon (Blue)."
-"ed3f606d","When used on a Champion, instantly Digivolves to WereGarurumon (Black)."
-"ed461baa","When used on a Champion, instantly Digivolves to MegaKabuterimon (Blue)."
-"ad437813","When used on a Champion, instantly Digivolves to WarGrowlmon (Orange)."
-"ed371120","When used on a Champion partner, instantly Digivolves to WarGrowlmon."
-"ed34d2c9","When used on a Champion, instantly Digivolves to Rapidmon (Gold)."
-"ad3cbcd6","When used on a Champion, instantly Digivolves to Taomon (Silver)."
-"ad3a7e7f","When used on a Champion partner, instantly Digivolves to Doumon."
-"ad54c1fc","When used on a Champion partner, instantly Digivolves to WaruSeadramon."
-"ad528365","When used on a Champion partner, instantly Digivolves to Etemon."
-"668dd9a5","When used on a Champion partner, instantly Digivolves to Monzaemon."
-"6690183c","When used on a Champion partner, instantly Digivolves to Agunimon."
-"a692bbcb","When used on a Champion partner, instantly Digivolves to Infermon."
-"a694fa22","When used on a Champion partner, instantly Digivolves to Maycrackmon."
-"a683b141","When used on a Ultimate partner, instantly Digivolves to WarGreymon."
-"66858a98","When used on a Ultimate partner, instantly Digivolves to ShineGreymon."
-"6687c9f7","When used on a Ultimate partner, instantly Digivolves to MetalGarurumon."
+"80c01b7e","When used on an Adult, instantly Digivolves to Meteormon."
+"ed419ec4","When used on an Adult, instantly Digivolves to MetalGreymon (Blue)."
+"ed3f606d","When used on an Adult, instantly Digivolves to WereGarurumon (Black)."
+"ed461baa","When used on an Adult, instantly Digivolves to MegaKabuterimon (Blue)."
+"ad437813","When used on an Adult, instantly Digivolves to WarGrowlmon (Orange)."
+"ed371120","When used on an Adult, instantly Digivolves to BlackWarGrowlmon."
+"ed34d2c9","When used on an Adult, instantly Digivolves to Rapidmon (Gold)."
+"ad3cbcd6","When used on an Adult, instantly Digivolves to Taomon (Silver)."
+"ad3a7e7f","When used on an Adult, instantly Digivolves to Doumon."
+"ad54c1fc","When used on an Adult, instantly Digivolves to WaruSeadramon."
+"ad528365","When used on an Adult, instantly Digivolves to Etemon."
+"668dd9a5","When used on an Adult, instantly Digivolves to Monzaemon."
+"6690183c","When used on an Adult, instantly Digivolves to Agunimon."
+"a692bbcb","When used on an Adult, instantly Digivolves to Infermon."
+"a694fa22","When used on an Adult, instantly Digivolves to Maycrackmon VM."
+"a683b141","When used on a Perfect, instantly Digivolves to WarGreymon."
+"66858a98","When used on a Perfect, instantly Digivolves to ShineGreymon."
+"6687c9f7","When used on a Perfect, instantly Digivolves to MetalGarurumon."
 "a68a6c8e","DO_NOT_TRANSLATE"
-"a67923ad","When used on a Ultimate partner, instantly Digivolves to Phoenixmon."
-"a67b6204","When used on a Ultimate partner, instantly Digivolves to Seraphimon."
-"d32523f2","When used on a Ultimate, instantly Digivolves to HerculesKabuterimon."
-"1321b6db","When used on a Ultimate partner, instantly Digivolves to Vikemon."
-"131f784c","When used on a Ultimate partner, instantly Digivolves to Rosemon."
-"d31cd4b5","When used on a Ultimate partner, instantly Digivolves to Magnadramon."
-"d31a965e","When used on an Ultimate, instantly Digivolves to MarineAngemon."
-"1318bc07","When used on a Ultimate partner, instantly Digivolves to Magnamon."
+"a67923ad","When used on a Perfect, instantly Digivolves to Phoenixmon."
+"a67b6204","When used on a Perfect, instantly Digivolves to Seraphimon."
+"d32523f2","When used on a Perfect, instantly Digivolves to HerculesKabuterimon."
+"1321b6db","When used on a Perfect, instantly Digivolves to Vikemon."
+"131f784c","When used on a Perfect, instantly Digivolves to Rosemon."
+"d31cd4b5","When used on a Perfect, instantly Digivolves to Magnadramon."
+"d31a965e","When used on a Perfect, instantly Digivolves to MarineAngemon."
+"1318bc07","When used on a Perfect, instantly Digivolves to Magnamon."
 "d3161968","DO_NOT_TRANSLATE"
-"d313da11","When used on a Ultimate partner, instantly Digivolves to Gallantmon."
-"13106dfa","When used on a Ultimate partner, instantly Digivolves to MegaGargomon."
-"130e2f63","When used on a Ultimate partner, instantly Digivolves to Cherubimon."
-"cc20e333","When used on a Ultimate partner, instantly Digivolves to Sakuyamon."
-"8c24504a","When used on a Ultimate partner, instantly Digivolves to MirageGaogamon."
+"d313da11","When used on a Perfect, instantly Digivolves to Gallantmon."
+"13106dfa","When used on a Perfect, instantly Digivolves to SaintGargomon."
+"130e2f63","When used on a Perfect, instantly Digivolves to Cherubimon."
+"cc20e333","When used on a Perfect, instantly Digivolves to Sakuyamon."
+"8c24504a","When used on a Perfect, instantly Digivolves to MirageGaogamon."
 "8c1c010d","DO_NOT_TRANSLATE"
-"8c1e4064","When used on a Ultimate, instantly Digivolves to UlforceVeedramon."
-"cc17e89f","When used on a Ultimate partner, instantly Digivolves to VenomMyotismon."
-"cc1a27f6","When used on a Ultimate partner, instantly Digivolves to Lilithmon."
-"8c130769","When used on an Ultimate partner, instantly Digivolves to Justimon."
+"8c1e4064","When used on a Perfect, instantly Digivolves to UlforceVeedramon."
+"cc17e89f","When used on a Perfect, instantly Digivolves to VenomMyotismon."
+"cc1a27f6","When used on a Perfect, instantly Digivolves to Lilithmon."
+"8c130769","When used on a Perfect, instantly Digivolves to Justimon."
 "8c1545c0","DO_NOT_TRANSLATE"
-"8c35992b","When used on an Ultimate partner, instantly Digivolves to Piedmon."
-"8c37d782","When used on a Ultimate partner, instantly Digivolves to Lucemon SM."
-"39f561c8","When used on a Ultimate partner, instantly Digivolves to RustTyranomon."
-"39f32371","When used on a Ultimate partner, instantly Digivolves to Samudramon."
-"39fb71be","When used on a Ultimate partner, instantly Digivolves to Machinedramon."
-"f9f8cee7","When used on a Ultimate partner, instantly Digivolves to Beelzemon."
+"8c35992b","When used on a Perfect, instantly Digivolves to Piedmon."
+"8c37d782","When used on a Perfect, instantly Digivolves to Lucemon SM."
+"39f561c8","When used on a Perfect, instantly Digivolves to RustTyranomon."
+"39f32371","When used on a Perfect, instantly Digivolves to Samudramon."
+"39fb71be","When used on a Perfect, instantly Digivolves to Machinedramon."
+"f9f8cee7","When used on a Perfect, instantly Digivolves to Beelzemon."
 "f9ff8a2c","DO_NOT_TRANSLATE"
-"39fdb015","When used on a Ultimate partner, instantly Digivolves to BanchoLeomon."
-"3a046c52","When used on a Ultimate partner, instantly Digivolves to Leviamon."
-"fa01c8bb","When used on a Ultimate partner, instantly Digivolves to Crusadermon."
-"39e1d990","When used on an Ultimate partner, instantly Digivolves to Boltmon."
-"f9df36f9","When used on a Ultimate partner, instantly Digivolves to Creepymon."
+"39fdb015","When used on a Perfect, instantly Digivolves to BanchoLeomon."
+"3a046c52","When used on a Perfect, instantly Digivolves to Leviamon."
+"fa01c8bb","When used on a Perfect, instantly Digivolves to LordKnightmon."
+"39e1d990","When used on a Perfect, instantly Digivolves to Boltmon."
+"f9df36f9","When used on a Perfect, instantly Digivolves to Creepymon."
 "f2f24fc9","DO_NOT_TRANSLATE"
 "f2f48e20","DO_NOT_TRANSLATE"
-"b2f7fb7f","When used on a Ultimate partner, instantly Digivolves to MetalSeadramon."
-"b2fa39d6","When used on a Ultimate partner, instantly Digivolves to GranKuwagamon."
+"b2f7fb7f","When used on a Perfect, instantly Digivolves to MetalSeadramon."
+"b2fa39d6","When used on a Perfect, instantly Digivolves to GranKuwagamon."
 "f2fcdd6d","DO_NOT_TRANSLATE"
-"f2ff1bc4","When used on a Ultimate partner, instantly Digivolves to Belphemon SM."
-"b300f513","When used on a Ultimate partner, instantly Digivolves to Barbamon."
-"f30398aa","When used on a Ultimate partner, instantly Digivolves to Examon."
-"f305d701","When used on a Ultimate partner, instantly Digivolves to Titamon."
-"b3094458","When used on a Ultimate partner, instantly Digivolves to Gankoomon."
-"5f8999e6","When used on a Ultimate partner, instantly Digivolves to Kentaurosmon."
-"1f86f64f","When used on a Ultimate partner, instantly Digivolves to Craniamon."
-"1f84b7f0","When used on a Ultimate, instantly Digivolves to BlackWarGreymon."
-"5f82ddd9","When used on a Ultimate, instantly Digivolves to MetalGarurumon (Black)."
-"5f9426ba","When used on a Ultimate, instantly Digivolves to ChaosGallantmon."
-"5f91e823","When used on a Ultimate partner, instantly Digivolves to Kuzuhamon."
-"1f8f4494","When used on a Ultimate partner, instantly Digivolves to Diaboromon."
-"5f8bd87d","When used on a Ultimate partner, instantly Digivolves to MetalEtemon."
-"1f9e4f1e","When used on a Ultimate, instantly Digivolves to PlatinumNumemon."
-"5f9ae2c7","When used on a Ultimate partner, instantly Digivolves to Ophanimon."
-"a79088b7","When used on a Ultimate, instantly Digivolves to Imperialdramon DM."
+"f2ff1bc4","When used on a Perfect, instantly Digivolves to Belphemon SM."
+"b300f513","When used on a Perfect, instantly Digivolves to Barbamon."
+"f30398aa","When used on a Perfect, instantly Digivolves to Examon."
+"f305d701","When used on a Perfect, instantly Digivolves to Titamon."
+"b3094458","When used on a Perfect, instantly Digivolves to Gankoomon."
+"5f8999e6","When used on a Perfect, instantly Digivolves to Kentaurosmon."
+"1f86f64f","When used on a Perfect, instantly Digivolves to Craniamon."
+"1f84b7f0","When used on a Perfect, instantly Digivolves to BlackWarGreymon."
+"5f82ddd9","When used on a Perfect, instantly Digivolves to MetalGarurumon (Black)."
+"5f9426ba","When used on a Perfect, instantly Digivolves to ChaosGallantmon."
+"5f91e823","When used on a Perfect, instantly Digivolves to Kuzuhamon."
+"1f8f4494","When used on a Perfect, instantly Digivolves to Diaboromon."
+"5f8bd87d","When used on a Perfect, instantly Digivolves to MetalEtemon."
+"1f9e4f1e","When used on a Perfect, instantly Digivolves to PlatinumNumemon."
+"5f9ae2c7","When used on a Perfect, instantly Digivolves to Ophanimon."
+"a79088b7","When used on a Perfect, instantly Digivolves to Imperialdramon DM."
 "e7932c4e","DO_NOT_TRANSLATE"
-"e78add01","When used on a Ultimate partner, instantly Digivolves to Leopardmon."
-"a78e4a58","When used on a Ultimate partner, instantly Digivolves to Dynasmon."
-"e799e78b","When used on a Ultimate partner, instantly Digivolves to Jijimon."
-"e79c26e2","When used on a Ultimate partner, instantly Digivolves to Alphamon."
-"a7950665","When used on a Ultimate partner, instantly Digivolves to Jesmon."
-"a79744fc","When used on a Ultimate partner, instantly Digivolves to Mastemon."
-"a77d017f","When used on a Mega partner,
-it instantly Digivolves to Susanoomon."
-"a77f3fd6","When used on a Mega partner, instantly Digivolves to Imperialdramon FM."
-"5428370c","When used on a Mega partner, instantly Digivolves to Imperialdramon FM."
-"14259475","When used on a Mega partner, instantly Digivolves to Imperialdramon PM."
-"142c4fb2","When used on a Mega partner, instantly Digivolves to Belphemon RM."
-"542a759b","When used on a Mega partner, instantly Digivolves to Jesmon."
-"141d4528","When used on a Mega partner, instantly Digivolves to Armageddemon."
-"141b06d1","When used on a Mega, instantly Digivolve to Gallantmon CM."
-"1423551e","When used on a Mega partner, instantly Digivolves to Omegamon."
-"541fe8c7","When used on a Mega partner, instantly Digivolves to Omegamon Zwart."
-"14144a94","When used on a Mega partner, instantly Digivolves to Omegamon Zwart D."
-"5410de7d","When used on a Mega partner, instantly Digivolves to Omegamon Alter-B."
-"ef0c4b38","When used on an Ultimate partner, it instantly Digivolves to
-Minervamon."
-"af09a861","When used on an Ultimate partner, it instantly Digivolves to
-Dianamon."
-"af11f6ae","When used on an Ultimate partner, it instantly Digivolves to
-Darkdramon."
-"ef0e8997","When used on an Ultimate partner, it instantly Digivolves to
-EmperorGreymon."
-"ef16d8dc","When used on an Ultimate partner, it instantly Digivolves to
-MagnaGarurumon."
-"ef149a45","When used on a Mega partner, it instantly Digivolves to
-ShineGreymon BM."
-"af1af142","When used on a Mega partner, it instantly Digivolves to
-Rosemon BM."
-"af18b2eb","When used on a Mega partner, it instantly Digivolves to
-Chaosmon."
+"e78add01","When used on a Perfect, instantly Digivolves to Leopardmon."
+"a78e4a58","When used on a Perfect, instantly Digivolves to Dynasmon."
+"e799e78b","When used on a Perfect, instantly Digivolves to Jijimon."
+"e79c26e2","When used on a Perfect, instantly Digivolves to Alphamon."
+"a7950665","When used on a Perfect, instantly Digivolves to Jesmon."
+"a79744fc","When used on a Perfect, instantly Digivolves to Mastemon."
+"a77d017f","When used on an Ultimate, instantly Digivolves to Susanomon."
+"a77f3fd6","When used on an Ultimate, instantly Digivolves to Imperialdramon FM."
+"5428370c","When used on an Ultimate, instantly Digivolves to Imperialdramon FM."
+"14259475","When used on an Ultimate, instantly Digivolves to Imperialdramon PM."
+"142c4fb2","When used on an Ultimate, instantly Digivolves to Belphemon RM."
+"542a759b","When used on an Ultimate, instantly Digivolves to Jesmon."
+"141d4528","When used on an Ultimate, instantly Digivolves to Armageddemon."
+"141b06d1","When used on an Ultimate, instantly Digivolve to Gallantmon CM."
+"1423551e","When used on an Ultimate, instantly Digivolves to Omegamon."
+"541fe8c7","When used on an Ultimate, instantly Digivolves to Omegamon Zwart."
+"14144a94","When used on an Ultimate, instantly Digivolves to Omegamon Zwart D."
+"5410de7d","When used on an Ultimate, instantly Digivolves to Omegamon Alter-B."
+"ef0c4b38","When used on a Perfect, instantly Digivolves to Minervamon."
+"af09a861","When used on a Perfect, instantly Digivolves to Dianamon."
+"af11f6ae","When used on a Perfect, instantly Digivolves to Darkdramon."
+"ef0e8997","When used on a Perfect, instantly Digivolves to EmperorGreymon."
+"ef16d8dc","When used on a Perfect, instantly Digivolves to MagnaGarurumon."
+"ef149a45","When used on an Ultimate, instantly Digivolves to ShineGreymon BM."
+"af1af142","When used on an Ultimate, instantly Digivolves to Rosemon BM."
+"af18b2eb","When used on an Ultimate, instantly Digivolves to Chaosmon."
 "aef85e80","DO_NOT_TRANSLATE"
 "aef62029","DO_NOT_TRANSLATE"
 "827501e3","DO_NOT_TRANSLATE"
@@ -3303,7 +3297,7 @@ Magnamon."
 "d0bc425","A letter written by
 Stingmon addressed to
 MegaKabuterimon."
-"cf46a96","A pure white umbrella
+"cf46a96","A jet-black umbrella
 beloved by Myotismon."
 "cf22c3f","A putty suitable for
 mending shells."
@@ -3364,29 +3358,29 @@ within range."
 Standard Digimon food.
 Harvested in fields."
 "9f4c0d89","Meat
-Special meat.
-Easily fills you up."
+Specially raised meat.
+Very filling."
 "9f4e4ce0","Meat
-Worthy of the title
-premium."
+Quality and quantity
+absolutely top notch."
 "5f5ab3d3","Meat
-An improvement of Best
+New and improved Best
 Meat with a smoky taste."
 "9f5d576a","Meat
 Rotting meat. It might
 give you an upset tummy."
 "9f55082d","Meat
 The marbled part is the
-source of its power."
+locus of its power."
 "9f574684","Meat
 Strange square meat. It
 is an acquired taste."
 "5f63ae77","Meat
 A firm meat that makes
-the eater stronger."
+the eater tougher."
 "9f66510e","Meat
-Great flavor, colorful,
-and magical."
+Colorful, magical, and a
+transcendent flavor."
 "cbe77054","DO_NOT_TRANSLATE"
 "be5963d","DO_NOT_TRANSLATE"
 "bec527a","DO_NOT_TRANSLATE"
@@ -3470,7 +3464,7 @@ Great mushroom for hot
 pot to warm you up."
 "ec020ff4","Wild Mushroom
 Cute mushroom that looks
-like it's hands are up."
+like its hands are up."
 "ebfb53af","Wild Mushroom
 A bright red plant that
 has a very unique taste."
@@ -3513,15 +3507,15 @@ inside it."
 "d19bf2b0","Drink
 A special drink only
 sold on Nigh Plains."
-"d19e310f","Drink
-A florescent drink sold
+"d19e310f","Drink 
+A fluorescent drink sold
 in the desert."
 "11a0d4a6","Drink
 An invigorating drink
 sold on wastelands."
 "11a3133d","Drink
 An ancient drink sold at
-Faulty Ex Machina."
+Fault Ex Machina."
 "d1a4ed54","Drink
 A warm drink sold on
 volcanoes."
@@ -3562,7 +3556,7 @@ is delicious when baked."
 A calm, tough fish that
 prefers clear streams."
 "6372387","Fish
-A rough, nocturnal fish
+A wild nocturnal fish
 prized by fishers."
 "c638fdde","Fish
 Small, slender fish that
@@ -3572,7 +3566,7 @@ Slimy and long. As
 delicious as it is rare."
 "c63480e8","Fish
 Large fish, excellent at
-perceiving danger."
+detecting danger."
 "6401e5b","Fish
 A sparkly fish that
 prefers warm water."
@@ -3614,7 +3608,7 @@ Puts all in a good mood."
 "item_material_012","DigiIron"
 "item_material_013","DigiSilver"
 "item_material_014","DigiGold"
-"item_material_015","DigiWhitegold"
+"item_material_015","DigiPlatinum"
 "item_material_016","Mithril"
 "item_material_017","Chrome Digizoit"
 "item_material_018","Black Digizoit"
@@ -3654,7 +3648,7 @@ Puts all in a good mood."
 "529d1a36","DigiIron Bag"
 "529d1a37","DigiSilver Bag"
 "529d1a30","DigiGold Bag"
-"529d1a31","DigiWhitegold Bag"
+"529d1a31","DigiPlatinum Bag"
 "529d1a32","Mithril Bag"
 "529d1a33","Chrome Digizoit Bag"
 "529d1a3c","Black Digizoit Bag"
@@ -3699,7 +3693,7 @@ Puts all in a good mood."
 "a04dbc54","A very hard metal that only exists in the Digital World."
 "e05aec87","Chrome Digizoit that has mutated because of special information waves."
 "a05cc6de","A red metal with high purity among Chrome Digizoits."
-"73fe3a52","A black metal with low purity among Chrome Digizoits."
+"73fe3a52","A blue metal with low purity among Chrome Digizoits."
 "33fb96bb","Finely broken stone. Mixed with liquid it is harder."
 "33f9582c","A hard stone of fairly large size."
 "73f77e15","Crushed rock that is easy to carry. Can be used as an ornament."
@@ -3734,7 +3728,7 @@ Puts all in a good mood."
 "545a0b03","Contains 5 x DigiIron"
 "545c499a","Contains 5 x DigiSilver"
 "544b00b9","Contains 5 x DigiGold"
-"944da450","Contains 5 x DigiWhitegold"
+"944da450","Contains 5 x DigiPlatinum"
 "944fe2af","Contains 5 x Mithril"
 "5451bcc6","Contains 5 x Chrome Digizoit"
 "9467e7d5","Contains 5 x Black Digizoit"
@@ -3790,11 +3784,11 @@ Puts all in a good mood."
 "item_keyitem_019","DO_NOT_TRANSLATE"
 "item_keyitem_020","DO_NOT_TRANSLATE"
 "4fd859c4","An item necessary for fishing. Go to a fishing spot by the water to try!"
-"fda3313","An item necessary for fishing. Go to a fishing spot by the water to try!"
-"4fdcd6aa","Use this when fishing and try to catch a new type of fish!"
-"4fcb8dc9","Use this when fishing and try to catch a new type of fish!"
-"4fcdcc20","Use this when fishing and try to catch a new type of fish!"
-"fd1397f","Use this when fishing and try to catch a new type of fish!"
+"fda3313","An item necessary for fishing. Increases chance of multiple hits."
+"4fdcd6aa","An item used for fishing. A lure suited for smaller, top-class fish."
+"4fcb8dc9","An item used for fishing. A lure suited for smaller fish."
+"4fcdcc20","An item used for fishing. A lure suited for larger fish."
+"fd1397f","An item used for fishing. A lure suited for larger, top-class fish."
 "fd377d6","Necessary to make camp. Maximum durability is 10."
 "fe93e65","Necessary to make camp. Maximum durability is 15."
 "feb7cfc","Necessary to make camp. Maximum durability is 20."
@@ -3833,12 +3827,12 @@ Puts all in a good mood."
 "85b242ee","Research-Entrance"
 "85b242ef","Research-Training Hall"
 "85b242ec","Research-Dojo"
-"85b242ed","Research-Lab"
+"85b242ed","Research-Lab 1F"
 "85b242e2","Research-Lab 2F"
 "85b242e3","Research-Lab 3F"
 "84b24177","Entertainment-Entrance"
 "84b24176","Entertainment-Colosseum"
-"84b24175","Entertainment-Arena"
+"84b24175","Entertainment-Arcade"
 "84b24174","Entertainment-Museum"
 "84b24173","Entertainment-Fishing"
 "84b24172","Entertainment-Treasure"
@@ -3863,7 +3857,7 @@ Puts all in a good mood."
 "grade_up_015","Training Hall"
 "grade_up_016","Fishing Hole"
 "grade_up_017","Colosseum"
-"grade_up_018","Arena"
+"grade_up_018","Arcade"
 "grade_up_019","Museum"
 "grade_up_020","Treasure Hunter"
 "grade_up_021","Spacetime Transporter"
@@ -3932,13 +3926,13 @@ for."
 "67351c5f","Social Wheels"
 "67351c58","Ummm 4"
 "67351c59","Guardromon Troop Defense"
-"67351c5a","Rookie Adventures"
-"67351c5b","Rookie Idols"
+"67351c5a","Child Adventures"
+"67351c5b","Child Idols"
 "67351c54","Biggest Dreamer"
 "67351c55","Cross Wars"
 "68351dcf","We Are Cyber Sleuths"
-"68351dce","Champion Adventures"
-"68351dcd","Champion Idols"
+"68351dce","Adult Adventures"
+"68351dcd","Adult Idols"
 "68351dcc","Ogre Fort's Three Demons"
 "68351dcb","Heaven's Forces"
 "68351dca","Rumbling!"
@@ -3947,8 +3941,8 @@ for."
 "68351dc7","From Toy Town"
 "68351dc6","Young Fox"
 "69351fa2","King-Size Me"
-"69351fa3","Ultimate Adventures"
-"69351fa0","Ultimate Idols"
+"69351fa3","Perfect Adventures"
+"69351fa0","Perfect Idols"
 "69351fa1","Passionate Learning"
 "69351fa6","The Mame Trio"
 "69351fa7","Magic Tactics"
@@ -3998,7 +3992,7 @@ for."
 "6535197f","The Immortal Royal Knights"
 "66351ae9","Holy Knight Beginner"
 "7c06aa4c","Show us what you've got if you think you're up to our challenge!"
-"7c08e8db","A Goburi Collection"
+"7c08e8db","A Gobli Collection"
 "3c0c55f2","The world keeps turning and society keeps getting worse."
 "3bfb0c11","The birth of a super-lucky power unit!"
 "3bfd4b68","No matter what happens, defend to the end!"
@@ -4068,22 +4062,22 @@ for."
 "a2eb9e52","From Alpha to Omega! A new power!"
 "cf6cbc98","Initializing Omega Blade!"
 "ebdade48","None"
-"f4d52d35","Rookie and higher"
-"efd52514","Champion and higher"
-"eed52387","Ultimate and higher"
-"f1d528ce","Mega and higher"
-"f4d52d2f","Rookie and lower"
-"efd5250e","Champion and lower"
-"eed5239d","Ultimate and lower"
-"f1d528d4","Mega and lower"
+"f4d52d35","Child and higher"
+"efd52514","Adult and higher"
+"eed52387","Perfect and higher"
+"f1d528ce","Ultimate and higher"
+"f4d52d2f","Child and lower"
+"efd5250e","Adult and lower"
+"eed5239d","Perfect and lower"
+"f1d528d4","Ultimate and lower"
 "81215ed2","Fire attribute"
 "b8f25a53","Ice attribute"
 "bfac1750","Air attribute"
 "e5cbca44","Nature attribute"
 "52636dea","Dark attribute"
 "f519e244","Holy attribute"
-"eeec85f2","Hand-to-hand attrib."
-"174c93b9","Apparatus attribute"
+"eeec85f2","Martial attribute"
+"174c93b9","Machine attribute"
 "42786f7d","Filth attribute"
 "792bd7e2","No rules"
 "3066153","Item use is banned"
@@ -4116,89 +4110,80 @@ last time."
 with a DigiEgg. I have preserved them in external storage..."
 "63789948","So...hold your partner in your heart, and hope for the best!"
 "5ac268f2","・Press <icon>R</icon> to open the R Order.
-・Push the <icon>LS</icon> left and press <icon>○</icon>."
+・Tilt the <icon>LS</icon> left and press <icon>○</icon>."
 "5ac268f3","・Press <icon>L</icon> to open the L Order.
 ・Press <icon>○</icon>."
-"5ac268f0","・Press the <icon>○</icon> button to Support up to 150."
+"5ac268f0","・Press the <icon>○</icon> Button to Support up to 150."
 "5ac268f1","・Press <icon>R</icon> to open the R Order.
-・Push left and down on <icon>LS</icon> and press <icon>○</icon>."
-"5ac268f6","・Open the Double Order by simultaneously hitting <icon>L</icon> or <icon>R</icon>.
-・Push down on <icon>LS</icon> and press <icon>○</icon>."
+・Tilt left and down on <icon>LS</icon> and press <icon>○</icon>."
+"5ac268f6","・Open the Double Order by simultaneously pressing <icon>L</icon> and <icon>R</icon>.
+・Tilt the <icon>LS</icon> down and press <icon>○</icon>."
 "f75f9043","Digimon Battles"
-"f75f9042","Partner Digimon will choose enemies to attack in pursuit
-of victory."
-"f75f9041","However, Tamers can use Orders to direct their partners'
-actions."
+"f75f9042","In pursuit of victory, your partner Digimon will 
+choose and attack targets of their own accord."
+"f75f9041","However, Tamers can use Orders to command them more directly."
 "f75f9040","Partner Orders"
 "f75f9047","Open the Order Ring to give orders."
 "f75f9046","With <icon>L</icon> or <icon>R</icon>, you can open the ring
 corresponding to your partner."
-"f75f9045","The large number at the bottom of the center of the ring
-is the time until the ring closes."
-"f75f9044","Time has stopped. Choose the orders in five seconds."
-"f75f904b","It will close automatically at 0, but when five seconds
-have passed, you can open it again."
-"f75f904a","Try giving an order!"
-"f65f8ed0","Try ordering WarGreymon (Partner R) to use attack skill
-Mach Jab."
-"f65f8ed1","[Operation] Press <icon>R</icon>
-    and push <icon>LS</icon> left then press <icon>○</icon>"
+"f75f9045","The timer indicates how long you have left 
+to give an order before the ring closes."
+"f75f9044","Time is stopped while you choose orders, but only for five seconds!
+"
+"f75f904b","The ring closes when the timer reaches zero, 
+and you'll have to wait five seconds to open it again."
+"f75f904a","Try it out!"
+"f65f8ed0","Order WarGreymon (Partner R) to use the Mach Jab attack skill."
+"f65f8ed1","Press <icon>R</icon> and tilt <icon>LS</icon> left then press <icon>○</icon>"
 "91ebff32","Success!"
 "91ebff33","Next try using Agitation with MetalGarurumon (Partner L)."
-"91ebff30","[Operation] Press <icon>L</icon> and then press <icon>○</icon>"
+"91ebff30","Press <icon>L</icon> and then press <icon>○</icon>"
 "aac593a5","Success!"
-"aac593a4","MetalGarurumon's Agitation will het him automatically
+"aac593a4","MetalGarurumon's Agitation will let him automatically
 recover HP for a period of time."
 "aac593a7","There are various types of Agitation that can be used as
 the Digimon's inherent abilities."
-"aac593a6","Save up Order Power!"
+"aac593a6","Gather more Order Power!"
 "aac593a1","For stronger orders, you need more Order Power."
-"aac593a0","Order Power can be gained through Support."
-"aac593a3","[Operation] Support with the <icon>○</icon> button to gain
-150 Order Power for WarGreymon."
-"aac593a2","[Tip] When a partner's attack has hit and
-    after taking damage, that's your chance!"
-"aac593ad","[Note] After using Support, you will need to wait
-    to be able to use it again."
+"aac593a0","Support your partners to build more Order Power."
+"aac593a3","Press <icon>○</icon> Button to Support WarGreymon 
+until you've gathered 150 Order Power."
+"aac593a2","When a partner's attack has hit and
+after taking damage, that's your chance!"
+"aac593ad","After using Support, you will need to wait a bit before using it again."
 "c4140414","You're getting the hang of it!"
 "c4140415","Use Special Moves!"
 "c4140416","Spend your stored Order Power by using WarGreymon's
 special move."
-"c4140417","[Operation] Press <icon>R</icon> and
-    push <icon>LS</icon> down and to the left, then press <icon>○</icon>"
-"3fb4803f","Mega's Order ExE"
-"3fb4803e","Press <icon>L</icon> and <icon>R</icon> at the same time to open the
+"c4140417","Press <icon>R</icon> and tilt <icon>LS</icon> down and to the left, then press <icon>○</icon>"
+"3fb4803f","Ultimate Order: ExE"
+"3fb4803e","Press <icon>L</icon> and <icon>R</icon> simultaneously to open the
 Order Ring for both partners."
-"3fb4803d","Normally this is only for Digifuse skills, but in certain
-circumstances, ExE will be available."
-"3fb4803c","[Operations] Press <icon>L</icon>and <icon>R</icon> at the same time
-    and push <icon>LS</icon> down, then press <icon>○</icon>"
+"3fb4803d","Normally, the icon here is for Digifuse skills, 
+but in certain circumstances ExE will be available."
+"3fb4803c","Press <icon>L</icon>and <icon>R</icon> at the same time
+and tilt <icon>LS</icon> down, then press <icon>○</icon>"
 "86591a8e","Success!"
-"86591a8f","With ExE, two partner Digimon will become one, and will
-have more power than usual."
-"86591a8c","[Note] After a battle has ended, the Digimon will
-separate again."
-"f95f93a9","Try giving an order!"
-"f95f93a8","Try ordering WarGreymon (Partner R) to use attack skill
-Mach Jab."
-"f95f93ab","[Operations] Press <icon>R</icon>
-    and push <icon>LS</icon> left, then press <icon>○</icon>"
+"86591a8f","With ExE your partner Digimon will fuse into an extra powerful form.
+"
+"86591a8c","After the battle is over, your Digimon will separate again."
+"f95f93a9","Try it out!"
+"f95f93a8","Order WarGreymon (Partner R) to use the Mach Jab attack skill."
+"f95f93ab","Press <icon>R</icon> and push <icon>LS</icon> left, then press <icon>○</icon>"
 "92ec00a5","Next try using Agitation with MetalGarurumon (Partner L)."
-"92ec00a4","[Operation] Press <icon>L</icon> and then press <icon>○</icon>"
-"a9c59232","Save up Order Power!"
+"92ec00a4","Press <icon>L</icon> and then press <icon>○</icon>"
+"a9c59232","Gather more Order Power!"
 "a9c59233","For stronger orders, you need more Order Power."
-"a9c59230","Order Power can be gained through Support."
-"a9c59231","[Operation] Support with the <icon>○</icon> button to gain
-150 Order Power for WarGreymon."
-"a9c59236","[Tip] When a partner's attack has hit and
-    after taking damage, that's your chance!"
-"a9c59237","[Note] After using Support, you will need to wait
-    to be able to use it again."
+"a9c59230","Support your partners to build more Order Power."
+"a9c59231","Press <icon>○</icon> Button to Support WarGreymon 
+until you've gathered 150 Order Power."
+"a9c59236","When a partner's attack has hit and
+after taking damage, that's your chance!"
+"a9c59237","After using Support, you will need to wait a bit before using it again."
 "c5140587","Use Special Moves!"
 "c5140586","Spend your stored Order Power by using WarGreymon's
 special move."
-"c5140585","[Operation] Press <icon>R</icon> and
-    push <icon>LS</icon> down and left, then press <icon>○</icon>"
+"c5140585","Press <icon>R</icon> and push <icon>LS</icon> down and left, then press <icon>○</icon>"
 "dd6931cb","Partner Needs"
 "dd6931ca","When partner Digimon have needs, they will call out to
 their Tamer."
@@ -4238,11 +4223,11 @@ skill bars are full and at the right timing."
 skills are necessary for Digivolution."
 "15d64b1f","You can use this information to Digivolve to the Digimon
 you want by training up the right skills."
-"a4cfd547","Viewing the Radar"
+"a4cfd547","Radar View"
 "a4cfd546","The radar on the top right shows various information."
 "a4cfd545","If you want to view the whole map, press <icon>△</icon> to open the
 Digivice."
-"d7cbafd6","HP and MP"
+"d7cbafd6","HP & MP"
 "d7cbafd7","When HP is zero, your partner Digimon will collapse."
 "d7cbafd4","MP is used for a partner's spontaneous attacks, so if
 they don't have enough MP, they won't make any."
@@ -4252,7 +4237,7 @@ Open items with the <icon>△</icon> button."
 Recovery Holo-Disc restores both partners' HP."
 "d7cbafd3","MP will gradually be restored over time, but you can also
 use an MP Disc to restore it."
-"2a032ee9","Abnormal Status Types"
+"2a032ee9","Abnormal Statuses"
 "2a032ee8","Poison: HP progressively decreases.
 Slow: Movements are slowed."
 "2a032eeb","Paralysis: Unable to move.
@@ -4265,7 +4250,7 @@ time but may cause you to lose the battle,"
 going gets tough."
 "2a032eef","Partners who are good DigiFriends may help each other out
 without prompting."
-"2a032eee","Types of Skill Increases"
+"2a032eee","Increasing Abilities"
 "2a032ee1","It is possible to increase STR, STA, WIS and SPD in
 battle."
 "2a032ee0","Item plugins and partner enhancements can help a partner
@@ -4309,7 +4294,7 @@ tactics menu to flee or change targets."
 "30264f52","You can look at both L and R partners with this open."
 "30264f55","Select an item to give that item to both partners (uses
 up two items)."
-"30264f54","Press <icon>L</icon> or <icon>R</icon> to look from each perspective and
+"30264f54","Press <icon>L</icon> or <icon>R</icon> to change focus and
 use items individually (uses one item)."
 "30264f57","Toss the right items to partners depending on the
 situation, and give yourself a big advantage in battle!"
@@ -4368,9 +4353,9 @@ The fish you can catch depends on the lure and the
 location, so try out new things!"
 "640cf4f","Let's Train!"
 "640cf4e","You can change your partner positions with the
-<icon>LS</icon> (left stick) and <icon>RS</icon> (right stick).
+​<icon>LS</icon> (Left Stick) and <icon>RS</icon> (Right Stick).
 
-The stats improved by Gear are shown by the name."
+​The stats improved by Gear are shown by the name."
 "640cf4d","Stats on both sides around the circle of the set Gear
 will increase a little. For example, if STR is set, then
 STA and SPD will also increase a little."
@@ -4415,8 +4400,10 @@ life to use {1}!"
 "a3ed0edb","Bond got a <color=#ffff00ff>little stronger</color>."
 "a3ed0eda","Bond got <color=#ffff00ff>stronger</color>."
 "a3ed0ed9","Bond got <color=#ffff00ff>much stronger</color>."
-"6f1df46b","Partner liked this, and got an extra <color=#ffff00ff>Bond and <icon>機嫌</icon> Bonus!</color>"
-"6f1df46a","Partner really liked this, and got an extra <color=#ffff00ff>Bond and <icon>機嫌</icon> Bonus!</color>"
+"6f1df46b","Partner liked this, and got
+an extra <color=#ffff00ff>Bond and <icon>機嫌</icon> Bonus!</color>"
+"6f1df46a","Partner really liked this, and got
+an extra <color=#ffff00ff>Bond and <icon>機嫌</icon> Bonus!</color>"
 "6f1df469","<color=#ffff00ff>This is their favorite!</color>"
 "a0639f30","DigiFriend value got a <color=#db7093ff>little worse</color>."
 "a0639f31","DigiFriend value got a <color=#ffff00ff>little better</color>."
@@ -4452,8 +4439,8 @@ life to use {1}!"
 "c934bbb8","Less hungry"
 "c934bbbb","Much less hungry!"
 "c934bbba","<color=#ffff00ff>Completely full!</color>"
-"86ac43e9","Training Failure is <color=#ffff00ff>down by {0}</color>"
-"86ac43e8","Training Failure is <color=#db7093ff>up by {0}</color>"
+"86ac43e9","Care Mistake is <color=#ffff00ff>down by {0}</color>"
+"86ac43e8","Care Mistake is <color=#db7093ff>up by {0}</color>"
 "546a7d0","{0}'s Training Effects are <color=#ffff00ff>up</color>!"
 "546a7d1","{0}'s Training Effects are <color=#ffff00ff>really up</color>!"
 "CARE_TRAINING_UP_0","HP"
@@ -4465,7 +4452,7 @@ life to use {1}!"
 "fb12a473","Injury has healed!"
 "fb12a470","Serious injury has healed!"
 "fb12a471","Recovered from sickness!"
-"fb12a476","<color=#db7093ff>Not recovered from abnormal status...</color>"
+"fb12a476","<color=#db7093ff>Not recovered from status effect...</color>"
 "f66a7352","Got sick!"
 "ba080c77","Less likely to get {0} status."
 "a90a1442","Poison"
@@ -4559,10 +4546,10 @@ gradually decrease."
 "28009c4d","Fight with balanced MP"
 "28009c4c","Fight conserving MP"
 "28009c4b","Select target"
-"6e26d9c1","Are you sure you want to flee?
+"6e26d9c1","Are you sure you want to escape?
 You will return to the entrance."
 "6e26d9c0","You can't flee from this battle."
-"e9eff3d7","Flee to the map's entrance."
+"e9eff3d7","Fled to the map's entrance."
 "26d9f637","Item Box"
 "65450595","<icon>LS↑↓</icon> Select  <icon>L</icon> or <icon>R</icon> Switch Partner  <icon>○</icon> OK {0} <icon>×</icon> Back"
 "ddf33737","<icon>○</icon> Continue"
@@ -4585,7 +4572,7 @@ Please discard some items."
 "6f49f73c","Can't carry more than 99 of {0}."
 "6f49f73f","Give up on {0}?"
 "abc3412d","Combo Attack"
-"abc3412c","Guard Ally"
+"abc3412c","Bodyguard"
 "7cf3e75b","Critical Hit!"
 "7cf3e75a","Back Attack!"
 "7cf3e759","Break!"
@@ -4624,7 +4611,7 @@ multiple building projects at the same time."
 "ab413a49","Day"
 "b0c1b81d","Builder"
 "f7dee919","Material"
-"978f3229","<icon>L</icon> or <icon>R</icon> Change Page  <icon>×</icon> Back"
+"978f3229","<icon>L</icon> or <icon>R</icon> Change Page  <icon>△</icon><icon>×</icon> Back"
 "29f72be","Wood"
 "9e38e568","Stone"
 "a49224ca","Metal"
@@ -4652,8 +4639,8 @@ multiple building projects at the same time."
 "20ed5dad","Harvested {0} x {1}"
 "20ed5dae","You have too many items and can't
 collect the harvest."
-"b07805a1","<icon>L</icon> or <icon>R</icon> Bonus  <icon>LS</icon> or <icon>RS</icon> Move Partners <icon>△</icon> History  <icon>○</icon>OK  <icon>×</icon> Back"
-"b07805a0","<icon>L</icon> or <icon>R</icon> Skill  <icon>LS</icon> or <icon>RS</icon> Move Partners  <icon>△</icon> History  <icon>○</icon> OK  <icon>×</icon> Back"
+"b07805a1","<icon>L</icon> or <icon>R</icon> Bonus  <icon>LS</icon><icon>RS</icon> Move Partners <icon>△</icon> History  <icon>○</icon>OK  <icon>×</icon> Back"
+"b07805a0","<icon>L</icon> or <icon>R</icon> Skill  <icon>LS</icon>  <icon>RS</icon> Move Partners  <icon>△</icon> History  <icon>○</icon> OK  <icon>×</icon> Back"
 "b07805a3","<icon>○</icon> Close"
 "4065ee37","Start training?"
 "c6b17d76","Friend Bonus"
@@ -4680,7 +4667,7 @@ collect the harvest."
 "183ee24e","1 Week Ago"
 "410bf811","Selling all {0}.
 Are you sure?"
-"2b8c704b","Please decide an amount to sell.
+"2b8c704b","Please decide an amount to buy.
 Maximum amount"
 "58b7b406","Cook"
 "58b7b407","Items"
@@ -4717,7 +4704,7 @@ Maximum amount"
 "fecf51c9","Healing/Curing"
 "fecf51c8","Chance of Sickness"
 "8924a194","Your partners are satiated!"
-"e3ff55e3","What do you want to feed them?"
+"e3ff55e3","Who do you want to feed it to?"
 "4d85f593","Both (effects won't change)"
 "bad86716","<icon>L</icon> or <icon>R</icon> Next Page  <icon>○</icon> OK  <icon>×</icon> Back"
 "bad86717","<icon>○</icon> OK  <icon>×</icon> Back"
@@ -4725,7 +4712,7 @@ Maximum amount"
 "bad86715","<icon>L</icon> or <icon>R</icon> Next Page  <icon>○</icon> Start Cooking  <icon>×</icon> Back"
 "bad86712","<icon>○</icon> OK"
 "d32617cb","Cooking"
-"cdc687","Materials"
+"cdc687","Ingredients"
 "7535f2e0","Inventory"
 "e0bc2928","You don't have any ingredients!"
 "3659f591","{0} successful! {1}"
@@ -4736,27 +4723,28 @@ Maximum amount"
 "63e10b57","Failed to get rankings."
 "7a3d18f9","Failed to get network time."
 "de775fb7","There are no presents."
-"793a9412","This Digimon is registered
-and cannot register again."
-"f3655031","Do you want to register a new
-Digimon to the Key Chain
-Gauge? You will not be able to
-register this Generation if
-you do."
-"130fd9bb","登錄資料已覆蓋為新的數碼寶貝。
-已登錄的數碼寶貝，直到進化階段更新前，
-無法再次進行登錄，
-確定嗎？"
+"793a9412","Cannot reregister Digimon at
+same Digivolution stage."
+"f3655031","Register Digimon to Key Chain
+Cage? You will not be able to
+register again during this
+Digivolution stage."
+"130fd9bb","Overwriting registered Digimon
+with new Digimon. You cannot
+reregister the old Digimon at
+this Digivolution stage. OK?"
 "988cdc54","Digimon is not registered!"
-"fb1a41fb","Already battled today.
+"fb1a41fb","You've reached today's battle limit ({0} times)."
+"1b3f03a6","Tamer Name contains words that
+cannot be used online. Please
+remember that your Tamer Name
+is public. Reenter Tamer Name.
+*Names cannot be changed again."
+"553609fb","Fight a network battle?
+(Battle {0} of max. {1} battle(s) today)
 
-Save Data No.: {0}
-Tamer Name: {1}"
-"1b3f03a6","馴獸師名字含有無法在公開網路使用的單字。
-為了也能在其他玩家內正確顯示，
-請更變名字。
-※變更過的名字，將無法再次更動"
-"553609fb","Fight a network battle?"
+A disconnection may count toward your battle allowance. 
+We recommend playing on a stable connection."
 "38642a09","You have data different from the
 previous battle data. Ranking
 data will reflect the previous
@@ -4769,8 +4757,9 @@ will be overwritten. Is that OK?"
 battle. If the save does not complete,
 there will be a difference in the
 ranking info until the next battle."
-"61dda312","You cannot use this function
-with your account."
+"61dda312","Network features are unavailable due
+to parental control restrictions on
+your Sony Entertainment Network account."
 "3c41f846","Dimensional Box"
 "ace4b884","Presents"
 "ace4b885","Exchange Points"
@@ -4786,7 +4775,7 @@ with your account."
 "3b3387a6","Battle"
 "ebc133ba","Victory"
 "cc4c9f89","Defeat"
-"bbb16d38","<icon>○</icon> Enter Command  <icon>×</icon> Back"
+"bbb16d38","<icon>○</icon> OK <icon>×</icon> Back"
 "37590950","--------"
 "e4cd183a","----------------"
 "54a5bdff","Rankings"
@@ -4831,16 +4820,16 @@ with your account."
 "4b01f7ce","Server Desert"
 "4b01f7cd","MOD Cape"
 "4b01f7cc","Logic Volcano"
-"4b01f7cb","Ohguino Wastelands"
-"4b01f7ca","Faulty Ex Machina"
+"4b01f7cb","Ohguino Wilderness"
+"4b01f7ca","Fault Ex Machina"
 "4b01f7c9","Bony Resort"
 "4b01f7c8","Absolute Zero"
 "4b01f7c7","Infinite Cauldron"
 "d5102a1a"," Hinterland"
 "f1726566","Armaesquetrine (Magnamon Digivolution Item)"
 "f1726565","Lanceaesquetrine (Gallantmon Digivolution Item)"
-"f1726564","Indicaesquetrine (AF Veedramon Digivolution Item)"
-"f1726563","Candescaesquetrine (Crusadermon Digivolution Item)"
+"f1726564","Indicaesquetrine (UlforceVeedramon Digivolution Item)"
+"f1726563","Candescaesquetrine (LordKnightmon Digivolution Item)"
 "f1726562","Dracaesquetrine (Examon Digivolution Item)"
 "f1726561","Duraesquetrine (Gankoomon Digivolution Item)"
 "f1726560","Arcaesquetrine (Kentaurosmon Digivolution Item)"
@@ -4858,8 +4847,8 @@ with your account."
 "70e54124","Dimension Z"
 "f3cd268a","Meat Hunt (1 Day)"
 "f3cd268b","Veggie Hunt (1 Day)"
-"f3cd2688","Real Meat Hunt (1 Day)"
-"f3cd2689","Real Veggie Hunt (1 Day)"
+"f3cd2688","Rare Meat Hunt (1 Day)"
+"f3cd2689","Rare Veggie Hunt (1 Day)"
 "3b2ce61e","Fruit Hunt (1 Day)"
 "3b2ce61f","Mushroom Hunt (1 Day)"
 "3b2ce61c","Nut Hunt (1 Day)"
@@ -4888,8 +4877,8 @@ with your account."
 "daa65978","DigiCopper x 5 -> DigiIron x 1"
 "daa6597b","DigiIron x 5 -> DigiSilver x 1"
 "daa6597a","DigiSilver x 5 -> DigiGold x 1"
-"daa6597d","DigiGold x 5 -> DigiWhitegold x 1"
-"daa6597c","DigiWhitegold x 5 -> Mithril x 1"
+"daa6597d","DigiGold x 5 -> DigiPlatinum x 1"
+"daa6597c","DigiPlatinum x 5 -> Mithril x 1"
 "daa6597f","Mithril x 5 -> Chrome Digizoit x 1"
 "daa6597e","Chrome Digizoit x 5 -> Black Digizoit x 1"
 "daa65971","Black Digizoit x 5 -> Red Digizoit x 1"
@@ -4913,13 +4902,13 @@ with your account."
 "7085bc15","DigiFelwood x 5 -> DigiStarwood x 1"
 "7085bc14","DigiStarwood x 5 -> DigiGodwood x 1"
 "82f1a3f8","Liquid Hunt (1 Day)"
-"82f1a3f9","Meat Hunt (1 Day)"
-"82f1a3fa","Real Liquid Hunt (1 Day)"
-"82f1a3fb","Real Stone Hunt (1 Day)"
+"82f1a3f9","Stone Hunt (1 Day)"
+"82f1a3fa","Rare Liquid Hunt (1 Day)"
+"82f1a3fb","Rare Stone Hunt (1 Day)"
 "24479f03","Metal Hunt (1 Day)"
 "24479f02","Wood Hunt (1 Day)"
-"24479f01","Real Metal Hunt (1 Day)"
-"24479f00","Real Wood Hunt (1 Day)"
+"24479f01","Rare Metal Hunt (1 Day)"
+"24479f00","Rare Wood Hunt (1 Day)"
 "fdd9a24a","Battle Basics"
 "fdd9a249","Order Ring"
 "fdd9a248","Attack Order"
@@ -4930,9 +4919,9 @@ with your account."
 "fdd9a243","Status Abnormalities"
 "fdd9a242","Battle Tactics"
 "fcd9a0d8","Other Details"
-"fcd9a0d9","想要與強敵戰鬥（困難模式）"
-"fcd9a0da","想放棄困難模式"
-"fcd9a0db","關於超困難模式"
+"fcd9a0d9","I want to fight strong enemies (Hard Mode)"
+"fcd9a0da","Quitting Hard Mode"
+"fcd9a0db","Super Hard Mode"
 "911fbbb2","Life Basics"
 "911fbbb1","<icon>疲労</icon> (Fatigue) and Sickness"
 "911fbbb0","Life and Death"
@@ -4949,25 +4938,25 @@ with your account."
 "58b3fe9","Daily Quests"
 "58b3fea","Battles"
 "58b3feb","Battle Registration"
-"58b3fe4","Changing an Unknown Ultimate Digivolution Core"
+"58b3fe4","Changing an Unknown Perfect Digivolution Core"
 "d0297232","Summaesquetrine (Omegamon Digivolution Item)"
 "d0297231","Imperapugnine (Imperialdramon FM Digivolution Item)"
 "d0297230","Lanceaesquetrine (Gallantmon Digivolution Item)"
-"d0297237","Salicelerine (Susanoomon Digivolution Item)"
+"d0297237","Salicelerine (Susanomon Digivolution Item)"
 "d0297236","Solluxine (ShineGreymon Digivolution Item)"
 "543642a","Weight +3"
 "5436429","Weight -3"
-"5436428","Training Failure +1"
-"543642f","Training Failure -1"
+"5436428","Care Mistake +1"
+"543642f","Care Mistake -1"
 "543642e","<icon>躾け</icon> +5"
 "543642d","<icon>躾け</icon> -5"
-"38612b0f","Make Double Disc"
-"38612b0c","Make Large Double Disc"
-"38612b0d","Make Super Double Disc"
-"38612b0a","Make Large Recovery Disc"
-"38612b0b","Make Large MP Disc"
-"38612b08","Make Full Recovery Disc"
-"38612b09","Make Super Regen Disc"
+"38612b0f","Make Double Disk"
+"38612b0c","Make Large Double Disk"
+"38612b0d","Make Super Double Disk"
+"38612b0a","Make Large Recovery Disk"
+"38612b0b","Make Large MP Disk"
+"38612b08","Make Full Remedy Disk"
+"38612b09","Make Super Regen Disk"
 "38612b06","Make Medicine"
 "a7648e55","<color=#ff7777ff>Note</color>
 Names which are considered to not be socially
@@ -4975,15 +4964,15 @@ acceptable or which could cause offense will
 be changed to Takuto for males or Shiki for females
 if they reach the rankings."
 "3c973ec0","Please enter the main character's name."
-"8da774b1","Do you want to throw this item away?
+"8da774b1","Do you want to pick up this item?
 
 Confirm with <icon>○</icon>."
-"8da774b0","Do you want to collect materials
+"8da774b0","Collect materials
 ({0})?"
 "8da774b3","Confirm with <icon>○</icon>.
-You can collect {0} more times."
+You can collect {1} more times."
 "8da774b2","You can't carry any more materials."
-"8da774b5","x {0} received."
+"8da774b5"," x {0} received."
 "8da774b4","You cannot carry any more {0}."
 "8da774b7","You got Old Card #{0}."
 "4a44e1d5","Materials collected along the way have been moved to storage
@@ -4996,10 +4985,10 @@ Leave it"
 "40c31800","Too moved to speak? Hah!"
 "40c31807","Stop!
 Just hurry up with it"
-"40c31806","等等！
-無視吧"
-"40c31805","住手！
-快點動手"
+"40c31806","Wait!
+Let it be"
+"40c31805","Stop!
+Hurry up already"
 "c3fa2f3c","Some things just can't be hurried, you know."
 "c3fa2f3d","You made me look up. Hmph!"
 "3bea07f8","Oooh! Good stuff! Nothing better than freshly laid poop.
@@ -5299,7 +5288,7 @@ I have this fossilized poop to enjoy this evening!"
 "a93bbd72","Might as well eat now."
 "35994059","Don't lord it over me! Gimme!"
 "cc644b6c","Hun-gry."
-"df36ede3","Now is a fine time."
+"df36ede3","Now is a fine time to eat."
 "1d8d41d6","Let's eat already."
 "eea5efd","I better eat now, right?"
 "fa7d1cef","?!"
@@ -5331,7 +5320,7 @@ I have this fossilized poop to enjoy this evening!"
 "74285b4d","Just gimme something."
 "3f644f02","I can't go on like this!"
 "d3fe378f","It'll be bad if I don't eat!"
-"8272cfc","Now is just barely okay."
+"8272cfc","I'm just barely holding on."
 "1b7cc3a4","Lemme eat!"
 "fd001217","You sure like making me wait."
 "63bbb2aa","I really do have to eat."
@@ -5794,13 +5783,13 @@ I have this fossilized poop to enjoy this evening!"
 "674d5cf4","The night approaches."
 "5dfac4e1","Looks like it's dusk."
 "528eb57a","It sure is getting dark."
-"a55f6fba","Night's coming close."
+"a55f6fba","It's almost night."
 "4ee96d21","Ah, the twilight..."
 "d6ad4c34","So, dinnertime now?"
 "ce62b1cb","Seems it's evening now."
 "fa119a7e","Sure got dark."
 "da31e845","Dusk came creeping in."
-"c886274f","Night's coming close."
+"c886274f","It's almost night."
 "d7fb3ebc","Ah, the twilight..."
 "452877e9","So, dinnertime now?"
 "2474f4a6","Seems it's evening now."
@@ -6892,7 +6881,7 @@ I have this fossilized poop to enjoy this evening!"
 multiplied the results!</color>"
 "82d74b1f","<icon>○</icon> OK"
 "82d74b1e","<icon>○</icon> OK  <icon>×</icon> Dismiss"
-"82d74b1d","<icon>○</icon>使用　{0} <icon>×</icon>返回"
+"82d74b1d","<icon>○</icon> Use  {0}  <icon>×</icon> Back"
 "bf9d9892","None"
 "bf9d9893","Mood Boost"
 "bf9d9890","Bond Boost"
@@ -6906,7 +6895,7 @@ multiplied the results!</color>"
 "38172f59","Giga Carry"
 "38172f58","Max Carry"
 "38172f5b","DigiEgg Polish"
-"38172f5a","Zeal Injection"
+"38172f5a","Passion Injection"
 "38172f5d","Love Injection"
 "38172f5c","Heaven's Blessing"
 "38172f5f","Power Trainer"
@@ -6928,17 +6917,17 @@ multiplied the results!</color>"
 "36172c71","Fisherman"
 "36172c70","Wild Scouter"
 "36172c77","Grander"
-"36172c76","Ingredient Hunter"
+"36172c76","Food Hunter"
 "36172c75","Metal Man"
 "36172c74","Stone Man"
 "36172c7b","Liquid Man"
 "36172c7a","Wood Man"
 "3b173412","Material Master"
 "3b173413","Cooking Boy"
-"3b173410","Mister Cook"
+"3b173410","Mister Cuisine"
 "3b173411","Ultimate Chef"
 "3b173416","Health Runner"
-"3b173417","Mental Trainer"
+"3b173417","Mind Over Matter"
 "3b173414","Invigorating Runner"
 "3b173415","Healthy"
 "3b17341a","Second Order"
@@ -6973,14 +6962,14 @@ multiplied the results!</color>"
 "8289df3a","Life gain from Digivolution increases."
 "828190fd","Increases natural Life."
 "4284fd14","Further increases natural Life."
-"82909b47","Increases item carrying capacity by 10."
-"4294079e","Increases item carrying capacity by another 10."
-"cbc51668","Increases item carrying capacity by another 10."
-"cbc2d711","Increases item carrying capacity by another 10."
-"cbc9935e","Boosts parameter inheritance at rebirth."
-"bc7b907","Boosts parameter inheritance at rebirth further."
-"bce754c","Boosts parameter inheritance at rebirth further."
-"cbcbd1b5","Boosts parameter inheritance at rebirth further."
+"82909b47","Item carrying capacity becomes 30."
+"4294079e","Item carrying capacity becomes 40."
+"cbc51668","Item carrying capacity becomes 50."
+"cbc2d711","Item carrying capacity becomes 60."
+"cbc9935e","Boosts parameter inheritance by one level at rebirth."
+"bc7b907","Boosts parameter inheritance by two levels at rebirth."
+"bce754c","Boosts parameter inheritance by three levels at rebirth."
+"cbcbd1b5","Boosts parameter inheritance by four levels at rebirth."
 "cbd420f2","Boosts effects of STR and SPD training."
 "bd0b3db","Boosts effects of WIS and MP training."
 "cbb18e30","Boosts effects of HP and STA training."
@@ -6992,44 +6981,44 @@ multiplied the results!</color>"
 "84cafe0d","Boosts HP, MP, and Fatigue recovery from sleep."
 "84cd3d64","Boosts effects of scolding and praising."
 "c4cfe033","Boosts Bond and DigiFriend whenever eating, using the bathroom, or sleeping."
-"84d34d4a","Parameters rise when Digivolving."
-"84d58ba1","Parameters rise when Digivolving into a Digimon for the first time."
-"c4d82f78","Parameters rise when Digivolving into a Digimon for the second time and thereafter."
-"f2968206","Parameters rise even more when Digivolving."
-"329315ef","Increases wild-grown ingredients."
+"84d34d4a","Parameters rise when partners Digivolve."
+"84d58ba1","Parameters rise when partners Digivolve into a Digimon for the first time."
+"c4d82f78","Parameters rise when partners Digivolve into a Digimon for the second time and thereafter."
+"f2968206","Parameters rise even more when partners Digivolve."
+"329315ef","Increases discovery rate of wild-grown food."
 "3290d690","Increases fishing hit rate."
-"f28e33f9","Increases rare wild-grown ingredients."
+"f28e33f9","Increases discovery rate of rare wild-grown food."
 "f29f7cda","Chance of being able to fish multiple times rises."
-"f29d3e43","Further increases wild-grown ingredients and fishing hit rate."
-"329b6434","Boosts quantity of metal-types harvested and rare item rate."
-"f298c09d","Boosts quantity of rock-types harvested and rare item rate."
-"32aa6ebe","Boosts quantity of liquid-types harvested and rare item rate."
-"f2a7cbe7","Boosts quantity of wood-types harvested and rare item rate."
-"1278764f","Boosts quantity of all materials harvested and rare item rate."
+"f29d3e43","Further increases wild-grown food and fishing hit rate."
+"329b6434","Boosts quantity of metal-type materials harvested and rare item acquisition rate."
+"f298c09d","Boosts quantity of rock-type materials harvested and rare item acquisition rate."
+"32aa6ebe","Boosts quantity of liquid-type materials harvested and rare item acquisition rate."
+"f2a7cbe7","Boosts quantity of wood-type materials harvested and rare item acquisition rate."
+"1278764f","Boosts quantity of all four material types harvested and rare item acquisition rate."
 "527b19e6","Enables high-class cooking (using two ingredient types) at camp."
 "52745dd9","Raises rate of great cooking successes at camp."
 "127637f0","Raises rate of great cooking successes at camp even more."
 "52836823","Recover HP slowly while moving."
 "5285a6ba","Lessens negative affect of disliked places; lowers likelihood of getting sick."
 "527d587d","Recover MP slowly while moving."
-"1280c494","Recover more HP and MP while moving."
-"528c62c7","Enables use of second Attack command."
+"1280c494","Recovers massive HP and MP while moving."
+"528c62c7","Unlocking the second attack skill slot enables use of second Attack command in battle."
 "128fcf1e","Enables use of Defend command."
 "7f0fc064","Boosts OP (Order Power) raise rate."
-"7f0d810d","Enables use of third Attack command."
+"7f0d810d","Unlocking the third attack skill slot enables use of third Attack command in battle."
 "7f15d04a","Defend command now reduces damage by 100%."
-"bf126333","Enables use of fourth Attack command."
-"7f06c5c0","Boosts initial OP (Order Power) value (breaks Bond limit)."
+"bf126333","Unlocking the fourth attack skill slot enables use of fourth Attack command in battle."
+"7f06c5c0","Boosts initial OP (Order Power) value. *Stacks OP over the bond limit of 100."
 "7f048769","Raises damage of cooperation-boosted attacks a little further."
 "bf0ba7f6","Huge boost to Critical rate for attacks landed from behind."
 "bf09689f","Slightly raises the effects of attack skills that strengthen your friends."
 "bf23ac1c","Occasionally halves the OP cost when you use a special move."
-"bf216d85","Slightly raises the rate of being granted Status Abnormalities."
-"785cc4c5","Occasionally negates the MP cost when you attack."
-"785f035c","Slightly expands the area of effect of thrown combat items."
-"3860dd6b","Thrown combat items fly faster."
-"38631bc2","Occasionally makes it so that used combat items do not disappear."
-"3851d2e1","Slightly raises the Order Power of a partner who throws a combat item."
+"bf216d85","Slightly raises the rate of inflicting Status Abnormalities."
+"785cc4c5","Occasionally negates the MP cost when your partner attacks."
+"785f035c","Expands the area of effect of thrown items in battle."
+"3860dd6b","Items thrown in battle fly faster and reach your partner quicker."
+"38631bc2","Occasionally makes the cost 0 when an item is thrown in battle."
+"3851d2e1","Slightly raises the Order Power of a partner who catches a combat item."
 "785475b8","Raises the post-battle item drop rate."
 "7856b417","Increases the amount of <icon>BIT</icon> you can collect after battle."
 "385a212e","Raises the post-battle item drop rate even more."
@@ -7038,7 +7027,7 @@ multiplied the results!</color>"
 "e6314292","Boosts efficacy of post-battle parameter increase."
 "a62e9ffb","Further boosts efficacy of post-battle parameter increase and in-battle skill learning rate."
 "a2900514","Digivolution"
-"6fe25301","Digivolution Conditions"
+"6fe25301","Conditions"
 "ca450832","<icon>L</icon> or <icon>R</icon> Switch Partners  <icon>×</icon> Back"
 "ca450833","<icon>L</icon> or <icon>R</icon> Switch Partners  <icon>○</icon> Block On/Off  <icon>×</icon> Back"
 "3842976b","You can't block everything."
@@ -7051,7 +7040,7 @@ multiplied the results!</color>"
 "a49be284","Fix"
 "evo_dojo_empty","-"
 "187cb247","???"
-"evo_dojo_upbringing_miss","TF"
+"evo_dojo_upbringing_miss","Mistakes"
 "evo_dojo_bonds","Bonds"
 "evo_dojo_upbringing","<icon>躾け</icon>"
 "evo_dojo_win","Victory"
@@ -7081,14 +7070,14 @@ multiplied the results!</color>"
 "7845a7","- Tent's durability is now {0}!"
 "7845a0","- Tent has become unusable!"
 "7845a1","Use your tent?"
-"7845a2","Shut down the camp?"
+"7845a2","Break camp?"
 "5a35f157","Move"
 "be0c011","Talk"
 "9b77a5ec","Examine"
 "52937124","Gather"
 "9cc495b4","Operate"
 "53a6ac1a","Normal"
-"53a6ac1b","Ingredient"
+"53a6ac1b","Food"
 "53a6ac18","Digivolution"
 "53a6ac19","Material"
 "53a6ac1e","Valuable"
@@ -7165,15 +7154,15 @@ as little MP as possible."
 "6fa39eb8","<icon>RS←→</icon> Switch Info  <icon>L</icon> or <icon>R</icon> Switch Partners  <icon>○</icon> OK  <icon>×</icon> Back"
 "a0418ec6","<icon>RS←→</icon> Switch Info  <icon>L</icon> or <icon>R</icon> Switch Partners  <icon>□</icon> Description Display On/Off  <icon>×</icon> Back"
 "a0418ec7","<icon>RS←→</icon> Switch Info  <icon>L</icon> or <icon>R</icon> Switch Partners  <icon>×</icon> Back"
-"b0056426","<icon>L</icon> or <icon>R</icon> Switch Partners  <icon>□</icon> Description Display On/Off  <icon>×</icon> Back"
+"b0056426","<icon>L</icon> or <icon>R</icon> Switch Partners  <icon>□</icon> Description On/Off  <icon>×</icon> Back"
 "b0056427","<icon>L</icon> or <icon>R</icon> Switch Partners  <icon>×</icon> Back"
-"fb54819b","In-Training I"
-"fb548198","In-Training II"
-"fb548199","Rookie"
-"fb54819e","Champion"
-"fb54819f","Ultimate"
-"fb54819c","Mega"
-"fb54819d","<color=#FFD700ff>Mega</color>"
+"fb54819b","Baby I"
+"fb548198","Baby II"
+"fb548199","Child"
+"fb54819e","Adult"
+"fb54819f","Perfect"
+"fb54819c","Ultimate"
+"fb54819d","<color=#FFD700ff>Ultimate</color>"
 "fb5481d2","Unknown"
 "1de737dc","Honest"
 "1de737df","Cynical"
@@ -7181,15 +7170,15 @@ as little MP as possible."
 "1de737d9","Fastidious"
 "1de737d8","Hot-Blooded"
 "1de737db","Cool-Headed"
-"f963f058","No Personality"
+"f963f058","None"
 "f963f059","Fire"
 "f963f05a","Ice"
 "f963f05b","Air"
 "f963f05c","Nature"
 "f963f05d","Dark"
 "f963f05e","Holy"
-"f963f05f","Hand-to-Hand"
-"f963f050","Weapon"
+"f963f05f","Martial"
+"f963f050","Machine"
 "f963f051","Filth"
 "c333f7f9","Neutral"
 "c333f7fa","Vaccine"
@@ -7223,22 +7212,22 @@ as little MP as possible."
 "76825052","Trainer"
 "e1435711","Survivor"
 "9e16a3db","Commander"
-"3684025c","Treat Type"
-"597e6a6c","Life Type"
-"30dfc31c","Carrier Type"
-"349a37ce","Reverse Type"
-"56efffc6","Teacher Type"
-"99f4445d","Life-Care Type"
-"ea86013c","Evolving Type"
-"ea4ba28e","Finder Type"
-"a0bb1808","Extractor Type"
-"142a6bd0","Camper Type"
-"d855bbe4","Walker Type"
-"2078203c","Order Type"
-"853b95c5","Tactical Type"
-"4d8e1045","Item User Type"
-"fb6c1217","Drop Type"
-"c186d200","Learning Type"
+"3684025c","Treat System"
+"597e6a6c","Life System"
+"30dfc31c","Carrier System"
+"349a37ce","Rebirth System"
+"56efffc6","Teacher System"
+"99f4445d","Life-Care System"
+"ea86013c","Evolving System"
+"ea4ba28e","Finder System"
+"a0bb1808","Extractor System"
+"142a6bd0","Camper System"
+"d855bbe4","Walker System"
+"2078203c","Order System"
+"853b95c5","Tactical System"
+"4d8e1045","Item User System"
+"fb6c1217","Drop System"
+"c186d200","Learning System"
 "81fb502a","{0} TP"
 "495bc613","Learned"
 "d606b2a3","<icon>○</icon> OK  <icon>×</icon> Back"
@@ -7254,7 +7243,7 @@ as little MP as possible."
 "4ac67d7","Sub-Area"
 "c1f95377","<icon>○</icon> OK  <icon>×</icon> Back to Top"
 "d108471e","<icon>△</icon> Area  <icon>○</icon> OK  <icon>×</icon> Back to Top"
-"142e26cc","<icon>L</icon>Zoom In  <icon>R</icon> Zoom Out  <icon>△</icon> Area  <icon>×</icon> Back to Top"
+"142e26cc","<icon>L</icon> Zoom Out  <icon>R</icon> Zoom In  <icon>△</icon> Area  <icon>×</icon> Back to Top"
 "82da6e06","Search"
 "2e872d33","Your Location"
 "df3c580","Main Quest"
@@ -7267,11 +7256,11 @@ as little MP as possible."
 "965066a5","To Floatia"
 "965066a6","To Nigh Plains"
 "965066a7","To Server Desert"
-"965066a0","To Ohguino Wastelands"
+"965066a0","To Ohguino Wilderness"
 "965066a1","To Logic Volcano"
 "965066a2","To MOD Cape"
 "965066a3","To Bony Resort"
-"965066ac","To Faulty Ex Machina"
+"965066ac","To Fault Ex Machina"
 "965066ad","To Absolute Zero"
 "97506817","To Infinite Cauldron"
 "97506816","To Extra Dungeon"
@@ -7306,7 +7295,7 @@ as little MP as possible."
 "c961de78","To Fire Circuit"
 "c961de79","To Dragon's Trident"
 "c961de7a","To Garbage Pile"
-"c961de7b","To Hidden Red House"
+"c961de7b","To Crimson Shrine"
 "c961de74","To Taomon's Meditation Place"
 "5b697fd6","To Inlet Cape"
 "5b697fd5","To MOD Ship 1.0"
@@ -7421,7 +7410,7 @@ as little MP as possible."
 "22375165","Main Folder"
 "a3a1fd78","Subfolder"
 "dc0655a6","Daily Quests"
-"f2000cfb","Add-On Scenarios"
+"f2000cfb","EX Scenarios"
 "115d6399","From"
 "7e5fda45","You have no mail."
 "39471cf9","<icon>LS↑↓</icon> Choose  <icon>○</icon> OK  <icon>×</icon> Back"
@@ -7444,7 +7433,7 @@ as little MP as possible."
 "a2136490","<icon>L</icon> or <icon>R</icon> Next Tab  <icon>○</icon>OK  <icon>□</icon> Description Display On/Off  <icon>×</icon> Back"
 "1d440c33","<icon>L</icon> or <icon>R</icon> Next Tab  <icon>○</icon>OK  <icon>×</icon> Back"
 "80776bf5","Digivol."
-"aa9a7384","Skill"
+"aa9a7384","Attack Skill"
 "d97a812d","System"
 "f985c70e","Music Volume"
 "6b2edcd2","Voice Volume"
@@ -7471,11 +7460,11 @@ as little MP as possible."
 "e94783f7","Dimensional District Theme "
 "e94783f6","Entertainment District Theme "
 "e94783f5","Taomon's Yin and Yang Theme "
-"e94783f4","Ohguino Wastelands (Day) "
-"e94783fb","Ohguino Wastelands (Night) "
+"e94783f4","Ohguino Wilderness (Day) "
+"e94783fb","Ohguino Wilderness (Night) "
 "e94783fa","Thorn Palace Theme "
-"ea478566","Faulty Ex Machina (Day) "
-"ea478567","Faulty Ex Machina (Night) "
+"ea478566","Fault Ex Machina (Day) "
+"ea478567","Fault Ex Machina (Night) "
 "ea478564","Bony Resort "
 "ea478565","Bony Resort Inside "
 "ea478562","Absolute Zero "
@@ -7495,8 +7484,8 @@ Gained {1} TP."
 "5d1cd988","Please enter the main character's name."
 "5d1cd989","Please enter Partner R's name."
 "5d1cd98a","Please enter Partner L's name."
-"5d1cd98b","You may enter up to 16 characters."
-"5d1cd98c","請輸入16個字以內的半型英文字。"
+"5d1cd98b","You may enter up to 8 letters."
+"5d1cd98c","You may enter between 1 and 12 half-width letters."
 "88f5c3fe","Takuto"
 "e5e9fdb0","Shiki"
 "640e708c","Takuto"
@@ -7512,11 +7501,11 @@ Gained {1} TP."
 "fbd5d21d","Floatia"
 "fbd5d21e","Nigh Plains"
 "fbd5d21f","Server Desert"
-"fbd5d218","Ohguino Wastelands"
+"fbd5d218","Ohguino Wilderness"
 "fbd5d219","Logic Volcano"
 "fbd5d21a","MOD Cape"
 "fbd5d21b","Bony Resort"
-"fbd5d214","Faulty Ex Machina"
+"fbd5d214","Fault Ex Machina"
 "fbd5d215","Absolute Zero"
 "fcd5d38f","Infinite Cauldron"
 "3d5def5","Dimension M"
@@ -7543,7 +7532,7 @@ Gained {1} TP."
 "8df1d1ba","Training Hall"
 "8af1cce6","Entertainment District"
 "8af1cce7","Colosseum"
-"8af1cce4","Arena"
+"8af1cce4","Arcade"
 "8af1cce5","Museum"
 "8bf1ce59","Agricultural District"
 "88f1c980","Dimensional District"
@@ -7565,8 +7554,8 @@ Gained {1} TP."
 "82ed4329","Server Tower Interior"
 "8cfe9bde","Guts Wastes"
 "8cfe9bdd","Secret Graveyard"
-"8cfe9bdc","Dori Tunnel Hub 1"
-"8cfe9bdb","Dori Tunnel Hub 2"
+"8cfe9bdc","Drill Tunnel Hub 1"
+"8cfe9bdb","Drill Tunnel Hub 2"
 "8cfe9bda","Palace of Thorns"
 "8cfe9bd9","Generator Prison Room"
 "8cfe9bd8","Rose Palace"
@@ -7577,7 +7566,7 @@ Gained {1} TP."
 "6fb8a52","Fire Circuit"
 "6fb8a53","Dragon's Trident"
 "6fb8a50","Garbage Pile"
-"6fb8a51","Hidden Red House"
+"6fb8a51","Crimson Shrine"
 "6fb8a5e","Taomon's Medit. Place"
 "20f9748c","Inlet Cape"
 "20f9748f","MOD Ship 1.0"
@@ -7723,15 +7712,15 @@ Gained {1} TP."
 "3ba8fe0c","Jingle: Good"
 "3ba8fe0d","Eir Aoi: ""Accentier"""
 "a1f3cb8e","Call of the Digital World"
-"a1f3cb88","來自數碼世界的召喚"
+"a1f3cb88","Call of the Digital World"
 "a1f3cb8d","Unlimited Mechanical Dragon"
 "a1f3cb8c","Crashing Into New Dimensions"
 "a1f3cb8b","Enforcer"
 "a1f3cb8a","Floatia Ascends"
-"a1f3cb87","開拓鎮上浮"
+"a1f3cb87","Floatia Ascends"
 "a1f3cb89","Reunion"
-"c6a21144","You've been signed out of PlayStation™ Network.
-Can't use Dimensional Box ranking or battle."
+"c6a21144","Signed out of PlayStation™Network. Can't use
+Dimensional Box, ranking, or battle."
 "9adb6b0d","First-Gen Digimon Soundtrack Data"
 "9adb6b0e","Digital Monsters Custom Theme"
 "9adb6b0f","Training Start Dash Set"
@@ -7743,7 +7732,7 @@ Can't use Dimensional Box ranking or battle."
 "9adb6b05","Struggle of the Fates!"
 "9bdb6cff","Revival: Three Gods of Ruin and..."
 "9bdb6cfe","Maycrackmon Comes Crashing"
-"9bdb6cfd","Rotting Melon Set"
+"9bdb6cfd","Chained Melon Set"
 "9bdb6cfc","Training V Boost Set"
 "9bdb6cfb","Strategic Boost Set"
 "9bdb6cfa","Shining Strength Set"
@@ -7770,10 +7759,10 @@ cooperation."
 "7b8e7420","New Game"
 "7b8e7421","Load Game"
 "7b8e7422","System Settings"
-"57f410cd","Choose gender w/ left and right  <icon>○</icon> OK  <icon>×</icon> Back"
+"57f410cd","Choose gender w/ Left Button or Right Button <icon>○</icon> OK <icon>×</icon> Back"
 "392de79c","©Akiyoshi Hongo, Toei Animation
-©2016 BANDAI NAMCO Entertainment, Inc."
-"392de79d","©2016 BANDAI NAMCO Entertainment, Inc."
+©Bandai Namco Entertainment Inc."
+"392de79d","©Bandai Namco Entertainment Inc."
 "2a683eea","Items"
 "2a683eeb","Sleep"
 "2a683ee8","Camp"
@@ -7841,7 +7830,7 @@ cooperation."
 "card_058","Kamemon"
 "card_059","Candlemon"
 "card_060","Guilmon"
-"card_061","Kudamon"
+"card_061","Kudamon (2006)"
 "card_062","Kunemon"
 "card_063","Keramon"
 "card_064","Kokuwamon"
@@ -7925,7 +7914,7 @@ cooperation."
 "card_142","Sunflowmon"
 "card_143","Seadramon"
 "card_144","Coelamon"
-"card_145","Sealdramon"
+"card_145","Sealsdramon"
 "card_146","Shellmon"
 "card_147","GeoGreymon"
 "card_148","Sukamon"
@@ -8025,7 +8014,7 @@ cooperation."
 "card_242","Mantaraymon"
 "card_243","Pegasusmon"
 "card_244","Mambomon"
-"card_245","Prairimon"
+"card_245","Prairiemon"
 "card_246","Rhinomon"
 "card_247","GoldVeedramon"
 "card_248","Rapidmon (Armor)"
@@ -8035,7 +8024,7 @@ cooperation."
 "card_252","Kenkimon"
 "card_253","MegaKabuterimon"
 "card_254","Scorpiomon"
-"card_255","Antylamon"
+"card_255","Antylamon (Deva)"
 "card_256","Andromon"
 "card_257","Indramon"
 "card_258","Infermon"
@@ -8111,7 +8100,7 @@ cooperation."
 "card_328","MetalTyrannomon"
 "card_329","MetalMamemon"
 "card_330","Monzaemon"
-"card_331","Crowmon"
+"card_331","Crowmon (2006)"
 "card_332","RizeGreymon"
 "card_333","Lilamon"
 "card_334","Rapidmon"
@@ -8159,18 +8148,18 @@ cooperation."
 "card_376","Goldramon"
 "card_377","SaberLeomon"
 "card_378","Sakuyamon"
-"card_379","Zhuqiaomon"
+"card_379","Ebonwumon"
 "card_380","Jijimon"
 "card_381","ShineGreymon"
 "card_382","ShineGreymon: Burst Mode"
 "card_383","Justimon: Blitz Arm"
 "card_384","ZeedGarurumon"
 "card_385","ZeedMillenniummon"
-"card_386","Ebonwumon"
+"card_386","Zhuqiaomon"
 "card_387","SkullMammothmon"
 "card_388","Kentaurosmon"
 "card_389","Seraphimon"
-"card_390","MegaGargomon"
+"card_390","SaintGargomon"
 "card_391","Darkdramon"
 "card_392","TigerVespamon"
 "card_393","Titamon"
@@ -8189,7 +8178,7 @@ cooperation."
 "card_406","Leopardmon"
 "card_407","TonosamaMamemon"
 "card_408","Dorugoramon"
-"card_409","Neptunmon"
+"card_409","Neptunemon"
 "card_410","HiAndromon"
 "card_411","Baihumon"
 "card_412","Babamon"
@@ -8232,12 +8221,12 @@ cooperation."
 "card_449","RustTyranomon"
 "card_450","Leviamon"
 "card_451","Lilithmon"
-"card_452","Lucemon: Chaos Mode"
+"card_452","Lucemon: Falldown Mode"
 "card_453","Lucemon: Shadowlord Mode"
-"card_454","Lucemon Rival"
+"card_454","Lucemon: Rival"
 "card_455","Ravemon"
 "card_456","Ravemon: Burst Mode"
-"card_457","Crusadermon"
+"card_457","LordKnightmon"
 "card_458","Rosemon"
 "card_459","Rosemon: Burst Mode"
 "card_460","Flamemon"
@@ -8248,21 +8237,21 @@ cooperation."
 "card_465","Beetlemon"
 "card_466","Kumamon"
 "card_467","Loweemon"
-"card_468","Vritramon"
+"card_468","BurningGreymon"
 "card_469","KendoGarurumon"
 "card_470","Zephyrmon"
 "card_471","MetalKabuterimon"
-"card_472","WarGrowlmon"
-"card_473","Justimon"
+"card_472","Blizzarmon"
+"card_473","KaiserLeomon"
 "card_474","Aldamon"
 "card_475","Beowolfmon"
 "card_476","JetSilphymon"
 "card_477","RhinoKabuterimon"
 "card_478","DaiPenmon"
 "card_479","Rhihimon"
-"card_480","KaiserGreymon"
+"card_480","EmperorGreymon"
 "card_481","MagnaGarurumon"
-"card_482","Magnamon"
+"card_482","Grumblemon"
 "card_483","Gigasmon"
 "card_484","Arbormon"
 "card_485","Petaldramon"
@@ -8277,12 +8266,12 @@ cooperation."
 "card_494","AncientBeetlemon"
 "card_495","AncientKazemon"
 "card_496","AncientMegatheriummon"
-"card_497","AncientMermaidmon"
+"card_497","AncientMermaimon"
 "card_498","AncientTroymon"
 "card_499","AncientWisemon"
 "card_500","AncientSphinxmon"
 "card_501","AncientVolcanomon"
-"card_502","Susanoomon"
+"card_502","Susanomon"
 "card_503","Shoutmon"
 "card_504","Shoutmon X2"
 "card_505","Shoutmon X3"
@@ -8290,12 +8279,12 @@ cooperation."
 "card_507","Shoutmon X4B"
 "card_508","Shoutmon X5"
 "card_509","Shoutmon X5B"
-"card_510","OmniShoutmon"
+"card_510","OmegaShoutmon"
 "card_511","Shoutmon DX"
 "card_512","Shoutmon X7"
 "card_513","Gumdramon"
 "card_514","Arresterdramon"
-"card_515","NeoVamdemon"
+"card_515","NeoMyotismon"
 "card_516","Dorbickmon"
 "card_517","Splashmon"
 "card_518","Zamielmon"
@@ -8322,17 +8311,14 @@ cooperation."
 "card_539","Omegamon Zwart Defeat"
 "card_540","Omegamon Alter-B"
 "45958b0a","Failed to load saved data."
-"b6af77b2","This saved data is invalid and must be
-deleted."
-"2d376e24","遊戲資料製作版本較新。
-為了讀取此遊戲資料，
-請更新應用程式版本至最新版。"
+"b6af77b2","This saved data is invalid."
+"2d376e24","This saved data is from a newer version.
+Please update the application to use it."
 "1e8bc966","Failed to load system data."
 "a013ec76","The system data was corrupted and will now
 be recreated."
-"1a7e6cb8","遊戲資料製作版本較新。
-為了讀取此遊戲資料，
-請更新應用程式版本至最新版。"
+"1a7e6cb8","This saved data is from a newer version.
+Please update the application to use it."
 "3b83f81a","Saving system save data."
 "151ed234","Data save failed. Insufficient available
 memory."
@@ -8340,10 +8326,10 @@ memory."
 "963fb5be","Data save failed."
 "e6a58c74","Retry save?"
 "aee65a8d","Digimon World -next 0rder-"
-"60e19251","{0} Lv. {1} Play Time: {2}"
+"60e19251","{0}{1}  Lv.{2}  Play Time: {3}"
 "31616e6a","This is game data for Digimon World -next 0rder-."
-"f61579d6","數碼寶貝世界 Next Order 第二輪遊戲資料。"
-"f5157850","數碼寶貝世界 Next Order 超困難模式的第二輪遊戲資料。"
+"f61579d6","This is replay data for Digimon World -next 0rder-."
+"f5157850","This is Super Hard replay data for Digimon World -next 0rder-."
 "60c30231","Digimon World -next 0rder-"
 "a14d00e5","System Data"
 "c97e7c96","This is system data for Digimon World -next 0rder-."
@@ -8352,28 +8338,28 @@ Both partners' HP reduced to 0.
 Returning to Floatia."
 "c19c3ead","(Where am I?)"
 "c19c3eac","!"
-"c19c3eaf","(There's something here...)"
-"b834fe54","<color=#ffff00ff>發現已過關的遊戲保存資料</color>
+"c19c3eaf","(There's something over there...)"
+"b834fe54","<color=#ffff00ff>A cleared save data was found.</color>
 
-可繼承部分資料重新開始遊戲。
+You can take over some data and play.
 
-＜可繼承的資料＞
-‧夥伴的進化系圖、已辨識出的進化條件、圖鑑
-‧馴獸師技能、經驗值、已獲得技能
-‧已習得的攻擊技能
-‧持有金錢、LUCK COIN、NWP、卡片
-‧持有道具（不包含貴重品、保存於保存商店的道具）
-‧城鎮的倉庫資源（包含已使用於建築物升級的資源）
-‧地圖探索率
+<Data to be handed over>
+・Partner evolution tree, known evolution conditions, encyclopedia
+・Tamer level, experience points, acquired skills
+・Learned attack techniques
+・Possession money, Luck coins, NWP, cards
+・Possessed items (excluding valuables and items in storage)
+・Material inventory in the town (including the amount used for building upgrades)
+・Map completion rate
 
-要進行繼承嗎？
-"
-"b834fe55","請選擇要進行繼承的遊戲保存資料。"
-"b834fe56","選擇的遊戲保存資料尚未過關。"
-"b834fe57","確定要放棄繼承遊戲保存資料嗎？"
-"f229b39a","可選擇超困難模式開始新遊戲。
-是否以超困難模式開始？
+Do you want to take over?"
+"b834fe55","Please select the save data that you want to carry over."
+"b834fe56","You have selected save data that has not been cleared."
+"b834fe57","Do you want to stop transferring save data?"
+"f229b39a","You can start in Super Hard mode.
+Start with Super Hard mode?
 
-※選擇超困難模式後，遊戲中將無法更改難易度。"
+*If you start in Super Hard Mode,
+ It is not possible to change to another difficulty."
 "a3157822","Welcome to the trial version of Digimon World -next 0rder-! In this trial, you can try out questing in the field and battling with two partners. Enjoy a brand new Digital World for the next five minutes! Now, get started!"
 "d6236476","The trial is now finished! In the full game, you can train your partners, develop your city, camp in the field, and gather tons of different materials. We hope you'll enjoy the full version of the newest Digimon World game, Digimon World -next 0rder-."
