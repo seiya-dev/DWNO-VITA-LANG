@@ -2,33 +2,34 @@
 "40e5e459","{0}! Are you okay?!"
 "3de5df80","?!"
 "3ee5e173","Get back, {0}! We can take it from here!"
-"43e5e912","You just need to give us commands like usual!"
+"43e5e912","You just need to give us commands as usual!"
 "44e5ea85","?!?!"
 "41e5e5cc","What is it, {0}?!"
 "42e5e7bf","You've always given us commands in battle!"
 "47e5ef5e","?!?!?!"
-"48e5f131","You seem really confused all of a sudden...?"
+"48e5f131","You seem really confused all of a sudden!"
 "45e82aef","It can't be helped. We'll back you up."
-"44e8297c","You have got to be kidding me. You're not supposed to forget
-us...your partners!"
+"44e8297c","You've gotta be kidding me. You're not supposed to forget
+us--your partners!"
 "f82dae36","Ugh... So strong..."
 "f72dac43","..."
 "f62daad0","No good?"
-"fd2db5d5","No... I have to keep going. I have finally met
-{0}...and this is where I'm a goner?!"
-"fc2db462","I see... If we are defeated here... But we won't let that
-happen...to {0}!"
+"fd2db5d5","No... I have to keep going. I've finally met
+{0}... And this is where I'm a goner?!"
+"fc2db462","I see... We may be defeated here... But we won't let that
+happen... to {0}!"
 "fb2db28f","!!!"
-"fa2db11c","What is this...the light of a Bond?"
-"12dbc01","I can feel power... The Bond is transforming into power?"
-"2dbaae","Let's go! We'll be all right with {0} here..."
+"fa2db11c","What is this... The light of a Bond?"
+"12dbc01","I can feel the power... The Bond is transforming into power!"
+"2dbaae","Let's go! As long as {0}'s with us..."
 "f32b67a0","We can still fight!"
 "3491708c","Urgh... {0}..."
 "37917545","This isn't the time to be sleeping! We must defend our
-partners!"
+partner!"
 "369173d2","Argh!"
 "31916c33","{0}... You're all right..."
-"30916a40","Yes, I'm okay. What about you?"
+"30916a40","Yes, I'm okay.
+What about you?"
 "33916f19","Don't worry about us... We're partners..."
 "32916da6","Umm... Just one thing..."
 "aee268e7","Hrm?!"
@@ -41,14 +42,14 @@ destabilized the other dimension."
 "aae262bb","Still, you shouldn't have been able to defeat the
 Machinedramon..."
 "abe2642e","Hmph. These must be your partners."
-"ace26581","Two partners... This is very curious relationship."
+"ace26581","And two of them, no less. That's an odd relationship."
 "a5e25a9c","They did everything they could to defend you..."
 "a6e25c0f","..."
-"b3e4af7d","Heh! No need to look so depressed."
+"b3e4af7d","Heh-heh-heh! No need to look so depressed."
 "bdf4b784","This is a tremendous success!"
 "c0f4bc5d","Why don't you give your reborn partners names?"
 "bff4baea","Then their rebirths will be complete."
-"baf4b2cb","Just remember as their Tamer, you have a duty to care for
+"baf4b2cb","Just remember: As their Tamer, you have a duty to care for
 them."
 "b9f4b158","Hmm... You don't seem to understand what's what."
 "bcf4b611","I am just as in the dark as you."
@@ -67,21 +68,21 @@ the city we are in, Floatia, is in disarray."
 "118864e","It's because of the Machinedramon."
 "1884db","It suddenly started attacking us for no reason, and did a
 lot of damage to the city."
-"ff188368","The power of a Mega is overwhelming... It appeared from
+"ff188368","The power of an Ultimate is overwhelming... It appeared from
 nowhere, caused massive damage, and then disappeared."
-"fe1881f5","We were at our wit's end..."
-"fd188002","I mobilized my knowledge and technology to built a trap, in
+"fe1881f5","We were at our wits' end..."
+"fd188002","I mobilized my knowledge and technology to build a trap, in
 order to capture the Machinedramon."
 "164664","I thought that when it appeared, I could transport it to
 another dimension and imprison it."
-"11647d7","The plan worked. In fact the plan went even better than
+"11647d7","The plan worked. In fact, the plan went even better than
 expected."
 "216494a","Thanks to you, we were able to defeat that Machinedramon."
 "3164b3d","But that doesn't mean the danger has entirely passed..."
 "fc164038","?"
 "fd1641ab","The phenomenon of a Machinedramon getting violent and then
 disappearing has occurred several times, in many areas."
-"fe16431e","It would be hard to believe that it is just one lone Mega
+"fe16431e","It would be hard to believe that it is just one lone Ultimate
 Digimon doing all this damage."
 "ff1644f1","We were able to survive this time because of your valiant
 efforts."
@@ -99,10 +100,10 @@ Tokomon, albeit weakly..."
 city Digivolved into a Machinedramon?"
 "701db259","I've never heard of such a Digivolution... Wait. There's
 something here in the cloud memory..."
-"6f1db0e6","But why did Tokomon Digivolve into Machinedramon?
+"6f1db0e6","But why did this Tokomon Digivolve into Machinedramon?
 Or at least an altered form of Machinedramon?"
 "7a1dc217","Hmmm... We won't be able to figure it out with just this
-small amount of information from Tokomon."
+small amount of information from this Tokomon."
 "791dc0a4","But it looks like we finally have a chance to actually do
 something about this threat."
 "6c1b6db6","We need to act!"
@@ -123,7 +124,7 @@ must have something to do with this transformation."
 "751b7b81","So go out with your partners and look for the residents
 who fled the city."
 "6e0ea489","I will look into this small amount of strange data we have
-collected from Tokomon."
+collected from this Tokomon."
 "6d0ea316","Maybe I will be able to unravel the mystery of this altered
 form..."
 "6c0ea1a3","If we can detect abnormal information, we may be able to
@@ -131,7 +132,7 @@ avoid further damage here."
 "6b0ea030","That's why I first intend to make a detection device."
 "720eab35","If I have any news, I will send you a DigiMail. So please
 check your Digivice."
-"710ea942","So, {0}... I'm counting on you."
+"710ea942","So then, {0}... I'm counting on you."
 "a7fd6ff5","How is the search for the residents going?"
 "a4fd6b3c","I haven't been able to detect any abnormality in the data in
 the city, so please go out and look for residents."
@@ -145,16 +146,16 @@ way you were, they're probably in trouble."
 you should also go check them out."
 "11dac28d","If we can exchange information, maybe we can find out why
 humans have been pulled into the Digital World."
-"10dac11a","And maybe we could solve some other mysteries, too...like
-how we can send you all home..."
+"10dac11a","And maybe we could solve some other mysteries, too... Like
+how we can send you all home."
 "3daac83","The witness reports are coming from the south of Nigh
 Plains. Be careful!"
 "c6d4b1e3","Himari! Look! Look! It's a human!"
 "c7d4b356","Whoa, Rikka!
 Don't get too close!"
-"c8d4b4c9","I told you. We don't know what' going on here, so we have
+"c8d4b4c9","I told you. We don't know what's going on here, so we have
 to be careful."
-"c9d4b6bc","But, but...this person looks kind..."
+"c9d4b6bc","But, but... This person looks kind!"
 "cad4b82f","Those are the most dangerous types of people! It's not
 normal, and probably not sincere!"
 "cbd4b982","Hey!"
@@ -168,10 +169,10 @@ Kouta really is a good person."
 "49d7be93","What are you talking about?"
 "48d7bd20","Nothing important. We're discussing whether or not this
 person is a big bad wolf."
-"4fd7c825","Anyway...at least tell us your name, okay?"
+"4fd7c825","Anyway... At least tell us your name, okay?"
 "4ed7c6b2","Before you ask someone's name, isn't it polite to give your
 own name first?"
-"4dd7c4df","Yukimura...you're always so formal. You said the exact same
+"4dd7c4df","Yukimura, you're always so formal. You said the exact same
 thing when we first met."
 "4cd7c36c","It's called manners. It really goes without saying."
 "53d7ce51","Well, I guess I need to learn by your example.
@@ -186,26 +187,26 @@ Show us how it's done!"
 I've heard that name somewhere..."
 "4bda0050","Hmmm..."
 "4cda01c3","Kouta... Do you have something to eat?"
-"59da165a","Only two Digistalks... I want to go in farther, but there's
-an aggressive Digimon in the way."
+"59da165a","Only two Digishroom… I want to go in farther,
+but there's an aggressive Digimon in the way."
 "5ada17cd","There's not much around here for Digimon to eat. We don't
 even know how to get back to our own world."
 "57dc51eb","Oh yeah! {0}, how did you get here?"
 "56dc5078","{0} explained the situation."
-"59dc5531","You can't get back to the real world, even from um, Floatia?"
-"58dc535e","Well... {0} is still here, so there must be no
+"59dc5531","You can't get back to the real world, even from, um, Floatia?"
+"58dc535e","Well... If you're still here, there really must be no
 way back, right?"
 "5bdc5817","Could the problem be the Machinedramon attacks? This world
 is in trouble..."
 "5adc56a4","No thanks to you, Kouta...
 But first things first. What do we do about this?"
-"5ddc5b7d","Right! Let's see if we can get to Floatia. We can take these
+"5ddc5b7d","Well, let's see if we can get to Floatia. We can take these
 Digimon too, right?"
 "f382b716","Oh! I just remembered!"
-"f282b5a3","{0}... It was {0}, right?!"
-"f182b430","Didn't you hear the first time?"
+"f282b5a3","{0}... That name you told us!"
+"f182b430","What? Didn't you hear the first time?"
 "f882bf35","You don't remember anything, Kouta?"
-"f782bd42","What? I'm supposed to know this person or something?"
+"f782bd42","I'm supposed to know this person or something?"
 "f682bbef","Do you remember the national Digital Monsters tournament
 when we were in 5th grade?"
 "f582ba7c","Of course! We only got into the top four, but it was still
@@ -215,10 +216,10 @@ one of the best moments of my life."
 "ee807080","What?! It was {0}?!"
 "ef807273","Kouta was so nervous, I don't think he'd remember you,
 {0}."
-"f08073e6","And Himari had just got into high school so probably
-wouldn't know {0}, either."
+"f08073e6","And Himari had just got into high school, so she probably
+wouldn't know you, either."
 "f1807559","Heh heh heh... Anyway... Where is Jijimon's house?"
-"d6a99691","Hmph. I see."
+"d6a99691","Hmm. I see."
 "d3a991d8","Of the four strongest participants in the same tournament,
 three have mysteriously been pulled into the Digital World."
 "d4a9934b","I feel like this has to be more than just coincidence."
@@ -234,17 +235,17 @@ much trouble already, I'd want to investigate these devices."
 Digital World."
 "dbabdd27","If we could do something about the Machinedramon, will you
 help us get back to the real world?"
-"daabdbb4","Yes. I have already promised {0}."
+"daabdbb4","Yes. I have already made a promise to {0}."
 "ddabe00d","Then you'll have our help as well."
 "dcabde9a","We'll do anything we can to help, if there is a way to get
 back to the real world."
 "d7abd6fb","So what should we do?"
 "d6abd508","{0} has been bringing residents back to
-Floatia, and has really helped with its recovery."
+Floatia and greatly assisting in its recovery."
 "d9abd9c1","There's still the threat of the violent Digimon... Would you
 perhaps act as bodyguards?"
 "d8abd86e","Bodyguards? That sounds super cool! Leave it to us!"
-"d3abd04f","Heh! You sound motivated, anyway."
+"d3abd04f","Heh! You sound motivated, at least."
 "d2abcedc","Anyway, I've been building a device that will be able to
 detect the presence of Machinedramon."
 "49a43b4c","It will take some time for me to finish it, with just me
@@ -274,7 +275,7 @@ when you trespassed in my home?"
 you to come and get me?"
 "5eb5888","I can't say that I am entirely unconcerned about the plight
 of the Digital World..."
-"6eb5a7b","But nature is itself impermanence. I believe in becoming one
+"6eb5a7b","But nature is in itself impermanent. I believe in becoming one
 with the flow, like a twig on the river."
 "beb621a","Furthermore, you are an alien species in this world. There
 is nothing you can do to help."
@@ -293,15 +294,15 @@ Digital World, too. Why?"
 Digimon"" in the Digital World..."
 "fde90db9","...is so that we can find a way back to the real world."
 "fce90bc6","I was not aware..."
-"fbe90a53","As an unclean entity, all you need to do is to wait for the
-Enforcer to clean you and your presence away."
+"fbe90a53","As an unclean being, you need only wait for the Enforcer
+to cleanse you from this world."
 "fae908e0","Although I don't know if that would result in you being
 returned to your world or not."
-"9e9205d","Enforcer? If you have such a thing, why hasn't it already
-taken care of the Machinedramon?"
+"9e9205d","""Enforcer?"" If you've got an Enforcer, 
+how come they haven't taken care of the Machinedramon already?"
 "8e91eea","Hmm... There is logic in that question."
-"7be6027c","Why hasn't the Enforcer of order in this world taken action
-against the unclean Machinedramon...?"
+"7be6027c","Why hasn't the Enforcer of order in this world 
+taken action against the unclean Machinedramon...?"
 "7ce603ef","..."
 "7de60542","What are you thinking about?"
 "7ee60735","I am of a mind to grant you a single chance."
@@ -321,7 +322,7 @@ shouldn't be in this world."
 "30c9990d","It definitely isn't a flower from the Digital World."
 "2fc9979a","Himari, do you think we should take the flower?"
 "2ec99627","No... He told us just to report what happened to the seed.
-And we don't know what will happen if we pluck it."
+And we don't know what'll happen if we pluck it."
 "2dc994b4","Let's leave the strange flower here, and just go and tell
 Taomon what we saw."
 "24c98669","Okay."
@@ -331,9 +332,9 @@ Taomon what we saw."
 "5792a721","{0} told Taomon that a flower bloomed."
 "5892a894","I see... It grew into a flower."
 "5992aa07","That's what we said. Does this mean that you'll help us now?"
-"5a92abfa","Otherwise we're going to drag you back with us if we
+"5a92abfa","Otherwise, we're going to drag you back with us if we
 have to!"
-"5b92ad6d","I see... I really didn't want it to come to this. But I am
+"5b92ad6d","Huh... I really didn't want it to come to this. But I am
 going to have to speak with that old fossil."
 "4c9295f0","Old fossil? You mean Jijimon?"
 "4d929763","Well... I haven't used this in a while, but here we go..."
@@ -353,14 +354,14 @@ to Floatia."
 "e097fbda","See you there, {0}!"
 "5b427560","{0}! Good work!"
 "5e427a39","You managed to coax the eccentric Taomon back to city for
-the first time in a long time."
+the first time in a long while."
 "5d427846","This is why people don't like hanging out with you, old man."
 "60427d1f","Harrumph, I see you're as rude as always!"
-"5f427bac","Um, so...you two are...friends?"
+"5f427bac","Um, so... You two are... friends?"
 "62428065","We both like arguing... I guess that's a type of friendship."
 "61427ef2","And? What is this about a Machinedramon Detector? According
 to {0}, things are pretty serious."
-"6442834b","I've completed the basic logic and I've just about managed
+"6442834b","I've completed the basic logic, and I've just about managed
 to make a prototype."
 "634281d8","But if there isn't a large abnormal data wave, it can't
 detect it. Its range is limited to within this city."
@@ -370,9 +371,8 @@ detect it. Its range is limited to within this city."
 "f53f9617","Must be malfunctioning. This is the worst-case scenario.
 I never imagined things were this bad."
 "f23f915e","However, that doesn't mean it's stopped operating entirely."
-"f33f9331","Hey! Could you stop already?"
-"f03f8e78","Please stop talking about things only the two of you
-understand!"
+"f33f9331","Hey! Could you knock it off?!"
+"f03f8e78","Please stop talking about things without explaining them to us!"
 "f13f8feb","Oh! I'm sorry."
 "ee3f8b12","The Digital World is equipped with a self-cleaning feature
 to prevent data corruption."
@@ -393,7 +393,7 @@ world is in such grave danger."
 the Machinedramon Detector."
 "e83d4329","Wouldn't it be better to fix the self-cleaning function
 before making a Machinedramon Detector?"
-"e73d41b6","Then the Machinedramon issue would be automatically solved?"
+"e73d41b6","Then the Machinedramon issue would be automatically solved."
 "ea3b0798","That'd be impossible. We wouldn't know where to begin."
 "eb3b090b","I see... I thought it was a good idea..."
 "ec3b0afe","Hey... Can we take a break until the machine is ready?"
@@ -410,7 +410,7 @@ help!"
 "f44c60b7","Okay!"
 "237523cd","Wait a second, {0}."
 "20751f74","I want to give you this."
-"217520e7","{0} got a Taoistic Charm from Taomon."
+"217520e7","You received a Taoistic Charm from Taomon."
 "1e751c2e","I use this Taoistic Charm to locate coordinates whenever I
 open up a space portal gate."
 "1f751d81","As long as you have this charm, I'll be able to open up a
@@ -425,36 +425,34 @@ stingy."
 one Taoistic Charm."
 "77736b0","You must really like {0} if you're willing to
 hand over something so precious."
-"a773b09","Well... {0} has two partners, and defeated a
-Mega Machinedramon. So I am curious..."
+"a773b09","Well... {0} has two partners, and defeated an
+Ultimate Machinedramon. So I am curious..."
 "9773996","Heh heh... I understand. {0}, we're
 counting on you!"
 "c01b4fca","Hey! You came at just the right time, {0}!"
-"bf1b4e57","I was just speaking with Taomon. Thanks to you, this city
-has really started to grow."
-"be1b4ce4","Taomon is here now, and we really want to make the place
-grow even bigger."
-"bd1b4b71","If you bring even more Digimon here, we're going to need a
-lot more space."
-"bc1b499e","Plus we're building the detector here too, so things are
+"bf1b4e57","I was just speaking with Taomon. 
+Thanks to you, this city has really started to grow."
+"be1b4ce4","Taomon is here now, and we really want to make the place grow even bigger."
+"bd1b4b71","If you bring even more Digimon here, we're going to need a lot more space."
+"bc1b499e","Plus, we're building the detector here too, so things are
 getting pretty cramped."
-"bb1b482b","I want my apprentices Meramon and Kyubimon at Logic Volcano
-to come and help with the rebuilding work."
-"ba1b46b8","If we all work together, it won't take so long. Perhaps
+"bb1b482b","I want my apprentices Meramon and Kyubimon at
+Logic Volcano to come and help with the upgrades."
+"ba1b46b8","If we all work together, it won't take so long. Maybe even
 just a single day."
 "b91b44c5","It will take some time, but I think it will be worth the
 wait."
 "f4fbe619","Oh! You're back, {0}!
-As you can see, the city is much bigger now!"
-"f1fbe140","Because of all the residents you brought in, we finished
-early. It looks like the detector will be ready soon, too."
+As you can see, the city's a lot bigger now!"
+"f1fbe140","Because of all the residents you brought in, 
+we finished early. It looks like the detector will be ready soon, too."
 "f2fbe333","I'm afraid I am going to have much more work for you, but I
 know that you're up to the task."
 "1b3be6b2","I've been waiting for you, {0}!"
 "1a3be4df","The Machinedramon Detector is ready!"
 "193be36c","We did a quick survey of the whole area with it, but we
 didn't pick up any signs of Machinedramon."
-"183be1f9","But...there are indications of an alien data wave that might
+"183be1f9","But... There are indications of an alien data wave that might
 be caused by an altered form."
 "173be006","The location is in Server Desert, in a village where a lot
 of Digimon live."
@@ -469,7 +467,7 @@ protectors, this place will also be in danger."
 this one."
 "9838d982","No need to worry about that."
 "9938db75","Himari! And who is that...?"
-"9238d070","Rikka! I Digivolved from Salamon to Gatomon!"
+"9238d070","Rikka! Digivolved from Salamon to Gatomon!"
 "9338d1e3","What?! Rikka?! Why?"
 "9438d356","Because Rikka wanted to protect the residents of the city
 from those violent Digimon, of course."
@@ -506,7 +504,7 @@ So big... So huge... Digimon...?"
 "6ed7112d","No! Dammit! We were too late?!"
 "6dd70fba","Jijimon said there was a village here..."
 "ecda163e","There is! Just over there! Everyone is so friendly and warm!"
-"edda1791","Ah! But now it is totally destroyed..."
+"edda1791","Ah! But now it's totally destroyed..."
 "eada12d8","A strange guy with a knitted hat came. He did something to
 a Shoutmon, and then there was a Machinedramon!"
 "ebda144b","I was so scared."
@@ -537,11 +535,11 @@ Leave this to the one who fights for justice!"
 "eef55baa","Yukimura, show it the power of the crimson dragon!"
 "e9f5538b","You got it! Exhaust Flame!"
 "e8f55218","All knocked out..."
-"ebf556d1","But...you Digivolved..."
-"eaf5557e","I'm sorry...Kouta..."
+"ebf556d1","But... you Digivolved..."
+"eaf5557e","I'm sorry, Kouta..."
 "e5f54d5f","Yeaarrrgh!!!"
 "757210f1","Whoa... You got it!"
-"72720c38","It was only a Rookie Digimon, but it turned into a Mega...
+"72720c38","It was only a Child Digimon, but it turned into an Ultimate…
 This must be the altered form."
 "73720dab","I'm a little jealous..."
 "7872154a","Kouta..."
@@ -570,7 +568,7 @@ I'm not sure."
 "272e4ef6","You're back, {0}."
 "262e4d03","You've defeated another Machinedramon. Very impressive work,
 Tamers!"
-"252e4b90","But...we didn't save the village... If only we had done
+"252e4b90","But we didn't save the village... If only we had done
 a better job..."
 "2c2e5695","You can't take responsibility for that."
 "2b2e5522","You did save Luche and Shoutmon. That was no small feat."
@@ -579,12 +577,12 @@ a better job..."
 "302e5cc1","Do you remember what happened when you turned into
 Machinedramon?"
 "2f2e5b6e","Umm... There was this human in a knitted hat. Then it felt
-like something was changing inside me..."
+like something was changing inside of me..."
 "222c0860","I don't remember anything else... Sorry, I'm pitiful!"
 "232c09d3","A human with a knitted hat... So there is another person
 here other than us."
 "242c0b46","That's right! Luche said she saw a person wearing a knitted
-hat, too!."
+hat, too!"
 "252c0d39","He said something about Mameo!"
 "262c0eac","Mameo?"
 "272c101f","And...the man had a Mamemon thing on his hat! Like...
@@ -596,8 +594,8 @@ a patch!"
 suspicious..."
 "3432e05b","Hmm... So there is a fifth human..."
 "3332dee8","That's right. The Digivices the three of you carry..."
-"3632e3a1","They were prizes for being in the top four at a Digital
-Monster tournament you were in as children."
+"3632e3a1","They were prizes for being in the top four in a Digital
+Monster tournament when we were kids."
 "3532e1ce","Yes... The other person... The one who won the tournament..."
 "3832e687","Shoma Tsuzuki..."
 "3732e514","Yes! Tsuzuki! Could he be Mameo?!"
@@ -615,13 +613,13 @@ person, but he must have some pertinent information..."
 it doesn't seem to have anything to do with Mameo."
 "28308ec0","My memory is really bad... I don't remember much about
 myself, even."
-"293090b3","Could the shock of the Machinedramon attack made you lose
+"293090b3","Could the shock of the Machinedramon attack have made you lose
 your memory temporarily?"
 "3630a4ca","No... It's more than that... I can't remember anything."
 "3730a6bd","I do remember being on my own. I was traveling..."
 "c03839cd","Now we have one more mystery."
 "bf38385a","If we can just find Mameo, everything will become clear."
-"be3836e7","I think you're being overly optimistic. Even finding Mameo
+"be3836e7","I think you're being overly optimistic. Finding Mameo
 is going to be difficult."
 "bd383574","Where there's a will, there's a way."
 "bc383381","What way would that be?"
@@ -632,8 +630,8 @@ there and capture Mameo before he can do anything."
 "b9382ec8","That's basically what we've already been doing."
 "b8382d55","Basically, yes. But your main goal will now be to capture
 Mameo. The purpose has changed."
-"b7382be2","This is a progress of a sort."
-"ba35f1c4","So we all have to just wait until an abnormal data wave is
+"b7382be2","This is progress of a sort."
+"ba35f1c4","So we all just have to wait until an abnormal data wave is
 detected?"
 "bb35f3b7","Yes, for the time being."
 "bc35f52a","I would be grateful if you could resume your search for
@@ -643,7 +641,7 @@ attacks so there are no more tragic losses."
 "b635eb98","You are determined to build a secure base."
 "b735ed0b","Yes. A place where everyone can be safe. That is the
 principle behind Floatia."
-"b835eefe","Sorry...but I'm out."
+"b835eefe","Sorry, but I'm out."
 "b935f051","If we have some free time, I want to train with Yukimura."
 "b235e56c","I'm out of this one, too. There are some things I need to
 think through."
@@ -652,14 +650,13 @@ think through."
 I'll do whatever I can.
 No."
 "2b3d5fac","I knew it!"
-"2e3d6465","Heh. I see you are comprehending the concept of going with
+"2e3d6465","Heheh. I see you are comprehending the concept of going with
 the flow. You're almost like a twig."
 "2d3d62f2","Don't be like that. It's only a small task."
 "283d5ad3","All right, then. Everyone is dismissed. If we get a signal,
 we'll contact you."
 "34bff6c3","Here you are! Let's get started."
-"35bff8b6","Are you surprised? Rikka Digivolved. But we can talk about
-that later."
+"35bff8b6","Are you surprised? Rikka Digivolved. But we can talk about that later."
 "36bffa29","Indeed... I briefly mentioned this in my DigiMail."
 "37bffb9c","We received a signal on the Machinedramon Detector."
 "38bffd0f","The signal is coming from the northern part of Server
@@ -667,10 +664,9 @@ Desert. You need to head there quickly."
 "39bffee2","But we also need someone to stay behind and defend the
 city..."
 "3ac00055","I'll stay behind. Let's go, Yukimura."
-"3bc001c8","Okay."
+"3bc001c8","OK."
 "3cc003bb","Hmm... I was going to ask for volunteers."
-"39c23d59","Kouta still seems upset. I think he still feels responsible
-for what happened."
+"39c23d59","Kouta still seems upset. I think he feels responsible for what happened."
 "38c23be6","{0}, I want to go see how Kouta is doing. Will
 you go over to Server Desert and check things out first?"
 "37c23a73","I will open the gate to get back, so you don't have to worry
@@ -684,7 +680,7 @@ Get some evidence first."
 "40d70503","Good idea. We don't want to give him a chance to get away."
 "41d706f6","You mean you want us to wait until we're sure he's behind
 the altered forms?"
-"42d70869","Seems like a big risk, but okay... I guess it will make
+"42d70869","Seems like a big risk, but OK... I guess it'll make
 things easier later."
 "4bd716b4","?!"
 "4cd71827","Failed again..."
@@ -719,7 +715,7 @@ what you think."
 harder for yourself."
 "6aee2826","Come on! We need to know! Tell us how we can get back to the
 real world."
-"6bee2999","I see! There is no way back to the real world for you."
+"6bee2999","I see! So there's no way back to the real world for you."
 "74ee37e4","Huh... Why?"
 "75ee3957","The network between the Digital World and the real world
 has disconnected."
@@ -732,7 +728,7 @@ back to the real world."
 to get rid of the curse."
 "faf5c6bb","The network is blocked, and my partner is in this state.
 Why would I lie to you?"
-"f9f5c4c8","No... I need to get home..."
+"f9f5c4c8","No... I need to get home right away..."
 "fcf5c981","I'm sorry I can't help."
 "fbf5c82e","If there is something else you want to know, feel free to
 ask me."
@@ -740,13 +736,13 @@ ask me."
 You came here on your own?
 What is that egg?"
 "f6f5c00e","There's a curse?
-You came here on your own?"
+You came here to the Digital World on your own?"
 "f6f5c00d","There's a curse?
 What is that egg?"
-"f6f5c00c","You came here on your own?
+"f6f5c00c","You came here to the Digital World on your own?
 What is that egg?"
 "f6f5c00b","There's a curse?"
-"f6f5c00a","You came here on your own?"
+"f6f5c00a","You came here to the Digital World on your own?"
 "f6f5c009","What is that egg?"
 "f5f5be9c","Yes... It's a long story... But once, a long long time ago,
 there was a man who wanted to rule the Digital World."
@@ -754,39 +750,38 @@ there was a man who wanted to rule the Digital World."
 behind a terrible curse."
 "f9f38651","You have seen the effects of the curse. It forces Digimon to
 turn into Machinedramon."
-"f6f38198","I thought I could do something about the curse...but..."
+"f6f38198","I thought I could do something about the curse, but..."
 "f7f3830b","Yes... I used the Digital Dive method to get here."
 "fcf38b2a","?"
 "fdf38c9d","It's a little unconventional, and even I don't know the
 principle behind it."
-"faf387c4","Being able to use it is like a reward for saving the Digital
-World in the past."
+"faf387c4","Being able to use it is like a reward for saving the Digital World in the past."
 "fbf389b7","This DigiEgg is what my partner was reincarnated as."
 "f0f37806","I believe my partner was attacked by a strange program, and
 for protection now sleeps as a DigiEgg."
 "f1f379f9","Anyway, thank you so much for defeating the Machinedramon!"
-"fae6bc31","The reason for the curse is that I didn't defeat that man
+"fae6bc31","The curse exists because I didn't defeat that man
 when I had the chance..."
 "f9e6ba5e","I wanted to fix it and that's why I used the Digital Dive to
 try and help the Digimon affected by the curse."
-"f8e6b8eb","But I'm kind of out of my element here, and am at something
+"f8e6b8eb","But I'm kind of out of my element here, and at somewhat
 of a loss."
 "f7e6b778","I hope that you will be able to help me some more in the
 future."
 "fee6c27d","Thank you... I need to ask you something. I've never seen
 someone with two partners..."
-"fde6c08a","But setting that aside for a moment...can you tell me what
+"fde6c08a","But setting that aside for a moment... Can you tell me what
 you know about the situation?"
 "fce6bf17","{0} explained what's happened so far."
 "fbe6bda4","I see... The self-cleaning function is malfunctioning."
 "f2e6af59","I think we've resolved a few things here, but the question
-about why the abnormalities are happening remains."
+as to why the abnormalities are happening remains."
 "f1e6ade6","..."
 "f4e473c8","What?!"
 "f5e475bb","Kouta! Has something happened in the city?!"
-"f6e4772e","No! But it is really serious!"
+"f6e4772e","No! But it's serious!"
 "f7e47881","Ah! Mameo!"
-"f8e47a74","This is Mameo?! Wow... Tsuzuki... You've aged..."
+"f8e47a74","This is Mameo?! Wow... Tsuzuki, you've aged!"
 "f9e47be7","No! This is a different person! Anyway, what's happened?"
 "fae47d5a","The detector has been getting a new signal! It's not just
 one or two..."
@@ -794,14 +789,14 @@ one or two..."
 "ece46750","We need to get out of here quick! We can't let ourselves
 be surrounded!"
 "ede468c3","Mameo...?! Did you...?!"
-"66ebe303","We don't have time for your false accusations now. We must
-hurry..."
+"66ebe303","All I can tell you is it sounds like a false accusation. But
+is now really the time? We're in a hurry."
 "65ebe190","No... We're already too late..."
 "68ebe669","What should we do?!"
 "67ebe4f6","{0} has taken on one... Rikka has experience
 too, but these numbers..."
 "6aebe94f","We'll figure something out! Yukimura, lead the way!"
-"69ebe7dc","Whoa! So freakin' huge!"
+"69ebe7dc","Whoa! That thing is huge!"
 "69ebe7dd","Ah!"
 "6cebec95","This will take all of our strength!"
 "6bebeb22","Whooaaaahhh!"
@@ -813,7 +808,7 @@ world!"
 "fee900d4","What is that?!"
 "ffe90247","Argh... It's coming!"
 "fce8fd8e","What...? Just looking at it... Can't stop trembling..."
-"fde8ff61","That Machinedramon...with a single blow?"
+"fde8ff61","That Machinedramon... with a single blow?"
 "fae8faa8","What kind of power IS that?!"
 "fbe8fc1b","Fighting for ""justice""?"
 "f8e8f742","Hopeless... This one's..."
@@ -825,7 +820,7 @@ world!"
 "7edcfe41","It's too fast! We can't escape!"
 "7ddcfcee","Grrraaaawwwrrr!"
 "7cdcfb7b","No... Is this really it?"
-"7bdcf988","Sakura...Nazuna...I'm sorry..."
+"7bdcf988","Sakura... Nazuna... I'm sorry..."
 "7adcf815","Taomon's gate?!"
 "79dcf6a2","Jump through it."
 "7cdabc84","A woman's voice... That's not Taomon?"
@@ -919,9 +914,9 @@ I hope it turns into a lovely flower!"
 good ol' Yukimura."
 "7c195eca","Himari is really homesick... I want to help Himari any way
 I can..."
-"752750b2","I've been to lots of places before... But this..."
-"76275225","There are lots of Digimon in fear... They're terrified..."
-"73274d6c","There is so much fear and sorrow..."
+"752750b2","I've been to lots of places before! But this..."
+"76275225","So many scared Digimon, all ""Gah!"" and ""oooh..."""
+"73274d6c","So much scaredness and sadness..."
 "997dfd4","You're helping us, so we'll help you. Go and find this
 Taomon!"
 "c703b023","You met Taomon?! Huh... He wants you to plant a seed?"
@@ -935,18 +930,17 @@ weird stuff..."
 lots of city residents!"
 "b5366986","Maybe if I'd tried harder, we could have saved them..."
 "b6366b79","I'm pathetic..."
-"1b73ded7","Rikka is Ultimate now... Strong enough to defeat
+"1b73ded7","Rikka is Perfect now... Strong enough to defeat
 Machinedramon... You don't have to worry about us!"
-"78f966f","I'm going, too! Maybe it will help me remember something."
-"68f94fc","I don't like staying behind! I wanna come!"
-"f506a4bb","I will protect Floatia even if it costs my life! Don't you
-worry!"
+"78f966f","I'm going, too! Maybe it'll help me remember something."
+"68f94fc","Staying behind is boring! I wanna go, too!"
+"f506a4bb","I'll guard Floatia with my life! Don't you worry!"
 "3f308d0","You have to plant a seed? I don't understand Taomon, but at
-least you don't have to worry about the city."
+least you don't have to worry about guarding the city."
 "ce6dd693","You planted the seed? Now you have to wait 24 hours?
 You could use that time to train."
 "d85f371d","A flower bloomed... I feel that has to mean something."
-"f425061c","I will train hard for Kouta!"
+"f425061c","I'll do any training for Kouta!"
 "b5630db1","It's my fault that the village couldn't be saved. I need to
 get stronger!"
 "58b65054","I couldn't help Kouta... I'm pathetic..."
